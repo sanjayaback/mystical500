@@ -1,0 +1,1592 @@
+[
+  {
+    "id": "love-compatibility-calculator",
+    "slug": "love-compatibility-calculator",
+    "name": "Love Compatibility Calculator",
+    "tagline": "Are you and your partner a good match?",
+    "description": "Enter two names and birthdays to get a full love compatibility reading.",
+    "keywords": [
+      "love compatibility calculator",
+      "are we compatible",
+      "relationship compatibility"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Love Compatibility Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Love Compatibility Calculator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-compatibility",
+      "numerology-compatibility"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "crush-compatibility",
+    "slug": "crush-compatibility",
+    "name": "Crush Compatibility Checker",
+    "tagline": "Is your crush compatible with you?",
+    "description": "Check the compatibility between you and your crush using astrology and numerology.",
+    "keywords": [
+      "crush compatibility",
+      "am i compatible with my crush",
+      "crush zodiac match"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Crush Compatibility Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Crush Compatibility Checker?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "zodiac-compatibility"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "name-love-calculator",
+    "slug": "name-love-calculator",
+    "name": "Name Love Calculator",
+    "tagline": "Love percentage by name",
+    "description": "Calculate the love percentage between two names using the classic FLAMES method.",
+    "keywords": [
+      "love calculator names",
+      "name compatibility love",
+      "flames love calculator"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Name Love Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Name Love Calculator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "crush-compatibility"
+    ],
+    "priority": 0.72,
+    "monthlySearches": 110000,
+    "evergreen": true
+  },
+  {
+    "id": "flames-calculator",
+    "slug": "flames-calculator",
+    "name": "FLAMES Calculator",
+    "tagline": "Friends, Lovers, Affectionate, Marriage, Enemies, Siblings",
+    "description": "Play the classic FLAMES game to find your relationship destiny.",
+    "keywords": [
+      "flames calculator",
+      "flames game",
+      "flames love test"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the FLAMES Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the FLAMES Calculator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "name-love-calculator",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "soulmate-finder",
+    "slug": "soulmate-finder",
+    "name": "Soulmate Sign Finder",
+    "tagline": "Which zodiac sign is your soulmate?",
+    "description": "Discover which zodiac signs are most likely to be your soulmate.",
+    "keywords": [
+      "soulmate zodiac sign",
+      "who is my soulmate astrology",
+      "soulmate compatibility"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Soulmate Sign Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Soulmate Sign Finder?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-compatibility",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "twin-flame-calculator",
+    "slug": "twin-flame-calculator",
+    "name": "Twin Flame Calculator",
+    "tagline": "Find your twin flame number",
+    "description": "Calculate if two people share twin flame energy using numerology.",
+    "keywords": [
+      "twin flame calculator",
+      "twin flame number",
+      "twin flame numerology"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Twin Flame Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Twin Flame Calculator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "soulmate-finder",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "anniversary-calculator",
+    "slug": "anniversary-calculator",
+    "name": "Anniversary Calculator",
+    "tagline": "How long have you been together?",
+    "description": "Calculate exactly how long you've been in a relationship.",
+    "keywords": [
+      "anniversary calculator",
+      "relationship length",
+      "how long together calculator"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Anniversary Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Anniversary Calculator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "days-since-calculator",
+      "wedding-date-calculator"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "wedding-date-calculator",
+    "slug": "wedding-date-calculator",
+    "name": "Wedding Date Numerology",
+    "tagline": "Find the luckiest wedding date",
+    "description": "Find the most auspicious wedding date using numerology and astrology.",
+    "keywords": [
+      "lucky wedding date",
+      "best wedding date numerology",
+      "auspicious wedding date"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Wedding Date Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Wedding Date Numerology?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "anniversary-calculator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "love-language-test",
+    "slug": "love-language-test",
+    "name": "Love Language Test",
+    "tagline": "What is your love language?",
+    "description": "Take the 5 love languages quiz to discover how you give and receive love.",
+    "keywords": [
+      "love language test",
+      "5 love languages",
+      "what is my love language"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Love Language Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Love Language Test?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "relationship-checker"
+    ],
+    "priority": 0.83,
+    "monthlySearches": 165000,
+    "evergreen": true
+  },
+  {
+    "id": "relationship-checker",
+    "slug": "relationship-checker",
+    "name": "Relationship Health Checker",
+    "tagline": "Is your relationship healthy?",
+    "description": "Answer questions to assess the health and future potential of your relationship.",
+    "keywords": [
+      "relationship health check",
+      "is my relationship healthy",
+      "relationship assessment"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Relationship Health Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Relationship Health Checker?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-language-test",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "breakup-calculator",
+    "slug": "breakup-calculator",
+    "name": "Breakup Recovery Calculator",
+    "tagline": "How long to get over a breakup?",
+    "description": "Calculate approximately how long it takes to recover from a breakup.",
+    "keywords": [
+      "breakup recovery time",
+      "how long to get over breakup",
+      "breakup calculator"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Breakup Recovery Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Breakup Recovery Calculator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "relationship-checker",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "marriage-compatibility",
+    "slug": "marriage-compatibility",
+    "name": "Marriage Compatibility Test",
+    "tagline": "Are you ready for marriage together?",
+    "description": "Deep compatibility test for couples considering marriage.",
+    "keywords": [
+      "marriage compatibility",
+      "are we ready for marriage",
+      "marriage test"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Marriage Compatibility Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Marriage Compatibility Test?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "zodiac-compatibility"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "ex-compatibility",
+    "slug": "ex-compatibility",
+    "name": "Ex Compatibility Checker",
+    "tagline": "Should you get back with your ex?",
+    "description": "Check if you and your ex are truly compatible for a fresh start.",
+    "keywords": [
+      "ex compatibility",
+      "should i get back with ex",
+      "ex relationship compatibility"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Ex Compatibility Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Ex Compatibility Checker?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "breakup-calculator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "date-of-birth-compatibility",
+    "slug": "date-of-birth-compatibility",
+    "name": "Date of Birth Love Match",
+    "tagline": "Love match by birthday numbers",
+    "description": "Check love compatibility using just two dates of birth.",
+    "keywords": [
+      "date of birth compatibility",
+      "birthday love match",
+      "dob compatibility"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Date of Birth Love Match free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Date of Birth Love Match?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "numerology-compatibility"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "first-letter-compatibility",
+    "slug": "first-letter-compatibility",
+    "name": "First Letter Name Compatibility",
+    "tagline": "Love match by first letter",
+    "description": "Check compatibility based on the first letters of two names.",
+    "keywords": [
+      "name first letter compatibility",
+      "first letter love match",
+      "alphabet love calculator"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the First Letter Name Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the First Letter Name Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "name-love-calculator",
+      "flames-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "blood-group-compatibility",
+    "slug": "blood-group-compatibility",
+    "name": "Blood Group Love Compatibility",
+    "tagline": "Love match by blood type",
+    "description": "Explore the Japanese theory of love compatibility by blood type.",
+    "keywords": [
+      "blood type compatibility",
+      "blood group love match",
+      "blood type relationship"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Blood Group Love Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Blood Group Love Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "zodiac-compatibility"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-love-compatibility",
+    "slug": "chinese-love-compatibility",
+    "name": "Chinese Zodiac Love Match",
+    "tagline": "Love by Chinese zodiac animals",
+    "description": "Check love compatibility using Chinese zodiac animal signs.",
+    "keywords": [
+      "chinese zodiac love",
+      "chinese zodiac compatibility",
+      "chinese horoscope love"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Chinese Zodiac Love Match free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Zodiac Love Match?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "venus-mars-compatibility",
+    "slug": "venus-mars-compatibility",
+    "name": "Venus-Mars Compatibility",
+    "tagline": "Love planets compatibility check",
+    "description": "Compare Venus and Mars signs for deep romantic compatibility.",
+    "keywords": [
+      "venus mars compatibility",
+      "love planets astrology",
+      "venus mars synastry"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Venus-Mars Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Venus-Mars Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "venus-sign-calculator",
+      "synastry-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "relationship-numerology",
+    "slug": "relationship-numerology",
+    "name": "Relationship Numerology",
+    "tagline": "Numerology of your relationship",
+    "description": "Analyze the numerological energy between two people in a relationship.",
+    "keywords": [
+      "relationship numerology",
+      "couple numerology",
+      "love numerology reading"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Relationship Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Relationship Numerology?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "numerology-compatibility",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "ideal-partner-finder",
+    "slug": "ideal-partner-finder",
+    "name": "Ideal Partner Finder",
+    "tagline": "What's your perfect partner type?",
+    "description": "Discover your ideal partner traits based on your zodiac, numerology and personality.",
+    "keywords": [
+      "ideal partner",
+      "perfect partner astrology",
+      "what type of partner for me"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Ideal Partner Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Ideal Partner Finder?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "soulmate-finder",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "wedding-numerology",
+    "slug": "wedding-numerology",
+    "name": "Wedding Number Numerology",
+    "tagline": "The numerology of your wedding date",
+    "description": "Calculate the numerological meaning of your wedding date.",
+    "keywords": [
+      "wedding date numerology",
+      "marriage number",
+      "wedding number"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Wedding Number Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Wedding Number Numerology?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "wedding-date-calculator",
+      "lucky-day-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "couple-name-generator",
+    "slug": "couple-name-generator",
+    "name": "Couple Name Generator",
+    "tagline": "Combine two names into a couple name",
+    "description": "Create a cute merged couple name (ship name) from two names.",
+    "keywords": [
+      "couple name generator",
+      "ship name generator",
+      "couple name combiner"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Couple Name Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Couple Name Generator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "name-love-calculator",
+      "flames-calculator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "love-tarot",
+    "slug": "love-tarot",
+    "name": "Love Tarot Reading",
+    "tagline": "3-card love tarot spread",
+    "description": "Draw three tarot cards to get insight on your love situation.",
+    "keywords": [
+      "love tarot reading",
+      "tarot for love",
+      "love tarot spread"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Love Tarot Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Love Tarot Reading?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "attraction-calculator",
+    "slug": "attraction-calculator",
+    "name": "Attraction Calculator",
+    "tagline": "How attracted are you to each other?",
+    "description": "Measure the level of attraction between two people based on astrology.",
+    "keywords": [
+      "attraction calculator",
+      "how attracted am i",
+      "attraction compatibility"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Attraction Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Attraction Calculator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "crush-compatibility"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "commitment-test",
+    "slug": "commitment-test",
+    "name": "Commitment Readiness Test",
+    "tagline": "Are you ready for commitment?",
+    "description": "Take this quiz to assess your readiness for a serious relationship.",
+    "keywords": [
+      "commitment test",
+      "relationship readiness",
+      "am i ready for relationship"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Commitment Readiness Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Commitment Readiness Test?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "relationship-checker",
+      "love-language-test"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "love-number",
+    "slug": "love-number",
+    "name": "Love Number Calculator",
+    "tagline": "Your personal love number",
+    "description": "Calculate your unique love number and what it means for your romantic life.",
+    "keywords": [
+      "love number",
+      "numerology love number",
+      "romantic number"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Love Number Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Love Number Calculator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "numerology-compatibility",
+      "life-path-number"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "past-life-lover",
+    "slug": "past-life-lover",
+    "name": "Past Life Lover Finder",
+    "tagline": "Did you know each other in a past life?",
+    "description": "Explore if two people shared a past life connection using karmic numerology.",
+    "keywords": [
+      "past life lover",
+      "past life compatibility",
+      "karmic relationship"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Past Life Lover Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Past Life Lover Finder?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "twin-flame-calculator",
+      "soulmate-finder"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "flirt-style",
+    "slug": "flirt-style",
+    "name": "Flirting Style by Sign",
+    "tagline": "How do you flirt by zodiac?",
+    "description": "Discover your natural flirting style based on your zodiac sign.",
+    "keywords": [
+      "flirting style zodiac",
+      "how zodiac signs flirt",
+      "flirt by zodiac sign"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Flirting Style by Sign free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Flirting Style by Sign?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-sign-finder",
+      "zodiac-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "jealousy-test",
+    "slug": "jealousy-test",
+    "name": "Jealousy Level Test",
+    "tagline": "How jealous are you in relationships?",
+    "description": "Take this fun quiz to find out your jealousy level in love.",
+    "keywords": [
+      "jealousy test",
+      "am i jealous",
+      "relationship jealousy quiz"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Jealousy Level Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Jealousy Level Test?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "relationship-checker",
+      "love-language-test"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "romantic-compatibility",
+    "slug": "romantic-compatibility",
+    "name": "Romantic Style Compatibility",
+    "tagline": "How do you both express romance?",
+    "description": "Check if your romantic expression styles are compatible.",
+    "keywords": [
+      "romantic compatibility",
+      "romance style",
+      "how romantic am i"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Romantic Style Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Romantic Style Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-language-test",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "intimacy-calculator",
+    "slug": "intimacy-calculator",
+    "name": "Intimacy Compatibility",
+    "tagline": "Emotional intimacy compatibility",
+    "description": "Measure the emotional intimacy potential between two people.",
+    "keywords": [
+      "intimacy compatibility",
+      "emotional compatibility",
+      "emotional bond calculator"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Intimacy Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Intimacy Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "relationship-checker"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "trust-calculator",
+    "slug": "trust-calculator",
+    "name": "Trust Calculator",
+    "tagline": "Trust level in your relationship",
+    "description": "Calculate the trust level in your relationship with this interactive tool.",
+    "keywords": [
+      "trust in relationship",
+      "relationship trust test",
+      "trust compatibility"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Trust Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Trust Calculator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "relationship-checker",
+      "commitment-test"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "long-distance-compatibility",
+    "slug": "long-distance-compatibility",
+    "name": "Long Distance Compatibility",
+    "tagline": "Can your long distance relationship last?",
+    "description": "Check compatibility factors for long distance couples.",
+    "keywords": [
+      "long distance relationship compatibility",
+      "ldr compatibility",
+      "long distance love match"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Long Distance Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Long Distance Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "relationship-checker"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "age-gap-compatibility",
+    "slug": "age-gap-compatibility",
+    "name": "Age Gap Love Compatibility",
+    "tagline": "Love across age gaps \u2014 compatible?",
+    "description": "Explore compatibility in relationships with significant age differences.",
+    "keywords": [
+      "age gap compatibility",
+      "age gap relationship",
+      "age difference love"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Age Gap Love Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Age Gap Love Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "date-of-birth-compatibility"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-love-forecast",
+    "slug": "zodiac-love-forecast",
+    "name": "Zodiac Love Forecast",
+    "tagline": "Love horoscope for this month",
+    "description": "Get a monthly love forecast for your zodiac sign.",
+    "keywords": [
+      "love horoscope",
+      "zodiac love forecast",
+      "monthly love reading"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Love Forecast free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Love Forecast?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-horoscope",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "relationship-timeline",
+    "slug": "relationship-timeline",
+    "name": "Relationship Timeline",
+    "tagline": "Key milestones in your relationship",
+    "description": "Map out key relationship milestones based on numerology cycles.",
+    "keywords": [
+      "relationship timeline",
+      "relationship milestones",
+      "relationship numerology"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Relationship Timeline free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Relationship Timeline?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "anniversary-calculator",
+      "personal-year-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "first-date-planner",
+    "slug": "first-date-planner",
+    "name": "First Date Lucky Day",
+    "tagline": "Best day for a first date",
+    "description": "Find the luckiest day for a first date using astrology and numerology.",
+    "keywords": [
+      "best day for first date",
+      "lucky day first date",
+      "auspicious date for date"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the First Date Lucky Day free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the First Date Lucky Day?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "wedding-date-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "couple-life-path",
+    "slug": "couple-life-path",
+    "name": "Couple Life Path Match",
+    "tagline": "Life path compatibility for couples",
+    "description": "See how two life path numbers interact in a long-term relationship.",
+    "keywords": [
+      "couple life path",
+      "life path 1 and 2 compatibility",
+      "life path number match"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Couple Life Path Match free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Couple Life Path Match?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "numerology-compatibility"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "mars-venus-synastry",
+    "slug": "mars-venus-synastry",
+    "name": "Mars-Venus Synastry",
+    "tagline": "The raw attraction between two charts",
+    "description": "Analyze Mars-Venus aspects in two charts for chemistry and attraction.",
+    "keywords": [
+      "mars venus synastry",
+      "attraction astrology",
+      "venus mars aspects"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Mars-Venus Synastry free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Mars-Venus Synastry?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "synastry-calculator",
+      "venus-mars-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "moon-compatibility",
+    "slug": "moon-compatibility",
+    "name": "Moon Sign Love Compatibility",
+    "tagline": "Emotional compatibility by moon sign",
+    "description": "Check emotional compatibility using both partners' moon signs.",
+    "keywords": [
+      "moon sign compatibility",
+      "moon love match",
+      "moon sign relationship"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Moon Sign Love Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Moon Sign Love Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-sign-calculator",
+      "zodiac-compatibility"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "rising-love-match",
+    "slug": "rising-love-match",
+    "name": "Rising Sign Love Compatibility",
+    "tagline": "First impressions compatibility",
+    "description": "Check how your rising signs interact for first impressions and attraction.",
+    "keywords": [
+      "rising sign compatibility",
+      "ascendant compatibility",
+      "rising sign love match"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Rising Sign Love Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Rising Sign Love Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "rising-sign-calculator",
+      "zodiac-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "love-letter-generator",
+    "slug": "love-letter-generator",
+    "name": "Love Letter Generator",
+    "tagline": "AI-assisted romantic love letter",
+    "description": "Generate a personalized romantic letter based on two names and zodiac signs.",
+    "keywords": [
+      "love letter generator",
+      "romantic letter",
+      "personalized love letter"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Love Letter Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Love Letter Generator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "couple-name-generator",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "date-night-planner",
+    "slug": "date-night-planner",
+    "name": "Lucky Date Night Planner",
+    "tagline": "Auspicious date night timing",
+    "description": "Find the most auspicious time and date for a romantic evening.",
+    "keywords": [
+      "date night planner",
+      "lucky date night",
+      "romantic evening astrology"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Lucky Date Night Planner free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Date Night Planner?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "first-date-planner"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-toxic-match",
+    "slug": "zodiac-toxic-match",
+    "name": "Zodiac Toxic Match Finder",
+    "tagline": "Potentially toxic zodiac pairings",
+    "description": "Find out if your zodiac combination has any toxic potential.",
+    "keywords": [
+      "toxic zodiac match",
+      "zodiac red flags",
+      "zodiac warning signs"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Toxic Match Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Toxic Match Finder?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-compatibility",
+      "zodiac-enemy"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "element-love-match",
+    "slug": "element-love-match",
+    "name": "Elemental Love Compatibility",
+    "tagline": "Fire, Earth, Air, Water love match",
+    "description": "Explore how your elemental signs interact for love compatibility.",
+    "keywords": [
+      "elemental love compatibility",
+      "fire and water compatibility",
+      "astrology elements love"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Elemental Love Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Elemental Love Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "element-calculator",
+      "zodiac-compatibility"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "north-node-love",
+    "slug": "north-node-love",
+    "name": "North Node Love Connection",
+    "tagline": "Karmic love by North Node",
+    "description": "Discover how two people's North Nodes interact for karmic love.",
+    "keywords": [
+      "north node love",
+      "karmic love connection",
+      "north node synastry"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the North Node Love Connection free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the North Node Love Connection?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "north-node-calculator",
+      "twin-flame-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-love-elements",
+    "slug": "chinese-love-elements",
+    "name": "Chinese Love Elements",
+    "tagline": "Five elements love compatibility",
+    "description": "Check Chinese five elements (Wood, Fire, Earth, Metal, Water) love compatibility.",
+    "keywords": [
+      "chinese five elements love",
+      "wuxing compatibility",
+      "chinese element love"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Chinese Love Elements free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Love Elements?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-love-compatibility",
+      "chinese-zodiac-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-marriage-match",
+    "slug": "numerology-marriage-match",
+    "name": "Numerology Marriage Match",
+    "tagline": "Best marriage match by numbers",
+    "description": "Find the best marriage partner using complete numerology analysis.",
+    "keywords": [
+      "numerology marriage",
+      "marriage number compatibility",
+      "numerology wedding match"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Numerology Marriage Match free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Marriage Match?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "marriage-compatibility"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "astrological-age",
+    "slug": "astrological-age",
+    "name": "Astrological Age Compatibility",
+    "tagline": "Love across astrological generations",
+    "description": "Check if two people from different astrological generations are compatible.",
+    "keywords": [
+      "astrological age gap",
+      "generational compatibility",
+      "outer planet compatibility"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Astrological Age Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Astrological Age Compatibility?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-gap-compatibility",
+      "synastry-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "venus-sign-love",
+    "slug": "venus-sign-love",
+    "name": "Venus Sign Love Style",
+    "tagline": "How your Venus sign loves",
+    "description": "Discover your Venus sign's unique love style and what you need in romance.",
+    "keywords": [
+      "venus sign love style",
+      "how venus sign loves",
+      "venus in love astrology"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Venus Sign Love Style free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Venus Sign Love Style?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "venus-sign-calculator",
+      "venus-mars-compatibility"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "relationship-end-date",
+    "slug": "relationship-end-date",
+    "name": "Relationship Expiry Checker",
+    "tagline": "Will your relationship last?",
+    "description": "Use numerology cycles to estimate the longevity of a relationship.",
+    "keywords": [
+      "relationship longevity",
+      "will my relationship last",
+      "relationship future numerology"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Relationship Expiry Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Relationship Expiry Checker?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "relationship-checker",
+      "personal-year-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "love-mantra",
+    "slug": "love-mantra",
+    "name": "Love Mantra Generator",
+    "tagline": "Your personal love affirmation",
+    "description": "Generate a personalized love mantra based on your Life Path and zodiac sign.",
+    "keywords": [
+      "love mantra",
+      "love affirmation",
+      "relationship affirmation"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Love Mantra Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Love Mantra Generator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "life-path-number"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "heart-number",
+    "slug": "heart-number",
+    "name": "Heart Number Calculator",
+    "tagline": "Your number for love and romance",
+    "description": "Calculate the Heart number \u2014 the numerological guide to your love life.",
+    "keywords": [
+      "heart number numerology",
+      "love number calculator",
+      "numerology heart"
+    ],
+    "category": "love",
+    "faqs": [
+      {
+        "q": "Is the Heart Number Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Heart Number Calculator?",
+        "a": "This tool uses traditional love methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "soul-urge-number",
+      "love-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  }
+]

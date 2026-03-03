@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "stress-checker",
+    "slug": "stress-checker",
+    "name": "Stress Level Checker",
+    "tagline": "Measure your current stress level",
+    "description": "Take a quick quiz to assess your current stress levels and get coping tips.",
+    "keywords": [
+      "stress checker",
+      "stress level test",
+      "am i stressed"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Stress Level Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Stress Level Checker?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "breathing-exercise",
+      "meditation-timer"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "happiness-score",
+    "slug": "happiness-score",
+    "name": "Happiness Score",
+    "tagline": "Measure your happiness quotient",
+    "description": "Take a scientifically-inspired quiz to measure your happiness level.",
+    "keywords": [
+      "happiness test",
+      "happiness score",
+      "how happy am i"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Happiness Score free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Happiness Score?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "stress-checker",
+      "gratitude-practice"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "burnout-test",
+    "slug": "burnout-test",
+    "name": "Burnout Test",
+    "tagline": "Are you experiencing burnout?",
+    "description": "Assess whether you are experiencing professional or personal burnout.",
+    "keywords": [
+      "burnout test",
+      "am i burnt out",
+      "burnout quiz"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Burnout Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Burnout Test?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "stress-checker",
+      "energy-check"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "anxiety-checker",
+    "slug": "anxiety-checker",
+    "name": "Anxiety Level Checker",
+    "tagline": "Check your anxiety level",
+    "description": "A non-clinical anxiety assessment to understand your anxiety patterns.",
+    "keywords": [
+      "anxiety checker",
+      "anxiety level test",
+      "am i anxious"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Anxiety Level Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Anxiety Level Checker?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "stress-checker",
+      "breathing-exercise"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "introvert-extrovert",
+    "slug": "introvert-extrovert",
+    "name": "Introvert or Extrovert Test",
+    "tagline": "Are you an introvert or extrovert?",
+    "description": "Take this quiz to find out where you fall on the introvert-extrovert spectrum.",
+    "keywords": [
+      "introvert extrovert test",
+      "am i introverted",
+      "personality introvert quiz"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Introvert or Extrovert Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Introvert or Extrovert Test?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "empath-test",
+      "personality-number"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "personality-type",
+    "slug": "personality-type",
+    "name": "Personality Type Quiz",
+    "tagline": "Find your personality archetype",
+    "description": "Discover your personality archetype through a comprehensive quiz.",
+    "keywords": [
+      "personality type quiz",
+      "personality archetype",
+      "what personality type am i"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Personality Type Quiz free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Personality Type Quiz?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "introvert-extrovert",
+      "zodiac-personality"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "iq-estimate",
+    "slug": "iq-estimate",
+    "name": "IQ Estimate Quiz",
+    "tagline": "Estimate your IQ range",
+    "description": "A fun, non-scientific quiz to estimate your IQ range.",
+    "keywords": [
+      "iq estimate",
+      "iq quiz",
+      "estimate my iq"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the IQ Estimate Quiz free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the IQ Estimate Quiz?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "personality-type",
+      "brain-age"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "brain-age",
+    "slug": "brain-age",
+    "name": "Brain Age Test",
+    "tagline": "Test your cognitive brain age",
+    "description": "Exercises that estimate your mental sharpness and cognitive age.",
+    "keywords": [
+      "brain age test",
+      "mental age test",
+      "cognitive test"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Brain Age Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Brain Age Test?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "iq-estimate",
+      "memory-test"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "memory-test",
+    "slug": "memory-test",
+    "name": "Memory Test",
+    "tagline": "Test your short-term memory",
+    "description": "A quick test to assess your short-term memory and recall speed.",
+    "keywords": [
+      "memory test",
+      "short term memory",
+      "memory quiz"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Memory Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Memory Test?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "brain-age",
+      "iq-estimate"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "emotional-intelligence",
+    "slug": "emotional-intelligence",
+    "name": "Emotional Intelligence Test",
+    "tagline": "Measure your EQ",
+    "description": "Take this EQ (Emotional Quotient) assessment to understand your emotional intelligence.",
+    "keywords": [
+      "emotional intelligence test",
+      "eq test",
+      "emotional intelligence quiz"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Emotional Intelligence Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Emotional Intelligence Test?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "empath-test",
+      "personality-type"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "bmi-calculator",
+    "slug": "bmi-calculator",
+    "name": "BMI Calculator",
+    "tagline": "Body Mass Index calculator",
+    "description": "Calculate your Body Mass Index from height and weight.",
+    "keywords": [
+      "bmi calculator",
+      "body mass index",
+      "bmi chart"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the BMI Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the BMI Calculator?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "calorie-calculator",
+      "ideal-weight"
+    ],
+    "priority": 0.9,
+    "monthlySearches": 201000,
+    "evergreen": true
+  },
+  {
+    "id": "calorie-calculator",
+    "slug": "calorie-calculator",
+    "name": "Calorie Calculator",
+    "tagline": "Daily calorie needs calculator",
+    "description": "Calculate your daily calorie requirements based on age, gender and activity.",
+    "keywords": [
+      "calorie calculator",
+      "daily calories",
+      "tdee calculator"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Calorie Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Calorie Calculator?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "bmi-calculator",
+      "ideal-weight"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "ideal-weight",
+    "slug": "ideal-weight",
+    "name": "Ideal Weight Calculator",
+    "tagline": "Find your ideal healthy weight",
+    "description": "Calculate your ideal weight range using multiple health formulas.",
+    "keywords": [
+      "ideal weight calculator",
+      "healthy weight",
+      "target weight calculator"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Ideal Weight Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Ideal Weight Calculator?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "bmi-calculator",
+      "calorie-calculator"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "water-intake",
+    "slug": "water-intake",
+    "name": "Water Intake Calculator",
+    "tagline": "How much water should you drink?",
+    "description": "Calculate your daily recommended water intake based on body weight.",
+    "keywords": [
+      "water intake calculator",
+      "how much water to drink",
+      "daily water intake"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Water Intake Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Water Intake Calculator?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "bmi-calculator",
+      "calorie-calculator"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "sleep-need",
+    "slug": "sleep-need",
+    "name": "Sleep Need Calculator",
+    "tagline": "How much sleep do you need?",
+    "description": "Find your ideal sleep duration based on age and lifestyle.",
+    "keywords": [
+      "sleep need",
+      "how much sleep do i need",
+      "sleep hours calculator"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Sleep Need Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Sleep Need Calculator?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "sleep-calculator",
+      "biorhythm-calculator"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "heart-rate-zone",
+    "slug": "heart-rate-zone",
+    "name": "Heart Rate Zone Calculator",
+    "tagline": "Find your exercise heart rate zones",
+    "description": "Calculate your cardio and fat-burning heart rate zones.",
+    "keywords": [
+      "heart rate zone",
+      "target heart rate",
+      "exercise heart rate"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Heart Rate Zone Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Heart Rate Zone Calculator?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "bmi-calculator",
+      "calorie-calculator"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-health-number",
+    "slug": "numerology-health-number",
+    "name": "Numerology Health Number",
+    "tagline": "Your health number in numerology",
+    "description": "Find the numerological influences on your health and vitality.",
+    "keywords": [
+      "numerology health",
+      "health number numerology",
+      "life path health"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Numerology Health Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Health Number?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "chakra-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "moon-diet",
+    "slug": "moon-diet",
+    "name": "Moon Diet Planner",
+    "tagline": "Fasting by moon phases",
+    "description": "Plan fasting and detox days according to the moon phase calendar.",
+    "keywords": [
+      "moon diet",
+      "lunar diet",
+      "moon fasting"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Moon Diet Planner free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Moon Diet Planner?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-phase-tracker",
+      "sleep-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-diet",
+    "slug": "zodiac-diet",
+    "name": "Zodiac Diet Guide",
+    "tagline": "Best diet for your zodiac sign",
+    "description": "Find dietary recommendations tailored to your zodiac sign.",
+    "keywords": [
+      "zodiac diet",
+      "astrology diet",
+      "best foods for zodiac"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Diet Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Diet Guide?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-health",
+      "calorie-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "color-therapy",
+    "slug": "color-therapy",
+    "name": "Color Therapy Test",
+    "tagline": "Healing colors for your energy",
+    "description": "Find the healing colors that best support your current energy state.",
+    "keywords": [
+      "color therapy",
+      "chromotherapy",
+      "healing colors"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Color Therapy Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Color Therapy Test?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-color-finder",
+      "aura-reader"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "sound-healing",
+    "slug": "sound-healing",
+    "name": "Sound Healing Frequency",
+    "tagline": "Healing sounds for your sign",
+    "description": "Discover the healing sound frequencies and instruments for your sign.",
+    "keywords": [
+      "sound healing",
+      "healing frequency",
+      "music therapy zodiac"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Sound Healing Frequency free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Sound Healing Frequency?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "frequency-calculator",
+      "meditation-timer"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "nature-therapy",
+    "slug": "nature-therapy",
+    "name": "Nature Therapy Guide",
+    "tagline": "Healing in nature by zodiac",
+    "description": "Find the best nature environments for healing based on your element.",
+    "keywords": [
+      "nature therapy",
+      "ecotherapy zodiac",
+      "outdoor healing"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Nature Therapy Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Nature Therapy Guide?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-health",
+      "lucky-plant"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "mind-body-type",
+    "slug": "mind-body-type",
+    "name": "Mind-Body Type",
+    "tagline": "Ayurvedic dosha finder",
+    "description": "Discover your Ayurvedic mind-body type (Vata, Pitta, or Kapha).",
+    "keywords": [
+      "dosha quiz",
+      "ayurvedic body type",
+      "am i vata pitta kapha"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Mind-Body Type free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Mind-Body Type?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-medicine-type",
+      "personality-type"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "vata-quiz",
+    "slug": "vata-quiz",
+    "name": "Vata Dosha Quiz",
+    "tagline": "Are you a Vata type?",
+    "description": "Detailed Vata dosha assessment and balancing guide.",
+    "keywords": [
+      "vata dosha",
+      "vata quiz",
+      "vata type ayurveda"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Vata Dosha Quiz free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Vata Dosha Quiz?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "mind-body-type",
+      "pitta-quiz"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "pitta-quiz",
+    "slug": "pitta-quiz",
+    "name": "Pitta Dosha Quiz",
+    "tagline": "Are you a Pitta type?",
+    "description": "Detailed Pitta dosha assessment and balancing guide.",
+    "keywords": [
+      "pitta dosha",
+      "pitta quiz",
+      "pitta type ayurveda"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Pitta Dosha Quiz free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Pitta Dosha Quiz?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "mind-body-type",
+      "vata-quiz"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "kapha-quiz",
+    "slug": "kapha-quiz",
+    "name": "Kapha Dosha Quiz",
+    "tagline": "Are you a Kapha type?",
+    "description": "Detailed Kapha dosha assessment and balancing guide.",
+    "keywords": [
+      "kapha dosha",
+      "kapha quiz",
+      "kapha type ayurveda"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Kapha Dosha Quiz free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Kapha Dosha Quiz?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "mind-body-type",
+      "pitta-quiz"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "affirmation-generator",
+    "slug": "affirmation-generator",
+    "name": "Affirmation Generator",
+    "tagline": "Custom daily affirmations",
+    "description": "Generate powerful personalized affirmations for any goal.",
+    "keywords": [
+      "affirmation generator",
+      "custom affirmations",
+      "positive affirmations generator"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Affirmation Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Affirmation Generator?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-affirmation",
+      "love-mantra"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "journal-prompt",
+    "slug": "journal-prompt",
+    "name": "Daily Journal Prompt",
+    "tagline": "Thoughtful daily journaling prompts",
+    "description": "Get inspired journal prompts for self-reflection and growth.",
+    "keywords": [
+      "journal prompt",
+      "journaling ideas",
+      "daily journal questions"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Daily Journal Prompt free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Daily Journal Prompt?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "dream-journal-prompt",
+      "gratitude-practice"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "goal-number",
+    "slug": "goal-number",
+    "name": "Goal Numerology",
+    "tagline": "Numerology for achieving your goals",
+    "description": "Find the most powerful number to support your specific life goals.",
+    "keywords": [
+      "goal numerology",
+      "numerology for success",
+      "manifesting by numbers"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Goal Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Goal Numerology?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "manifestation-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "toxic-habits",
+    "slug": "toxic-habits",
+    "name": "Toxic Habit Checker",
+    "tagline": "Identify your self-sabotaging habits",
+    "description": "A reflective quiz to identify habits that may be limiting your potential.",
+    "keywords": [
+      "toxic habits",
+      "self sabotage quiz",
+      "bad habits check"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Toxic Habit Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Toxic Habit Checker?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "stress-checker",
+      "shadow-work-prompt"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "resilience-test",
+    "slug": "resilience-test",
+    "name": "Resilience Score",
+    "tagline": "Measure your emotional resilience",
+    "description": "Assess how resilient you are in the face of challenges.",
+    "keywords": [
+      "resilience test",
+      "resilience score",
+      "how resilient am i"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Resilience Score free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Resilience Score?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "stress-checker",
+      "emotional-intelligence"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "moon-sign-wellness",
+    "slug": "moon-sign-wellness",
+    "name": "Moon Sign Wellness",
+    "tagline": "Health tips by moon sign",
+    "description": "Get wellness and self-care tips tailored to your moon sign.",
+    "keywords": [
+      "moon sign wellness",
+      "moon sign health",
+      "lunar wellness"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Moon Sign Wellness free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Moon Sign Wellness?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-sign-calculator",
+      "zodiac-health"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "number-meditation",
+    "slug": "number-meditation",
+    "name": "Number Meditation",
+    "tagline": "Guided meditation by your life path",
+    "description": "A short guided meditation tailored to your Life Path number.",
+    "keywords": [
+      "number meditation",
+      "life path meditation",
+      "numerology meditation practice"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Number Meditation free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Number Meditation?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "meditation-timer",
+      "numerology-meditation"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "digital-detox",
+    "slug": "digital-detox",
+    "name": "Digital Detox Score",
+    "tagline": "How much do you need a detox?",
+    "description": "Assess your digital dependency and get a detox recommendation.",
+    "keywords": [
+      "digital detox",
+      "screen time test",
+      "digital dependency quiz"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Digital Detox Score free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Digital Detox Score?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "stress-checker",
+      "burnout-test"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "confidence-test",
+    "slug": "confidence-test",
+    "name": "Confidence Level Test",
+    "tagline": "Measure your self-confidence",
+    "description": "A quiz to measure your current self-confidence and self-esteem.",
+    "keywords": [
+      "confidence test",
+      "self confidence quiz",
+      "self esteem test"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Confidence Level Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Confidence Level Test?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "resilience-test",
+      "personality-type"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "self-care-quiz",
+    "slug": "self-care-quiz",
+    "name": "Self-Care Assessment",
+    "tagline": "Are you taking care of yourself?",
+    "description": "Assess how well you are practicing self-care across all dimensions.",
+    "keywords": [
+      "self care quiz",
+      "am i taking care of myself",
+      "self care assessment"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Self-Care Assessment free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Self-Care Assessment?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "stress-checker",
+      "happiness-score"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "life-satisfaction",
+    "slug": "life-satisfaction",
+    "name": "Life Satisfaction Score",
+    "tagline": "How satisfied are you with life?",
+    "description": "Measure your overall life satisfaction using the SWLS framework.",
+    "keywords": [
+      "life satisfaction",
+      "how satisfied am i with life",
+      "life satisfaction test"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Life Satisfaction Score free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Satisfaction Score?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "happiness-score",
+      "resilience-test"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "love-yourself",
+    "slug": "love-yourself",
+    "name": "Self-Love Score",
+    "tagline": "How much do you love yourself?",
+    "description": "A reflective quiz to measure your self-love and self-worth.",
+    "keywords": [
+      "self love quiz",
+      "how much do i love myself",
+      "self love test"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Self-Love Score free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Self-Love Score?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "confidence-test",
+      "oracle-self-love"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "mindfulness-quiz",
+    "slug": "mindfulness-quiz",
+    "name": "Mindfulness Level",
+    "tagline": "How mindful are you?",
+    "description": "Assess your current level of mindfulness and presence.",
+    "keywords": [
+      "mindfulness quiz",
+      "how mindful am i",
+      "mindfulness test"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Mindfulness Level free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Mindfulness Level?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "meditation-timer",
+      "gratitude-practice"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-year-wellness",
+    "slug": "numerology-year-wellness",
+    "name": "Numerology Year Wellness",
+    "tagline": "Health focus for your personal year",
+    "description": "Get wellness recommendations based on your current personal year number.",
+    "keywords": [
+      "numerology wellness year",
+      "personal year health",
+      "numerology health forecast"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Numerology Year Wellness free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Year Wellness?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "personal-year-number",
+      "life-path-number"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "power-animal-quiz",
+    "slug": "power-animal-quiz",
+    "name": "Power Animal Quiz",
+    "tagline": "Your power animal for strength",
+    "description": "Find your power animal to connect with for strength and protection.",
+    "keywords": [
+      "power animal",
+      "power animal quiz",
+      "what is my power animal"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Power Animal Quiz free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Power Animal Quiz?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "spirit-animal-finder",
+      "totem-pole"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "vitality-score",
+    "slug": "vitality-score",
+    "name": "Vitality Score",
+    "tagline": "Your physical and mental vitality",
+    "description": "A comprehensive vitality assessment across mind, body and spirit.",
+    "keywords": [
+      "vitality score",
+      "wellness assessment",
+      "how vital am i"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Vitality Score free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Vitality Score?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "energy-check",
+      "happiness-score"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "astrology-wellness",
+    "slug": "astrology-wellness",
+    "name": "Astrology Wellness Plan",
+    "tagline": "Personalized wellness by birth chart",
+    "description": "A wellness plan aligned with your zodiac sign's natural strengths.",
+    "keywords": [
+      "astrology wellness",
+      "zodiac wellness plan",
+      "astrology health plan"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Astrology Wellness Plan free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Astrology Wellness Plan?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "zodiac-health"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "abundance-mindset",
+    "slug": "abundance-mindset",
+    "name": "Abundance Mindset Quiz",
+    "tagline": "Do you have an abundance mindset?",
+    "description": "Assess whether you operate from a mindset of abundance or scarcity.",
+    "keywords": [
+      "abundance mindset",
+      "scarcity mindset",
+      "mindset quiz"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Abundance Mindset Quiz free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Abundance Mindset Quiz?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "manifestation-calculator",
+      "confidence-test"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "life-purpose-quiz",
+    "slug": "life-purpose-quiz",
+    "name": "Life Purpose Finder",
+    "tagline": "What is your soul's purpose?",
+    "description": "Discover your life purpose through a guided reflective quiz.",
+    "keywords": [
+      "life purpose",
+      "what is my purpose",
+      "soul purpose quiz"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Life Purpose Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Purpose Finder?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "north-node-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "chakra-color",
+    "slug": "chakra-color",
+    "name": "Chakra Color Guide",
+    "tagline": "Colors of the 7 chakras",
+    "description": "Explore the colors, meanings and healing of all 7 chakra energy centers.",
+    "keywords": [
+      "chakra colors",
+      "7 chakra colors",
+      "chakra color meaning"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Chakra Color Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chakra Color Guide?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chakra-calculator",
+      "color-therapy"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-exercise",
+    "slug": "zodiac-exercise",
+    "name": "Zodiac Exercise Guide",
+    "tagline": "Best workouts for your zodiac sign",
+    "description": "Find the ideal exercise style and activities for your zodiac sign.",
+    "keywords": [
+      "zodiac exercise",
+      "workout by zodiac",
+      "astrology fitness"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Exercise Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Exercise Guide?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-health",
+      "calorie-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-workout-day",
+    "slug": "lucky-workout-day",
+    "name": "Lucky Workout Day",
+    "tagline": "Best days to exercise by sign",
+    "description": "Find the most energetically favorable days for working out.",
+    "keywords": [
+      "lucky workout day",
+      "best day to exercise",
+      "astrology workout day"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Lucky Workout Day free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Workout Day?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-exercise",
+      "lucky-day-finder"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "self-compassion",
+    "slug": "self-compassion",
+    "name": "Self-Compassion Test",
+    "tagline": "How compassionate are you to yourself?",
+    "description": "Measure your self-compassion and get tips for building more.",
+    "keywords": [
+      "self compassion test",
+      "am i self compassionate",
+      "self compassion quiz"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Self-Compassion Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Self-Compassion Test?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-yourself",
+      "confidence-test"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "social-battery",
+    "slug": "social-battery",
+    "name": "Social Battery Check",
+    "tagline": "How full is your social battery?",
+    "description": "Assess your current social energy level and recharge recommendations.",
+    "keywords": [
+      "social battery",
+      "introvert energy",
+      "social energy checker"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Social Battery Check free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Social Battery Check?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "introvert-extrovert",
+      "energy-check"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "moon-wellness-ritual",
+    "slug": "moon-wellness-ritual",
+    "name": "Moon Wellness Ritual",
+    "tagline": "Monthly self-care by moon phase",
+    "description": "Get a personalized monthly wellness ritual based on the current moon phase.",
+    "keywords": [
+      "moon wellness ritual",
+      "lunar self care",
+      "moon ritual wellness"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Moon Wellness Ritual free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Moon Wellness Ritual?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-ritual",
+      "moon-phase-tracker"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "colour-of-soul",
+    "slug": "colour-of-soul",
+    "name": "Color of Your Soul",
+    "tagline": "Your soul color by numerology",
+    "description": "Discover the color that represents your soul's energy.",
+    "keywords": [
+      "soul color",
+      "color of my soul",
+      "soul colour numerology"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Color of Your Soul free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Color of Your Soul?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "aura-reader",
+      "color-therapy"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "positive-trait-finder",
+    "slug": "positive-trait-finder",
+    "name": "Positive Trait Finder",
+    "tagline": "Discover your unique positive traits",
+    "description": "A reflective quiz to identify your strongest positive character traits.",
+    "keywords": [
+      "positive traits",
+      "what are my strengths",
+      "character strengths quiz"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Positive Trait Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Positive Trait Finder?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "personality-type",
+      "confidence-test"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "number-of-year",
+    "slug": "number-of-year",
+    "name": "Universal Year Number",
+    "tagline": "The universal energy of this year",
+    "description": "Calculate the Universal Year number and its meaning for everyone.",
+    "keywords": [
+      "universal year number",
+      "numerology 2025",
+      "numerology current year"
+    ],
+    "category": "wellness",
+    "faqs": [
+      {
+        "q": "Is the Universal Year Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Universal Year Number?",
+        "a": "This tool uses traditional wellness methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "personal-year-number",
+      "numerology-forecast"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  }
+]

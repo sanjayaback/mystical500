@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "word-counter",
+    "slug": "word-counter",
+    "name": "Word Counter",
+    "tagline": "Count words, characters, sentences instantly",
+    "description": "Paste text to instantly count words, characters, sentences and reading time.",
+    "keywords": [
+      "word counter",
+      "word count tool",
+      "online word counter"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Word Counter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Word Counter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "character-counter",
+      "reading-time"
+    ],
+    "priority": 0.9,
+    "monthlySearches": 201000,
+    "evergreen": true
+  },
+  {
+    "id": "character-counter",
+    "slug": "character-counter",
+    "name": "Character Counter",
+    "tagline": "Count characters for any platform",
+    "description": "Count characters for Twitter, Instagram, SMS and meta descriptions.",
+    "keywords": [
+      "character counter",
+      "character count",
+      "letter counter"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Character Counter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Character Counter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "word-counter",
+      "reading-time"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "reading-time",
+    "slug": "reading-time",
+    "name": "Reading Time Calculator",
+    "tagline": "How long to read your text?",
+    "description": "Calculate the estimated reading time for any piece of content.",
+    "keywords": [
+      "reading time calculator",
+      "how long to read",
+      "read time estimator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Reading Time Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Reading Time Calculator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "word-counter",
+      "character-counter"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "text-case-converter",
+    "slug": "text-case-converter",
+    "name": "Text Case Converter",
+    "tagline": "Convert text case instantly",
+    "description": "Convert text to UPPERCASE, lowercase, Title Case, camelCase, snake_case.",
+    "keywords": [
+      "text case converter",
+      "uppercase lowercase converter",
+      "case converter"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Text Case Converter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Text Case Converter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "word-counter",
+      "find-replace"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "find-replace",
+    "slug": "find-replace",
+    "name": "Find and Replace",
+    "tagline": "Find and replace text instantly",
+    "description": "Perform find and replace operations on any text.",
+    "keywords": [
+      "find and replace",
+      "text find replace",
+      "search replace text"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Find and Replace free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Find and Replace?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "text-case-converter",
+      "remove-duplicate-lines"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "remove-duplicate-lines",
+    "slug": "remove-duplicate-lines",
+    "name": "Remove Duplicate Lines",
+    "tagline": "Remove duplicate lines from text",
+    "description": "Paste text to remove all duplicate lines automatically.",
+    "keywords": [
+      "remove duplicate lines",
+      "delete duplicates text",
+      "deduplicate lines"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Remove Duplicate Lines free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Remove Duplicate Lines?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "find-replace",
+      "text-sorter"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "text-sorter",
+    "slug": "text-sorter",
+    "name": "Text Line Sorter",
+    "tagline": "Sort lines alphabetically or by length",
+    "description": "Sort any list of lines alphabetically, reverse, or by length.",
+    "keywords": [
+      "text sorter",
+      "sort lines",
+      "alphabetical sorter"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Text Line Sorter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Text Line Sorter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "remove-duplicate-lines",
+      "find-replace"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "reverse-text",
+    "slug": "reverse-text",
+    "name": "Text Reverser",
+    "tagline": "Reverse text, words or letters",
+    "description": "Reverse your text by character, word, or line.",
+    "keywords": [
+      "reverse text",
+      "text reverser",
+      "backwards text generator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Text Reverser free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Text Reverser?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "text-case-converter",
+      "word-counter"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "palindrome-checker",
+    "slug": "palindrome-checker",
+    "name": "Palindrome Checker",
+    "tagline": "Is your text a palindrome?",
+    "description": "Check if any word, phrase or sentence is a palindrome.",
+    "keywords": [
+      "palindrome checker",
+      "is it a palindrome",
+      "palindrome test"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Palindrome Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Palindrome Checker?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "reverse-text",
+      "word-counter"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "vowel-counter",
+    "slug": "vowel-counter",
+    "name": "Vowel Counter",
+    "tagline": "Count vowels in any text",
+    "description": "Count the number of vowels and consonants in your text.",
+    "keywords": [
+      "vowel counter",
+      "count vowels",
+      "vowel consonant counter"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Vowel Counter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Vowel Counter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "character-counter",
+      "word-counter"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "sentence-counter",
+    "slug": "sentence-counter",
+    "name": "Sentence Counter",
+    "tagline": "Count sentences in text",
+    "description": "Count the number of sentences in any text.",
+    "keywords": [
+      "sentence counter",
+      "count sentences",
+      "sentence number"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Sentence Counter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Sentence Counter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "word-counter",
+      "paragraph-counter"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "paragraph-counter",
+    "slug": "paragraph-counter",
+    "name": "Paragraph Counter",
+    "tagline": "Count paragraphs in text",
+    "description": "Count the number of paragraphs in any text.",
+    "keywords": [
+      "paragraph counter",
+      "count paragraphs",
+      "paragraph number"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Paragraph Counter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Paragraph Counter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "sentence-counter",
+      "word-counter"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "readability-score",
+    "slug": "readability-score",
+    "name": "Readability Score",
+    "tagline": "Check how easy your text is to read",
+    "description": "Calculate readability scores (Flesch-Kincaid, Gunning Fog) for any text.",
+    "keywords": [
+      "readability score",
+      "reading level",
+      "flesch kincaid calculator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Readability Score free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Readability Score?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "word-counter",
+      "reading-time"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "lorem-ipsum",
+    "slug": "lorem-ipsum",
+    "name": "Lorem Ipsum Generator",
+    "tagline": "Generate placeholder text",
+    "description": "Generate lorem ipsum filler text for design mockups.",
+    "keywords": [
+      "lorem ipsum generator",
+      "placeholder text",
+      "dummy text generator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Lorem Ipsum Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lorem Ipsum Generator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "word-counter",
+      "text-case-converter"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "random-word",
+    "slug": "random-word",
+    "name": "Random Word Generator",
+    "tagline": "Generate random words",
+    "description": "Generate random words for creative writing, games or brainstorming.",
+    "keywords": [
+      "random word generator",
+      "random words",
+      "word generator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Random Word Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Random Word Generator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lorem-ipsum",
+      "random-sentence"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "random-sentence",
+    "slug": "random-sentence",
+    "name": "Random Sentence Generator",
+    "tagline": "Generate random sentences",
+    "description": "Generate random sentences for writing practice and content ideas.",
+    "keywords": [
+      "random sentence generator",
+      "random sentences",
+      "sentence generator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Random Sentence Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Random Sentence Generator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "random-word",
+      "lorem-ipsum"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "random-paragraph",
+    "slug": "random-paragraph",
+    "name": "Random Paragraph Generator",
+    "tagline": "Generate random paragraphs",
+    "description": "Generate random paragraphs for content and design testing.",
+    "keywords": [
+      "random paragraph generator",
+      "random text",
+      "paragraph generator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Random Paragraph Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Random Paragraph Generator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "random-sentence",
+      "lorem-ipsum"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "text-repeater",
+    "slug": "text-repeater",
+    "name": "Text Repeater",
+    "tagline": "Repeat text multiple times",
+    "description": "Repeat any text or character a specified number of times.",
+    "keywords": [
+      "text repeater",
+      "repeat text",
+      "duplicate text"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Text Repeater free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Text Repeater?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "random-word",
+      "text-case-converter"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "upside-down-text",
+    "slug": "upside-down-text",
+    "name": "Upside Down Text",
+    "tagline": "Flip your text upside down",
+    "description": "Convert text to upside-down Unicode characters for fun.",
+    "keywords": [
+      "upside down text",
+      "flip text",
+      "flipped text generator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Upside Down Text free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Upside Down Text?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "reverse-text",
+      "fancy-text"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "fancy-text",
+    "slug": "fancy-text",
+    "name": "Fancy Text Generator",
+    "tagline": "Stylish Unicode text fonts",
+    "description": "Convert text to fancy Unicode styles: \ud835\udd6d\ud835\udd94\ud835\udd91\ud835\udd89, \ud835\udc9e\ud835\udcca\ud835\udcc7\ud835\udcc8\ud835\udcbe\ud835\udccb\ud835\udc52, \u212d\ud835\udd29\ud835\udd1e\ud835\udd30\ud835\udd30\ud835\udd26\ud835\udd20.",
+    "keywords": [
+      "fancy text generator",
+      "unicode text",
+      "cool text generator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Fancy Text Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Fancy Text Generator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "upside-down-text",
+      "text-case-converter"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "morse-code",
+    "slug": "morse-code",
+    "name": "Morse Code Translator",
+    "tagline": "Translate text to Morse code",
+    "description": "Convert any text to Morse code and Morse code back to text.",
+    "keywords": [
+      "morse code translator",
+      "text to morse code",
+      "morse code converter"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Morse Code Translator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Morse Code Translator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "binary-converter",
+      "reverse-text"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "binary-converter",
+    "slug": "binary-converter",
+    "name": "Binary Text Converter",
+    "tagline": "Convert text to binary code",
+    "description": "Convert text to binary (0s and 1s) and binary back to text.",
+    "keywords": [
+      "binary converter",
+      "text to binary",
+      "binary code translator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Binary Text Converter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Binary Text Converter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "morse-code",
+      "hex-converter"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "hex-converter",
+    "slug": "hex-converter",
+    "name": "Hex Text Converter",
+    "tagline": "Convert text to hexadecimal",
+    "description": "Convert text to hexadecimal encoding and back.",
+    "keywords": [
+      "hex converter",
+      "text to hex",
+      "hexadecimal converter"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Hex Text Converter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Hex Text Converter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "binary-converter",
+      "base64-encoder"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "base64-encoder",
+    "slug": "base64-encoder",
+    "name": "Base64 Encoder/Decoder",
+    "tagline": "Encode and decode Base64",
+    "description": "Convert text to and from Base64 encoding.",
+    "keywords": [
+      "base64 encoder",
+      "base64 decoder",
+      "base64 converter"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Base64 Encoder/Decoder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Base64 Encoder/Decoder?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "binary-converter",
+      "hex-converter"
+    ],
+    "priority": 0.72,
+    "monthlySearches": 110000,
+    "evergreen": true
+  },
+  {
+    "id": "url-encoder",
+    "slug": "url-encoder",
+    "name": "URL Encoder/Decoder",
+    "tagline": "Percent-encode URLs",
+    "description": "Encode and decode URL components and query strings.",
+    "keywords": [
+      "url encoder",
+      "url decoder",
+      "percent encoding"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the URL Encoder/Decoder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the URL Encoder/Decoder?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "base64-encoder",
+      "html-encoder"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "html-encoder",
+    "slug": "html-encoder",
+    "name": "HTML Encoder/Decoder",
+    "tagline": "Escape HTML special characters",
+    "description": "Encode and decode HTML entities like &amp;, &lt;, &gt;.",
+    "keywords": [
+      "html encoder",
+      "html escape",
+      "html entities encoder"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the HTML Encoder/Decoder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the HTML Encoder/Decoder?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "url-encoder",
+      "base64-encoder"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "json-formatter",
+    "slug": "json-formatter",
+    "name": "JSON Formatter",
+    "tagline": "Format and validate JSON",
+    "description": "Beautify, minify and validate JSON data.",
+    "keywords": [
+      "json formatter",
+      "json validator",
+      "format json"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the JSON Formatter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the JSON Formatter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "xml-formatter",
+      "html-encoder"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "xml-formatter",
+    "slug": "xml-formatter",
+    "name": "XML Formatter",
+    "tagline": "Format and validate XML",
+    "description": "Beautify and validate XML data.",
+    "keywords": [
+      "xml formatter",
+      "xml validator",
+      "format xml"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the XML Formatter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the XML Formatter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "json-formatter",
+      "html-encoder"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "csv-to-json",
+    "slug": "csv-to-json",
+    "name": "CSV to JSON Converter",
+    "tagline": "Convert CSV data to JSON",
+    "description": "Paste CSV data and convert it to properly formatted JSON.",
+    "keywords": [
+      "csv to json",
+      "convert csv to json",
+      "csv json converter"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the CSV to JSON Converter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the CSV to JSON Converter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "json-formatter",
+      "text-sorter"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "word-frequency",
+    "slug": "word-frequency",
+    "name": "Word Frequency Counter",
+    "tagline": "Count word frequency in text",
+    "description": "Analyze how often each word appears in your text.",
+    "keywords": [
+      "word frequency",
+      "word count frequency",
+      "most common words"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Word Frequency Counter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Word Frequency Counter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "word-counter",
+      "readability-score"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "keyword-density",
+    "slug": "keyword-density",
+    "name": "Keyword Density Checker",
+    "tagline": "Check keyword density for SEO",
+    "description": "Calculate the density of specific keywords in your content.",
+    "keywords": [
+      "keyword density checker",
+      "keyword density",
+      "seo keyword density"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Keyword Density Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Keyword Density Checker?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "word-frequency",
+      "readability-score"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "text-compare",
+    "slug": "text-compare",
+    "name": "Text Difference Checker",
+    "tagline": "Compare two texts side by side",
+    "description": "Find differences between two versions of any text.",
+    "keywords": [
+      "text compare",
+      "text diff",
+      "compare two texts"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Text Difference Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Text Difference Checker?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "find-replace",
+      "word-counter"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "text-to-speech",
+    "slug": "text-to-speech",
+    "name": "Text to Speech",
+    "tagline": "Convert text to phonetic pronunciation",
+    "description": "Show the phonetic pronunciation guide for any word or phrase.",
+    "keywords": [
+      "text to speech",
+      "pronunciation guide",
+      "phonetic text"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Text to Speech free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Text to Speech?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "word-counter",
+      "readability-score"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "slug-generator",
+    "slug": "slug-generator",
+    "name": "URL Slug Generator",
+    "tagline": "Convert text to URL slug",
+    "description": "Convert any text to a clean, SEO-friendly URL slug.",
+    "keywords": [
+      "slug generator",
+      "url slug",
+      "text to slug"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the URL Slug Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the URL Slug Generator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "url-encoder",
+      "text-case-converter"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "hashtag-generator",
+    "slug": "hashtag-generator",
+    "name": "Hashtag Generator",
+    "tagline": "Generate hashtags from text",
+    "description": "Generate relevant hashtags from any word or phrase.",
+    "keywords": [
+      "hashtag generator",
+      "create hashtags",
+      "hashtag maker"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Hashtag Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Hashtag Generator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "keyword-density",
+      "word-counter"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "meta-description",
+    "slug": "meta-description",
+    "name": "Meta Description Checker",
+    "tagline": "Check your meta description length",
+    "description": "Verify your meta description is within Google's recommended length.",
+    "keywords": [
+      "meta description checker",
+      "meta description length",
+      "seo meta description"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Meta Description Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Meta Description Checker?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "character-counter",
+      "keyword-density"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "title-case-checker",
+    "slug": "title-case-checker",
+    "name": "Title Case Checker",
+    "tagline": "Check proper title case",
+    "description": "Verify and fix title case formatting for headlines.",
+    "keywords": [
+      "title case checker",
+      "headline case",
+      "title capitalization"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Title Case Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Title Case Checker?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "text-case-converter",
+      "readability-score"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "text-encryption",
+    "slug": "text-encryption",
+    "name": "Text Encryption",
+    "tagline": "Simple text cipher encryption",
+    "description": "Encrypt text using Caesar cipher and ROT13.",
+    "keywords": [
+      "text encryption",
+      "caesar cipher",
+      "rot13 encoder"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Text Encryption free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Text Encryption?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "binary-converter",
+      "morse-code"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "acronym-generator",
+    "slug": "acronym-generator",
+    "name": "Acronym Generator",
+    "tagline": "Create acronyms from phrases",
+    "description": "Generate an acronym from any phrase or list of words.",
+    "keywords": [
+      "acronym generator",
+      "create acronym",
+      "make acronym"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Acronym Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Acronym Generator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "random-word",
+      "slug-generator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "pig-latin",
+    "slug": "pig-latin",
+    "name": "Pig Latin Translator",
+    "tagline": "Translate text to Pig Latin",
+    "description": "Convert any text to the fun Pig Latin language.",
+    "keywords": [
+      "pig latin translator",
+      "pig latin converter",
+      "pig latin generator"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Pig Latin Translator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Pig Latin Translator?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "morse-code",
+      "fancy-text"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "word-scrambler",
+    "slug": "word-scrambler",
+    "name": "Word Scrambler",
+    "tagline": "Scramble words for games",
+    "description": "Scramble words or letters randomly for word games.",
+    "keywords": [
+      "word scrambler",
+      "scramble words",
+      "anagram maker"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Word Scrambler free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Word Scrambler?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "random-word",
+      "reverse-text"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "sentence-builder",
+    "slug": "sentence-builder",
+    "name": "Sentence Builder",
+    "tagline": "Build sentences from word parts",
+    "description": "Combine subject, verb and object to build complete sentences.",
+    "keywords": [
+      "sentence builder",
+      "sentence maker",
+      "build a sentence"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Sentence Builder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Sentence Builder?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "random-sentence",
+      "random-word"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "alliteration-checker",
+    "slug": "alliteration-checker",
+    "name": "Alliteration Checker",
+    "tagline": "Find alliteration in text",
+    "description": "Identify alliterative phrases in your text.",
+    "keywords": [
+      "alliteration checker",
+      "find alliteration",
+      "alliteration finder"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Alliteration Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Alliteration Checker?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "readability-score",
+      "word-counter"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "rhyme-finder",
+    "slug": "rhyme-finder",
+    "name": "Rhyme Finder",
+    "tagline": "Find rhyming words",
+    "description": "Find words that rhyme with any word for poetry and lyrics.",
+    "keywords": [
+      "rhyme finder",
+      "words that rhyme",
+      "rhyming words"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Rhyme Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Rhyme Finder?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "random-word",
+      "reverse-text"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "unique-word-counter",
+    "slug": "unique-word-counter",
+    "name": "Unique Word Counter",
+    "tagline": "Count unique/distinct words",
+    "description": "Find how many unique words are used in any text.",
+    "keywords": [
+      "unique word counter",
+      "distinct words",
+      "unique words text"
+    ],
+    "category": "text",
+    "faqs": [
+      {
+        "q": "Is the Unique Word Counter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Unique Word Counter?",
+        "a": "This tool uses traditional text methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "word-counter",
+      "word-frequency"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  }
+]

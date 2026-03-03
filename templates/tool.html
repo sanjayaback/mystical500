@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{TOOL_TITLE}}</title>
+<meta name="description" content="{{TOOL_META_DESC}}">
+<meta name="keywords" content="{{TOOL_KEYWORDS}}">
+<link rel="canonical" href="{{BASE_URL}}/{{CATEGORY_SLUG}}/{{TOOL_SLUG}}/">
+<meta property="og:title" content="{{TOOL_TITLE}}">
+<meta property="og:description" content="{{TOOL_META_DESC}}">
+<meta property="og:url" content="{{BASE_URL}}/{{CATEGORY_SLUG}}/{{TOOL_SLUG}}/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<link rel="preload" href="/assets/css/styles.css" as="style">
+<link rel="stylesheet" href="/assets/css/styles.css">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@graph":[
+    {"@type":"WebApplication","name":"{{TOOL_NAME}}","url":"{{BASE_URL}}/{{CATEGORY_SLUG}}/{{TOOL_SLUG}}/","description":"{{TOOL_META_DESC}}","applicationCategory":"UtilitiesApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"featureList":["Free","No signup","Works in browser","Instant results"]},
+    {"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"{{BASE_URL}}/"},{"@type":"ListItem","position":2,"name":"{{CATEGORY_NAME}}","item":"{{BASE_URL}}/{{CATEGORY_SLUG}}/"},{"@type":"ListItem","position":3,"name":"{{TOOL_NAME}}","item":"{{BASE_URL}}/{{CATEGORY_SLUG}}/{{TOOL_SLUG}}/"}]},
+    {"@type":"FAQPage","mainEntity":{{TOOL_FAQS_SCHEMA}}}
+  ]
+}
+</script>
+</head>
+<body data-tool-id="{{TOOL_SLUG}}" data-category="{{CATEGORY_SLUG}}">
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo">✨ MysticTools</a>
+    <nav class="main-nav" id="main-nav">
+      <a href="/astrology/">⭐ Astrology</a>
+      <a href="/numerology/">🔢 Numerology</a>
+      <a href="/love/">💕 Love</a>
+      <a href="/lucky/">🍀 Lucky</a>
+      <a href="/birthday/">🎂 Birthday</a>
+      <a href="/tarot/">🃏 Tarot</a>
+    </nav>
+    <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
+  </div>
+</header>
+
+<!-- BREADCRUMB -->
+<div class="breadcrumb">
+  <a href="/">Home</a><span>›</span>
+  <a href="/{{CATEGORY_SLUG}}/">{{CATEGORY_NAME}}</a><span>›</span>
+  {{TOOL_NAME}}
+</div>
+
+<!-- AD: TOP LEADERBOARD -->
+<div style="max-width:1200px;margin:.75rem auto;padding:0 1.25rem">
+  <div class="ad-slot" id="ad-top">Advertisement</div>
+</div>
+
+<div class="page-wrap">
+  <main>
+    <!-- HERO -->
+    <div class="tool-hero">
+      <h1>{{TOOL_NAME}}</h1>
+      <p>{{TOOL_TAGLINE}}</p>
+      <div class="badges">
+        <span class="hero-badge">⚡ Instant results</span>
+        <span class="hero-badge">🆓 100% Free</span>
+        <span class="hero-badge">🔒 No signup needed</span>
+        <span class="hero-badge">📱 Works on all devices</span>
+      </div>
+    </div>
+
+    <!-- TOOL BOX -->
+    <div class="tool-box">
+      <h2>{{TOOL_NAME}}</h2>
+      <div id="tool-render-target"></div>
+    </div>
+
+    <!-- HOW TO USE -->
+    <div class="content-section">
+      <h2>How to Use the {{TOOL_NAME}}</h2>
+      {{HOW_TO_USE}}
+    </div>
+
+    <!-- ABOUT -->
+    <div class="content-section">
+      <h2>About {{TOOL_NAME}}</h2>
+      {{ABOUT_CONTENT}}
+    </div>
+
+    <!-- USE CASES -->
+    <div class="content-section">
+      <h2>Common Uses</h2>
+      {{USE_CASES}}
+    </div>
+
+    <!-- FAQ -->
+    <div class="content-section">
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">{{TOOL_FAQS_HTML}}</div>
+    </div>
+
+    <!-- AD: MID CONTENT -->
+    <div class="ad-slot" id="ad-mid">Advertisement</div>
+  </main>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <!-- AD: SIDEBAR -->
+    <div class="ad-slot" id="ad-sidebar">Advertisement</div>
+
+    <!-- RELATED TOOLS -->
+    <div class="sidebar-card">
+      <h3>🔗 Related Tools</h3>
+      <ul class="related-list">{{RELATED_TOOLS_HTML}}</ul>
+    </div>
+
+    <!-- CATEGORY TOOLS -->
+    <div class="sidebar-card">
+      <h3>{{CATEGORY_ICON}} More {{CATEGORY_NAME}}</h3>
+      <ul class="related-list">{{CATEGORY_TOOLS_HTML}}</ul>
+    </div>
+  </aside>
+</div>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">✨ MysticTools</div>
+      <p class="footer-tagline">Free mystical tools for astrology, numerology, love, tarot and more. 498 tools. No signup. No ads tracking.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Categories</h4>
+      <a href="/astrology/">⭐ Astrology</a>
+      <a href="/numerology/">🔢 Numerology</a>
+      <a href="/love/">💕 Love</a>
+      <a href="/lucky/">🍀 Lucky</a>
+      <a href="/birthday/">🎂 Birthday</a>
+      <a href="/tarot/">🃏 Tarot</a>
+    </div>
+    <div class="footer-col">
+      <h4>More</h4>
+      <a href="/dream/">🌙 Dream</a>
+      <a href="/chinese/">🐉 Chinese</a>
+      <a href="/wellness/">🧘 Wellness</a>
+      <a href="/text/">✍️ Text Tools</a>
+      <a href="/about/">About</a>
+      <a href="/privacy/">Privacy</a>
+    </div>
+  </div>
+  <div class="footer-bottom">© <span id="footer-year"></span> MysticTools · Free forever · No data collected</div>
+</footer>
+
+<!-- AD: FOOTER BANNER -->
+<div style="max-width:1200px;margin:.5rem auto;padding:0 1.25rem">
+  <div class="ad-slot" id="ad-footer">Advertisement</div>
+</div>
+
+<script defer src="/assets/js/engine.js"></script>
+</body>
+</html>

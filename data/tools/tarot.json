@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "tarot-card-reader",
+    "slug": "tarot-card-reader",
+    "name": "Tarot Card Reader",
+    "tagline": "3-card past, present, future spread",
+    "description": "Draw three cards from the full Major and Minor Arcana for a complete reading.",
+    "keywords": [
+      "tarot card reading",
+      "free tarot reading",
+      "tarot cards online"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Tarot Card Reader free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Tarot Card Reader?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-tarot-card",
+      "love-tarot"
+    ],
+    "priority": 0.83,
+    "monthlySearches": 165000,
+    "evergreen": true
+  },
+  {
+    "id": "major-arcana-reading",
+    "slug": "major-arcana-reading",
+    "name": "Major Arcana Reading",
+    "tagline": "Reading using only the 22 major cards",
+    "description": "Draw from the 22 Major Arcana cards for big-picture life guidance.",
+    "keywords": [
+      "major arcana reading",
+      "major arcana tarot",
+      "22 tarot cards reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Major Arcana Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Major Arcana Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "daily-tarot-card"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "celtic-cross-tarot",
+    "slug": "celtic-cross-tarot",
+    "name": "Celtic Cross Spread",
+    "tagline": "The classic 10-card tarot spread",
+    "description": "Get a full Celtic Cross reading \u2014 the most comprehensive tarot spread.",
+    "keywords": [
+      "celtic cross tarot",
+      "10 card tarot spread",
+      "celtic cross reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Celtic Cross Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Celtic Cross Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "love-tarot"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "one-card-reading",
+    "slug": "one-card-reading",
+    "name": "One Card Daily Reading",
+    "tagline": "A single card of guidance",
+    "description": "Draw one card for clear, focused daily guidance.",
+    "keywords": [
+      "one card tarot",
+      "single card reading",
+      "daily one card"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the One Card Daily Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the One Card Daily Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "daily-tarot-card"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "yes-no-tarot",
+    "slug": "yes-no-tarot",
+    "name": "Yes or No Tarot",
+    "tagline": "Get a yes or no from the cards",
+    "description": "Draw a single card and receive a yes or no answer with meaning.",
+    "keywords": [
+      "yes no tarot",
+      "tarot yes or no",
+      "one card yes no tarot"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Yes or No Tarot free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Yes or No Tarot?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "yes-no-oracle"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "love-spread-tarot",
+    "slug": "love-spread-tarot",
+    "name": "Love Tarot Spread",
+    "tagline": "5-card love and relationship spread",
+    "description": "Get a focused 5-card tarot spread about your love life.",
+    "keywords": [
+      "love tarot spread",
+      "relationship tarot",
+      "5 card love reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Love Tarot Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Love Tarot Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-tarot",
+      "tarot-card-reader"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "career-tarot",
+    "slug": "career-tarot",
+    "name": "Career Tarot Reading",
+    "tagline": "Guidance on work and career",
+    "description": "Draw cards to get insights on your career path and professional life.",
+    "keywords": [
+      "career tarot",
+      "tarot for work",
+      "job tarot reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Career Tarot Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Career Tarot Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "zodiac-career"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "past-life-tarot",
+    "slug": "past-life-tarot",
+    "name": "Past Life Tarot",
+    "tagline": "Explore your past life through cards",
+    "description": "A special spread to explore past life themes and karma.",
+    "keywords": [
+      "past life tarot",
+      "karma tarot",
+      "tarot past life reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Past Life Tarot free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Past Life Tarot?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "past-life-lover"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "spirit-guide-tarot",
+    "slug": "spirit-guide-tarot",
+    "name": "Spirit Guide Tarot",
+    "tagline": "Connect with your spirit guide",
+    "description": "Draw cards to receive messages from your spirit guides.",
+    "keywords": [
+      "spirit guide tarot",
+      "tarot spirit message",
+      "guide tarot reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Spirit Guide Tarot free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Spirit Guide Tarot?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "aura-reader"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "angel-card-reading",
+    "slug": "angel-card-reading",
+    "name": "Angel Card Reading",
+    "tagline": "Messages from the angels",
+    "description": "Draw angel oracle cards for uplifting divine guidance.",
+    "keywords": [
+      "angel card reading",
+      "angel oracle cards",
+      "angel message"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Angel Card Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Angel Card Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "yes-no-oracle"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "oracle-card-reading",
+    "slug": "oracle-card-reading",
+    "name": "Oracle Card Reading",
+    "tagline": "General oracle card guidance",
+    "description": "Draw from an oracle deck for open and intuitive guidance.",
+    "keywords": [
+      "oracle card reading",
+      "oracle cards online",
+      "free oracle reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Oracle Card Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Oracle Card Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "angel-card-reading"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "tarot-birth-card",
+    "slug": "tarot-birth-card",
+    "name": "Tarot Birth Card",
+    "tagline": "Your personal tarot card",
+    "description": "Find the tarot card that represents your life path.",
+    "keywords": [
+      "tarot birth card",
+      "personal tarot card",
+      "life path tarot"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Tarot Birth Card free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Tarot Birth Card?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "life-path-number"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "three-card-spread",
+    "slug": "three-card-spread",
+    "name": "3-Card Mind Body Spirit",
+    "tagline": "Mind, Body, Spirit spread",
+    "description": "Draw three cards for mind, body, and spiritual guidance.",
+    "keywords": [
+      "mind body spirit tarot",
+      "3 card spread",
+      "tarot mind body soul"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the 3-Card Mind Body Spirit free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the 3-Card Mind Body Spirit?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "one-card-reading"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "horseshoe-spread",
+    "slug": "horseshoe-spread",
+    "name": "Horseshoe Tarot Spread",
+    "tagline": "7-card horseshoe reading",
+    "description": "Get a 7-card horseshoe spread covering past, present and future outcomes.",
+    "keywords": [
+      "horseshoe tarot",
+      "7 card tarot spread",
+      "horseshoe spread tarot"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Horseshoe Tarot Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Horseshoe Tarot Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "celtic-cross-tarot"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "new-moon-tarot",
+    "slug": "new-moon-tarot",
+    "name": "New Moon Tarot Spread",
+    "tagline": "Set intentions with the new moon",
+    "description": "A special 5-card spread for new moon rituals and manifestation.",
+    "keywords": [
+      "new moon tarot",
+      "moon ritual tarot",
+      "new moon spread"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the New Moon Tarot Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the New Moon Tarot Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-phase-tracker",
+      "tarot-card-reader"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "full-moon-tarot",
+    "slug": "full-moon-tarot",
+    "name": "Full Moon Tarot Spread",
+    "tagline": "Release and reveal with the full moon",
+    "description": "A full moon tarot spread for releasing what no longer serves you.",
+    "keywords": [
+      "full moon tarot",
+      "full moon reading",
+      "full moon spread"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Full Moon Tarot Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Full Moon Tarot Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-phase-tracker",
+      "new-moon-tarot"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "weekly-tarot",
+    "slug": "weekly-tarot",
+    "name": "Weekly Tarot Forecast",
+    "tagline": "Your week ahead in tarot",
+    "description": "Draw 7 cards for a card-a-day weekly tarot forecast.",
+    "keywords": [
+      "weekly tarot",
+      "tarot week ahead",
+      "7 day tarot"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Weekly Tarot Forecast free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Weekly Tarot Forecast?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-tarot-card",
+      "tarot-card-reader"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "chakra-tarot",
+    "slug": "chakra-tarot",
+    "name": "Chakra Tarot Reading",
+    "tagline": "7 cards for 7 chakras",
+    "description": "Draw one card for each of the seven chakras for a healing reading.",
+    "keywords": [
+      "chakra tarot",
+      "tarot chakra reading",
+      "7 chakra tarot spread"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Chakra Tarot Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chakra Tarot Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chakra-calculator",
+      "tarot-card-reader"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "shadow-work-tarot",
+    "slug": "shadow-work-tarot",
+    "name": "Shadow Work Tarot",
+    "tagline": "Explore your shadow self",
+    "description": "A powerful spread for shadow work and inner healing.",
+    "keywords": [
+      "shadow work tarot",
+      "shadow self tarot",
+      "inner healing tarot"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Shadow Work Tarot free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Shadow Work Tarot?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "aura-reader"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "yearly-tarot",
+    "slug": "yearly-tarot",
+    "name": "Yearly Tarot Reading",
+    "tagline": "A card for every month of the year",
+    "description": "Draw 12 cards \u2014 one for each month \u2014 for a year-long forecast.",
+    "keywords": [
+      "yearly tarot",
+      "year ahead tarot",
+      "12 month tarot"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Yearly Tarot Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Yearly Tarot Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "weekly-tarot",
+      "tarot-card-reader"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-tarot-spread",
+    "slug": "zodiac-tarot-spread",
+    "name": "Zodiac Wheel Tarot",
+    "tagline": "12-card zodiac house reading",
+    "description": "Draw one card for each zodiac house for a complete life overview.",
+    "keywords": [
+      "zodiac tarot spread",
+      "12 house tarot",
+      "astrology tarot wheel"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Wheel Tarot free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Wheel Tarot?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "rune-reading",
+    "slug": "rune-reading",
+    "name": "Rune Reading",
+    "tagline": "Draw runes for ancient wisdom",
+    "description": "Cast elder futhark runes for a traditional divination reading.",
+    "keywords": [
+      "rune reading",
+      "elder futhark runes",
+      "rune divination online"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Rune Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Rune Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "rune-cast",
+      "tarot-card-reader"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "pendulum-reading",
+    "slug": "pendulum-reading",
+    "name": "Pendulum Reading",
+    "tagline": "Virtual pendulum divination",
+    "description": "Ask a question and watch the virtual pendulum answer.",
+    "keywords": [
+      "pendulum reading online",
+      "virtual pendulum",
+      "pendulum oracle"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Pendulum Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Pendulum Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "pendulum",
+      "yes-no-tarot"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "cartomancy",
+    "slug": "cartomancy",
+    "name": "Cartomancy Reading",
+    "tagline": "Playing card fortune telling",
+    "description": "Get a fortune reading using a standard deck of playing cards.",
+    "keywords": [
+      "cartomancy",
+      "playing card reading",
+      "fortune telling cards"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Cartomancy Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Cartomancy Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "oracle-card-reading"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "lenormand-reading",
+    "slug": "lenormand-reading",
+    "name": "Lenormand Card Reading",
+    "tagline": "Traditional German oracle cards",
+    "description": "Draw Lenormand cards for practical, grounded divination.",
+    "keywords": [
+      "lenormand reading",
+      "lenormand cards",
+      "lenormand oracle"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Lenormand Card Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lenormand Card Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "oracle-card-reading",
+      "tarot-card-reader"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "i-ching-reading",
+    "slug": "i-ching-reading",
+    "name": "I Ching Reading",
+    "tagline": "Ancient Chinese hexagram divination",
+    "description": "Cast coins to generate an I Ching hexagram and receive guidance.",
+    "keywords": [
+      "i ching reading",
+      "i ching online",
+      "hexagram reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the I Ching Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the I Ching Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-i-ching",
+      "rune-reading"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "tarot-numerology",
+    "slug": "tarot-numerology",
+    "name": "Tarot Numerology",
+    "tagline": "Tarot cards and their numbers",
+    "description": "Explore the numerological significance of each tarot card.",
+    "keywords": [
+      "tarot numerology",
+      "number tarot",
+      "tarot numbers meaning"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Tarot Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Tarot Numerology?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "numerology-tarot",
+      "tarot-card-reader"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "reversed-tarot",
+    "slug": "reversed-tarot",
+    "name": "Reversed Card Meanings",
+    "tagline": "What reversed tarot cards mean",
+    "description": "Learn the reversed (upside down) meanings of all 78 tarot cards.",
+    "keywords": [
+      "reversed tarot",
+      "upside down tarot",
+      "tarot card reversed meaning"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Reversed Card Meanings free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Reversed Card Meanings?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "major-arcana-reading"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "tarot-suits",
+    "slug": "tarot-suits",
+    "name": "Tarot Suit Meaning",
+    "tagline": "Cups, Wands, Swords, Pentacles",
+    "description": "Explore the meaning and symbolism of the four tarot suits.",
+    "keywords": [
+      "tarot suits",
+      "cups wands swords pentacles",
+      "minor arcana suits"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Tarot Suit Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Tarot Suit Meaning?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "major-arcana-reading"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "fire-tarot",
+    "slug": "fire-tarot",
+    "name": "Fire Signs Tarot Spread",
+    "tagline": "Aries, Leo, Sagittarius spread",
+    "description": "A special spread designed for fire sign energy and guidance.",
+    "keywords": [
+      "fire sign tarot",
+      "aries leo sagittarius tarot",
+      "fire element tarot"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Fire Signs Tarot Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Fire Signs Tarot Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "element-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "water-tarot",
+    "slug": "water-tarot",
+    "name": "Water Signs Tarot Spread",
+    "tagline": "Cancer, Scorpio, Pisces spread",
+    "description": "A spread that taps into water sign energy for emotional guidance.",
+    "keywords": [
+      "water sign tarot",
+      "cancer scorpio pisces tarot",
+      "water element tarot"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Water Signs Tarot Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Water Signs Tarot Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "element-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "earth-tarot",
+    "slug": "earth-tarot",
+    "name": "Earth Signs Tarot Spread",
+    "tagline": "Taurus, Virgo, Capricorn spread",
+    "description": "A grounding spread using earth sign energy for practical guidance.",
+    "keywords": [
+      "earth sign tarot",
+      "taurus virgo capricorn tarot",
+      "earth element tarot"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Earth Signs Tarot Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Earth Signs Tarot Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "element-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "air-tarot",
+    "slug": "air-tarot",
+    "name": "Air Signs Tarot Spread",
+    "tagline": "Gemini, Libra, Aquarius spread",
+    "description": "A mental clarity spread using air sign energy.",
+    "keywords": [
+      "air sign tarot",
+      "gemini libra aquarius tarot",
+      "air element tarot"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Air Signs Tarot Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Air Signs Tarot Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "element-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "tarot-meditation",
+    "slug": "tarot-meditation",
+    "name": "Tarot Meditation Guide",
+    "tagline": "Use tarot for daily meditation",
+    "description": "Get a card and a guided meditation practice based on its energy.",
+    "keywords": [
+      "tarot meditation",
+      "tarot mindfulness",
+      "daily tarot practice"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Tarot Meditation Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Tarot Meditation Guide?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-tarot-card",
+      "meditation-timer"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "dream-card",
+    "slug": "dream-card",
+    "name": "Dream Oracle Card",
+    "tagline": "Cards for dream interpretation",
+    "description": "Draw a special dream oracle card for insights into your dreams.",
+    "keywords": [
+      "dream oracle card",
+      "dream tarot",
+      "tarot dream meaning"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Dream Oracle Card free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Dream Oracle Card?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "dream-dictionary",
+      "tarot-card-reader"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "money-tarot",
+    "slug": "money-tarot",
+    "name": "Money & Abundance Tarot",
+    "tagline": "Financial guidance from the cards",
+    "description": "Draw cards focused on money, abundance and financial decisions.",
+    "keywords": [
+      "money tarot",
+      "abundance tarot",
+      "tarot finance reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Money & Abundance Tarot free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Money & Abundance Tarot?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "career-tarot"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "health-tarot",
+    "slug": "health-tarot",
+    "name": "Health Tarot Reading",
+    "tagline": "Wellness guidance from the cards",
+    "description": "Draw cards for insight on health, wellness and healing.",
+    "keywords": [
+      "health tarot",
+      "healing tarot",
+      "tarot wellness reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Health Tarot Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Health Tarot Reading?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "chakra-tarot"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "decision-tarot",
+    "slug": "decision-tarot",
+    "name": "Decision Making Tarot",
+    "tagline": "Help making a difficult decision",
+    "description": "Draw cards to gain clarity on a difficult choice.",
+    "keywords": [
+      "decision tarot",
+      "tarot help decide",
+      "choice tarot reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Decision Making Tarot free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Decision Making Tarot?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "yes-no-tarot",
+      "tarot-card-reader"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "solar-tarot",
+    "slug": "solar-tarot",
+    "name": "Solar Plexus Tarot",
+    "tagline": "Power and confidence reading",
+    "description": "A confidence-boosting spread for reclaiming personal power.",
+    "keywords": [
+      "solar plexus tarot",
+      "confidence tarot",
+      "power tarot spread"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Solar Plexus Tarot free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Solar Plexus Tarot?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chakra-tarot",
+      "tarot-card-reader"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "ancestors-tarot",
+    "slug": "ancestors-tarot",
+    "name": "Ancestors Tarot Spread",
+    "tagline": "Messages from your lineage",
+    "description": "A spread to connect with ancestral wisdom and lineage messages.",
+    "keywords": [
+      "ancestors tarot",
+      "family lineage tarot",
+      "ancestral reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Ancestors Tarot Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Ancestors Tarot Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "past-life-tarot",
+      "tarot-card-reader"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "manifest-tarot",
+    "slug": "manifest-tarot",
+    "name": "Manifestation Tarot",
+    "tagline": "Tarot for law of attraction",
+    "description": "A spread to activate the law of attraction and manifest your desires.",
+    "keywords": [
+      "manifestation tarot",
+      "law of attraction tarot",
+      "manifest tarot spread"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Manifestation Tarot free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Manifestation Tarot?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "wish-maker",
+      "tarot-card-reader"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-tarot-spread",
+    "slug": "birthday-tarot-spread",
+    "name": "Birthday Tarot Spread",
+    "tagline": "Year ahead reading for your birthday",
+    "description": "A special 12-card birthday spread for the year ahead.",
+    "keywords": [
+      "birthday tarot spread",
+      "birthday reading tarot",
+      "tarot birthday spread"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Birthday Tarot Spread free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Tarot Spread?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-tarot",
+      "tarot-card-reader"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "fire-sign-oracle",
+    "slug": "fire-sign-oracle",
+    "name": "Fire Sign Oracle",
+    "tagline": "Oracle reading for Aries, Leo, Sagittarius",
+    "description": "Oracle card messages tailored for fire signs.",
+    "keywords": [
+      "fire sign oracle",
+      "aries leo sagittarius oracle",
+      "fire oracle reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Fire Sign Oracle free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Fire Sign Oracle?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "oracle-card-reading",
+      "fire-tarot"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 4400,
+    "evergreen": true
+  },
+  {
+    "id": "water-sign-oracle",
+    "slug": "water-sign-oracle",
+    "name": "Water Sign Oracle",
+    "tagline": "Oracle reading for Cancer, Scorpio, Pisces",
+    "description": "Oracle card messages tailored for water signs.",
+    "keywords": [
+      "water sign oracle",
+      "cancer scorpio pisces oracle",
+      "water oracle"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Water Sign Oracle free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Water Sign Oracle?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "oracle-card-reading",
+      "water-tarot"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 4400,
+    "evergreen": true
+  },
+  {
+    "id": "moon-oracle",
+    "slug": "moon-oracle",
+    "name": "Moon Oracle",
+    "tagline": "Oracle reading aligned with moon cycles",
+    "description": "Get oracle messages aligned with the current moon phase.",
+    "keywords": [
+      "moon oracle",
+      "lunar oracle",
+      "moon card reading"
+    ],
+    "category": "tarot",
+    "faqs": [
+      {
+        "q": "Is the Moon Oracle free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Moon Oracle?",
+        "a": "This tool uses traditional tarot methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "oracle-card-reading",
+      "moon-phase-tracker"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  }
+]

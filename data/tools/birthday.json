@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "age-calculator",
+    "slug": "age-calculator",
+    "name": "Age Calculator",
+    "tagline": "Calculate exact age in years, months and days",
+    "description": "Find your exact age down to days, hours, and minutes from any birthdate.",
+    "keywords": [
+      "age calculator",
+      "how old am i",
+      "exact age calculator"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Age Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Age Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "days-since-calculator",
+      "birthday-countdown"
+    ],
+    "priority": 0.9,
+    "monthlySearches": 246000,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-countdown",
+    "slug": "birthday-countdown",
+    "name": "Birthday Countdown",
+    "tagline": "Days until your next birthday",
+    "description": "Count down the exact days, hours and minutes until your next birthday.",
+    "keywords": [
+      "birthday countdown",
+      "days until my birthday",
+      "birthday timer"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Countdown free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Countdown?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-calculator",
+      "days-since-calculator"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "day-of-week-birthday",
+    "slug": "day-of-week-birthday",
+    "name": "Day of Week Finder",
+    "tagline": "What day of the week were you born?",
+    "description": "Find the exact day of the week for any birth date.",
+    "keywords": [
+      "what day was i born",
+      "day of week calculator",
+      "day of birth finder"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Day of Week Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Day of Week Finder?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-calculator",
+      "birthday-countdown"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-personality",
+    "slug": "birthday-personality",
+    "name": "Birthday Personality",
+    "tagline": "Personality by exact birth date",
+    "description": "Get a detailed personality reading based on your exact date of birth.",
+    "keywords": [
+      "birthday personality",
+      "birth date personality",
+      "date of birth meaning"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Personality free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Personality?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-sign-finder",
+      "life-path-number"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-number-meaning",
+    "slug": "birthday-number-meaning",
+    "name": "Birthday Number Meaning",
+    "tagline": "The spiritual meaning of your birthday",
+    "description": "Discover the deeper numerological and spiritual meaning of your birth date.",
+    "keywords": [
+      "birthday number meaning",
+      "birth date meaning",
+      "birthday numerology"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Number Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Number Meaning?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-number",
+      "life-path-number"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "generation-calculator",
+    "slug": "generation-calculator",
+    "name": "Generation Calculator",
+    "tagline": "Which generation are you?",
+    "description": "Find your generational group: Baby Boomer, Gen X, Millennial, Gen Z, or Alpha.",
+    "keywords": [
+      "what generation am i",
+      "generation calculator",
+      "am i a millennial"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Generation Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Generation Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-calculator",
+      "birthday-personality"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "biorhythm-calculator",
+    "slug": "biorhythm-calculator",
+    "name": "Biorhythm Calculator",
+    "tagline": "Your physical, emotional and intellectual cycles",
+    "description": "Calculate your biorhythm cycles to understand your energy patterns.",
+    "keywords": [
+      "biorhythm calculator",
+      "biorhythm chart",
+      "biorhythm today"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Biorhythm Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Biorhythm Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-calculator",
+      "moon-phase-tracker"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "birth-stone-finder",
+    "slug": "birth-stone-finder",
+    "name": "Birthstone Finder",
+    "tagline": "Your traditional and modern birthstone",
+    "description": "Find the birthstone for any month or zodiac sign.",
+    "keywords": [
+      "birthstone",
+      "birthstone by month",
+      "what is my birthstone"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthstone Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthstone Finder?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-stone",
+      "lucky-stone-finder"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "birth-flower-finder",
+    "slug": "birth-flower-finder",
+    "name": "Birth Flower Finder",
+    "tagline": "The flower of your birth month",
+    "description": "Discover the traditional birth flower for any month of the year.",
+    "keywords": [
+      "birth flower",
+      "birth month flower",
+      "birth flower meaning"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birth Flower Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birth Flower Finder?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-flower",
+      "birthstone-finder"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "days-since-calculator",
+    "slug": "days-since-calculator",
+    "name": "Days Since Calculator",
+    "tagline": "How many days since any date?",
+    "description": "Calculate the exact number of days since any past date.",
+    "keywords": [
+      "days since calculator",
+      "days since date",
+      "how many days ago"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Days Since Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Days Since Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-calculator",
+      "birthday-countdown"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "days-until-calculator",
+    "slug": "days-until-calculator",
+    "name": "Days Until Calculator",
+    "tagline": "Days until any future date",
+    "description": "Calculate exactly how many days until any future date.",
+    "keywords": [
+      "days until",
+      "days until date",
+      "countdown to date"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Days Until Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Days Until Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-countdown",
+      "days-since-calculator"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "birth-year-events",
+    "slug": "birth-year-events",
+    "name": "Your Birth Year in History",
+    "tagline": "What happened in your birth year?",
+    "description": "Explore major historical events, pop culture and world records from your birth year.",
+    "keywords": [
+      "birth year history",
+      "what happened when i was born",
+      "born in year events"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Your Birth Year in History free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Your Birth Year in History?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-calculator",
+      "generation-calculator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "famous-birthday",
+    "slug": "famous-birthday",
+    "name": "Famous People Birthday",
+    "tagline": "Celebrities born on your birthday",
+    "description": "Find famous people who share your exact birthday.",
+    "keywords": [
+      "famous people birthday",
+      "celebrities same birthday",
+      "born on same day"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Famous People Birthday free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Famous People Birthday?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-personality",
+      "day-of-week-birthday"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-gift-guide",
+    "slug": "birthday-gift-guide",
+    "name": "Birthday Gift Guide",
+    "tagline": "Perfect gift by zodiac sign",
+    "description": "Find the ideal birthday gift based on someone's zodiac sign.",
+    "keywords": [
+      "birthday gift guide",
+      "gift by zodiac sign",
+      "birthday present ideas"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Gift Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Gift Guide?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-personality",
+      "lucky-color-finder"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "half-birthday",
+    "slug": "half-birthday",
+    "name": "Half Birthday Calculator",
+    "tagline": "When is your half birthday?",
+    "description": "Find the date that falls exactly 6 months from your birthday.",
+    "keywords": [
+      "half birthday",
+      "half birthday calculator",
+      "6 months from birthday"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Half Birthday Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Half Birthday Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-countdown",
+      "age-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-birthday",
+    "slug": "chinese-birthday",
+    "name": "Chinese Birthday Calculator",
+    "tagline": "Your birthday in the Chinese calendar",
+    "description": "Convert your Gregorian birthday to the Chinese lunar calendar.",
+    "keywords": [
+      "chinese birthday",
+      "lunar birthday",
+      "chinese age calculator"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Chinese Birthday Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Birthday Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "age-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-birthday-reading",
+    "slug": "numerology-birthday-reading",
+    "name": "Numerology Birthday Reading",
+    "tagline": "Full numerology for your birthday",
+    "description": "Get a complete numerological interpretation of your birth date.",
+    "keywords": [
+      "numerology birthday",
+      "birthday numerology reading",
+      "birth date numerology"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Numerology Birthday Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Birthday Reading?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "birthday-number"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-tarot",
+    "slug": "birthday-tarot",
+    "name": "Birthday Tarot Card",
+    "tagline": "Your personal tarot card by birthday",
+    "description": "Find the tarot card assigned to your birth year and life path.",
+    "keywords": [
+      "birthday tarot",
+      "tarot birth card",
+      "tarot birthday card"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Tarot Card free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Tarot Card?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "zodiac-tarot-card"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "golden-birthday",
+    "slug": "golden-birthday",
+    "name": "Golden Birthday Finder",
+    "tagline": "When is your golden birthday?",
+    "description": "Find your golden (champagne) birthday \u2014 when age equals day of birth.",
+    "keywords": [
+      "golden birthday",
+      "champagne birthday",
+      "lucky birthday"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Golden Birthday Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Golden Birthday Finder?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-countdown",
+      "age-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-lucky-numbers",
+    "slug": "birthday-lucky-numbers",
+    "name": "Birthday Lucky Numbers",
+    "tagline": "Lucky numbers from your birthday",
+    "description": "Extract lucky numbers from your birth date.",
+    "keywords": [
+      "birthday lucky numbers",
+      "lucky numbers from birthday",
+      "birth date lucky number"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Lucky Numbers free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Lucky Numbers?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-number-generator",
+      "life-path-number"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "century-birthday",
+    "slug": "century-birthday",
+    "name": "Century Birthday Calculator",
+    "tagline": "When will you turn 100?",
+    "description": "Calculate the date when you'll celebrate your 100th birthday.",
+    "keywords": [
+      "100th birthday",
+      "when will i be 100",
+      "centennial birthday"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Century Birthday Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Century Birthday Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-countdown",
+      "age-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-compatibility",
+    "slug": "birthday-compatibility",
+    "name": "Birthday Compatibility",
+    "tagline": "Compatibility by birth date",
+    "description": "Check how compatible two people are based solely on birth dates.",
+    "keywords": [
+      "birthday compatibility",
+      "date of birth match",
+      "birthday match checker"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Compatibility?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "numerology-compatibility"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-week",
+    "slug": "birthday-week",
+    "name": "Birthday Week Finder",
+    "tagline": "What week number is your birthday?",
+    "description": "Find the ISO week number of your birthday and its significance.",
+    "keywords": [
+      "birthday week number",
+      "week of year birthday",
+      "ISO week birthday"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Week Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Week Finder?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "day-of-week-birthday",
+      "age-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "planet-birthday",
+    "slug": "planet-birthday",
+    "name": "Planet of the Day",
+    "tagline": "Which planet ruled your birth day?",
+    "description": "Find the planetary ruler of the day you were born.",
+    "keywords": [
+      "planet of birth",
+      "birth day planet",
+      "planetary ruler birthday"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Planet of the Day free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Planet of the Day?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "planetary-hour-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "birth-hour-meaning",
+    "slug": "birth-hour-meaning",
+    "name": "Birth Hour Meaning",
+    "tagline": "The significance of your birth hour",
+    "description": "Explore what time of day you were born and its astrological meaning.",
+    "keywords": [
+      "birth hour meaning",
+      "born at midnight meaning",
+      "time of birth astrology"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birth Hour Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birth Hour Meaning?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "rising-sign-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-quote",
+    "slug": "birthday-quote",
+    "name": "Birthday Motivational Quote",
+    "tagline": "Inspiring quote for your birthday",
+    "description": "Get a personalized inspirational quote for your special day.",
+    "keywords": [
+      "birthday quote",
+      "birthday motivation",
+      "special birthday message"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Motivational Quote free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Motivational Quote?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-affirmation",
+      "birthday-personality"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "dog-years",
+    "slug": "dog-years",
+    "name": "Dog Years Calculator",
+    "tagline": "Convert your age to dog years",
+    "description": "Calculate your age in dog years for fun comparison.",
+    "keywords": [
+      "dog years",
+      "dog years calculator",
+      "human years to dog years"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Dog Years Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Dog Years Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-calculator",
+      "cat-years"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "cat-years",
+    "slug": "cat-years",
+    "name": "Cat Years Calculator",
+    "tagline": "Convert your age to cat years",
+    "description": "Calculate your age in cat years for fun comparison.",
+    "keywords": [
+      "cat years",
+      "cat years calculator",
+      "human to cat age"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Cat Years Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Cat Years Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "dog-years",
+      "age-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "retirement-countdown",
+    "slug": "retirement-countdown",
+    "name": "Retirement Countdown",
+    "tagline": "How many days until retirement?",
+    "description": "Count down the days until your retirement age.",
+    "keywords": [
+      "retirement countdown",
+      "days until retirement",
+      "retirement calculator"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Retirement Countdown free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Retirement Countdown?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-countdown",
+      "days-until-calculator"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-age",
+    "slug": "zodiac-age",
+    "name": "Zodiac Age Calculator",
+    "tagline": "Your age in zodiac cycles",
+    "description": "Calculate how many complete zodiac cycles you have lived through.",
+    "keywords": [
+      "zodiac cycles age",
+      "astrology age",
+      "zodiac years lived"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Age Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Age Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-calculator",
+      "zodiac-sign-finder"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-season",
+    "slug": "birthday-season",
+    "name": "Birthday Season Meaning",
+    "tagline": "Your birth season personality",
+    "description": "Discover personality traits linked to the season you were born in.",
+    "keywords": [
+      "birthday season personality",
+      "born in winter meaning",
+      "birth season astrology"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Season Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Season Meaning?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-personality",
+      "element-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-number-33",
+    "slug": "birthday-number-33",
+    "name": "Birthday Master Number",
+    "tagline": "Is your birthday a master number date?",
+    "description": "Check if your birth date reduces to a master number 11, 22, or 33.",
+    "keywords": [
+      "birthday master number",
+      "birth date 11 22 33",
+      "master number birthday"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Master Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Master Number?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "master-number-checker",
+      "birthday-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "lunar-age",
+    "slug": "lunar-age",
+    "name": "Lunar Age Calculator",
+    "tagline": "Your age by the lunar calendar",
+    "description": "Calculate your age according to the traditional lunar calendar system.",
+    "keywords": [
+      "lunar age",
+      "chinese age",
+      "korean age calculator"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Lunar Age Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lunar Age Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-birthday",
+      "age-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "tibetan-birthday",
+    "slug": "tibetan-birthday",
+    "name": "Tibetan Birthday",
+    "tagline": "Your birthday in the Tibetan calendar",
+    "description": "Convert your birthday to the Tibetan Buddhist calendar.",
+    "keywords": [
+      "tibetan calendar birthday",
+      "tibetan astrology",
+      "tibetan calendar"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Tibetan Birthday free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Tibetan Birthday?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-birthday",
+      "lunar-age"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-planet",
+    "slug": "birthday-planet",
+    "name": "Birthday Ruling Planet",
+    "tagline": "The planet that rules your birthday",
+    "description": "Find the ruling planet for your day of birth based on ancient traditions.",
+    "keywords": [
+      "ruling planet birthday",
+      "birthday planet",
+      "birth day ruling planet"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Ruling Planet free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Ruling Planet?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "planetary-hour-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "age-in-days",
+    "slug": "age-in-days",
+    "name": "Age in Days Calculator",
+    "tagline": "How many days old are you?",
+    "description": "Calculate your exact age in days, weeks and months.",
+    "keywords": [
+      "age in days",
+      "how many days old am i",
+      "age days calculator"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Age in Days Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Age in Days Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-calculator",
+      "days-since-calculator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "age-in-seconds",
+    "slug": "age-in-seconds",
+    "name": "Age in Seconds",
+    "tagline": "How many seconds have you been alive?",
+    "description": "Calculate the approximate number of seconds, minutes and hours you've lived.",
+    "keywords": [
+      "age in seconds",
+      "how many seconds old",
+      "seconds since birth"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Age in Seconds free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Age in Seconds?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-in-days",
+      "age-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-month-meaning",
+    "slug": "birthday-month-meaning",
+    "name": "Birth Month Meaning",
+    "tagline": "What your birth month reveals",
+    "description": "Discover the personality traits and meanings associated with each birth month.",
+    "keywords": [
+      "birth month meaning",
+      "born in january personality",
+      "birth month personality"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birth Month Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birth Month Meaning?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-personality",
+      "birth-flower-finder"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "future-birthday",
+    "slug": "future-birthday",
+    "name": "Future Birthday Calculator",
+    "tagline": "What day will your birthday fall on?",
+    "description": "Find out which day of the week your future birthdays will fall on.",
+    "keywords": [
+      "future birthday",
+      "birthday day of week future",
+      "next birthday"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Future Birthday Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Future Birthday Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-countdown",
+      "day-of-week-birthday"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-wish",
+    "slug": "birthday-wish",
+    "name": "Birthday Wish Amplifier",
+    "tagline": "Make your birthday wish count",
+    "description": "Set the most powerful birthday wish using numerology timing.",
+    "keywords": [
+      "birthday wish",
+      "make a birthday wish",
+      "birthday manifestation"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Wish Amplifier free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Wish Amplifier?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "wish-maker",
+      "lucky-day-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "decade-birthday",
+    "slug": "decade-birthday",
+    "name": "Decade Birthday Calculator",
+    "tagline": "Count your decades and milestones",
+    "description": "Calculate which decade birthday is coming up next.",
+    "keywords": [
+      "decade birthday",
+      "milestone birthday",
+      "10th 20th 30th birthday"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Decade Birthday Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Decade Birthday Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birthday-countdown",
+      "age-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "minutes-old",
+    "slug": "minutes-old",
+    "name": "Minutes Old Calculator",
+    "tagline": "How many minutes old are you?",
+    "description": "Calculate your age in minutes for a fun perspective on time.",
+    "keywords": [
+      "minutes old",
+      "how many minutes old",
+      "age in minutes"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Minutes Old Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Minutes Old Calculator?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-in-seconds",
+      "age-in-days"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "pregnancy-birthday",
+    "slug": "pregnancy-birthday",
+    "name": "Pregnancy Due Date",
+    "tagline": "Calculate baby's due date",
+    "description": "Calculate pregnancy due date and find the baby's potential zodiac sign.",
+    "keywords": [
+      "due date calculator",
+      "pregnancy calculator",
+      "baby due date"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Pregnancy Due Date free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Pregnancy Due Date?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "age-calculator",
+      "zodiac-sign-finder"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-new-year",
+    "slug": "chinese-new-year",
+    "name": "Chinese New Year Day Finder",
+    "tagline": "When is Chinese New Year?",
+    "description": "Find the date of Chinese New Year for any year.",
+    "keywords": [
+      "chinese new year date",
+      "lunar new year",
+      "chinese new year calculator"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Chinese New Year Day Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese New Year Day Finder?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-birthday",
+      "chinese-zodiac-finder"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "auspicious-birthday",
+    "slug": "auspicious-birthday",
+    "name": "Auspicious Birthday Finder",
+    "tagline": "Find the luckiest birthday for your baby",
+    "description": "Find the most auspicious birth dates in a given month for your baby.",
+    "keywords": [
+      "auspicious birthday",
+      "lucky baby birthday",
+      "best birthday date"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Auspicious Birthday Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Auspicious Birthday Finder?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "baby-name-numerology"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "twin-birthday",
+    "slug": "twin-birthday",
+    "name": "Twin Flame Birthday",
+    "tagline": "Do you share a birthday with someone special?",
+    "description": "Explore the significance of sharing a birthday with someone.",
+    "keywords": [
+      "shared birthday",
+      "same birthday significance",
+      "birthday twin"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Twin Flame Birthday free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Twin Flame Birthday?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "twin-flame-calculator",
+      "famous-birthday"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-mantra",
+    "slug": "birthday-mantra",
+    "name": "Birthday Mantra",
+    "tagline": "Your personal birthday affirmation",
+    "description": "Receive a personalized mantra for your birthday based on your life path.",
+    "keywords": [
+      "birthday mantra",
+      "birthday affirmation",
+      "birthday intention"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Mantra free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Mantra?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-affirmation",
+      "life-path-number"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-angel-number",
+    "slug": "birthday-angel-number",
+    "name": "Birthday Angel Number",
+    "tagline": "Angel numbers from your birthday",
+    "description": "Find the angel numbers embedded in your birth date.",
+    "keywords": [
+      "birthday angel number",
+      "angel number from birthday",
+      "birth date angel"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birthday Angel Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Angel Number?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "angel-number-meaning",
+      "birthday-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "birth-star",
+    "slug": "birth-star",
+    "name": "Birth Star Finder",
+    "tagline": "Your birth star or constellation",
+    "description": "Find which star or constellation the Sun was near on your birthday.",
+    "keywords": [
+      "birth star",
+      "natal star",
+      "birthday star"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Birth Star Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birth Star Finder?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "nakshatra-calculator",
+      "zodiac-sign-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "solstice-birthday",
+    "slug": "solstice-birthday",
+    "name": "Solstice & Equinox Birthday",
+    "tagline": "Were you born near a solstice?",
+    "description": "Find if your birthday is near a solstice or equinox and what it means.",
+    "keywords": [
+      "solstice birthday",
+      "equinox birthday",
+      "born on solstice"
+    ],
+    "category": "birthday",
+    "faqs": [
+      {
+        "q": "Is the Solstice & Equinox Birthday free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Solstice & Equinox Birthday?",
+        "a": "This tool uses traditional birthday methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "day-of-week-birthday",
+      "birthday-personality"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  }
+]

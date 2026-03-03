@@ -1,0 +1,1832 @@
+[
+  {
+    "id": "zodiac-sign-finder",
+    "slug": "zodiac-sign-finder",
+    "name": "Zodiac Sign Finder",
+    "tagline": "Find your sun sign by date of birth",
+    "description": "Enter your birthday to instantly find your zodiac sign and personality traits.",
+    "keywords": [
+      "zodiac sign finder",
+      "what is my zodiac sign",
+      "astrology sign by birthday"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Sign Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Sign Finder?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "rising-sign-calculator"
+    ],
+    "priority": 0.9,
+    "monthlySearches": 201000,
+    "evergreen": true
+  },
+  {
+    "id": "birth-chart-calculator",
+    "slug": "birth-chart-calculator",
+    "name": "Birth Chart Calculator",
+    "tagline": "Generate your full natal astrology chart",
+    "description": "Calculate your complete birth chart with sun, moon, rising sign and all planetary positions.",
+    "keywords": [
+      "birth chart calculator",
+      "natal chart",
+      "astrology birth chart free"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Birth Chart Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birth Chart Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-sign-finder",
+      "moon-sign-calculator"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "rising-sign-calculator",
+    "slug": "rising-sign-calculator",
+    "name": "Rising Sign Calculator",
+    "tagline": "Find your ascendant / rising sign",
+    "description": "Calculate your ascendant sign using your exact birth time and location.",
+    "keywords": [
+      "rising sign calculator",
+      "ascendant calculator",
+      "what is my rising sign"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Rising Sign Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Rising Sign Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "moon-sign-calculator"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "moon-sign-calculator",
+    "slug": "moon-sign-calculator",
+    "name": "Moon Sign Calculator",
+    "tagline": "Discover your emotional moon sign",
+    "description": "Find which zodiac sign the moon was in when you were born.",
+    "keywords": [
+      "moon sign calculator",
+      "what is my moon sign",
+      "lunar sign"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Moon Sign Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Moon Sign Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "rising-sign-calculator",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.65,
+    "monthlySearches": 74000,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-compatibility",
+    "slug": "zodiac-compatibility",
+    "name": "Zodiac Compatibility Checker",
+    "tagline": "Check love compatibility between two signs",
+    "description": "See how compatible two zodiac signs are for love, friendship and work.",
+    "keywords": [
+      "zodiac compatibility",
+      "astrology compatibility",
+      "love compatibility by sign"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Compatibility Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Compatibility Checker?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "love-compatibility-calculator",
+      "synastry-calculator"
+    ],
+    "priority": 0.83,
+    "monthlySearches": 165000,
+    "evergreen": true
+  },
+  {
+    "id": "daily-horoscope",
+    "slug": "daily-horoscope",
+    "name": "Daily Horoscope Generator",
+    "tagline": "Get your personalized daily horoscope",
+    "description": "Read today's horoscope for your zodiac sign with love, career and health insights.",
+    "keywords": [
+      "daily horoscope",
+      "horoscope today",
+      "free daily horoscope"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Daily Horoscope Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Daily Horoscope Generator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "weekly-horoscope",
+      "monthly-horoscope"
+    ],
+    "priority": 0.9,
+    "monthlySearches": 246000,
+    "evergreen": true
+  },
+  {
+    "id": "weekly-horoscope",
+    "slug": "weekly-horoscope",
+    "name": "Weekly Horoscope",
+    "tagline": "Your week ahead by zodiac sign",
+    "description": "Get your full weekly horoscope covering love, money, health and career.",
+    "keywords": [
+      "weekly horoscope",
+      "horoscope this week",
+      "astrology weekly"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Weekly Horoscope free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Weekly Horoscope?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-horoscope",
+      "monthly-horoscope"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "monthly-horoscope",
+    "slug": "monthly-horoscope",
+    "name": "Monthly Horoscope",
+    "tagline": "Your month ahead astrology forecast",
+    "description": "Full monthly horoscope reading for all 12 zodiac signs.",
+    "keywords": [
+      "monthly horoscope",
+      "horoscope this month",
+      "monthly astrology"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Monthly Horoscope free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Monthly Horoscope?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "weekly-horoscope",
+      "daily-horoscope"
+    ],
+    "priority": 0.65,
+    "monthlySearches": 74000,
+    "evergreen": true
+  },
+  {
+    "id": "synastry-calculator",
+    "slug": "synastry-calculator",
+    "name": "Synastry Chart Calculator",
+    "tagline": "Compare two birth charts for compatibility",
+    "description": "Generate a synastry chart comparing two people's planetary positions.",
+    "keywords": [
+      "synastry calculator",
+      "synastry chart",
+      "relationship astrology"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Synastry Chart Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Synastry Chart Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-compatibility",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "planetary-hour-calculator",
+    "slug": "planetary-hour-calculator",
+    "name": "Planetary Hour Calculator",
+    "tagline": "Find the ruling planet for any hour",
+    "description": "Calculate the planetary hour for any time and date based on ancient astrology.",
+    "keywords": [
+      "planetary hour calculator",
+      "planet of the hour",
+      "vedic hour"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Planetary Hour Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Planetary Hour Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "moon-sign-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "mercury-retrograde-checker",
+    "slug": "mercury-retrograde-checker",
+    "name": "Mercury Retrograde Checker",
+    "tagline": "Is Mercury in retrograde right now?",
+    "description": "Check current and upcoming Mercury retrograde periods and what they mean.",
+    "keywords": [
+      "mercury retrograde",
+      "is mercury in retrograde",
+      "mercury retrograde dates"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Mercury Retrograde Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Mercury Retrograde Checker?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-horoscope",
+      "planetary-hour-calculator"
+    ],
+    "priority": 0.72,
+    "monthlySearches": 110000,
+    "evergreen": true
+  },
+  {
+    "id": "venus-sign-calculator",
+    "slug": "venus-sign-calculator",
+    "name": "Venus Sign Calculator",
+    "tagline": "Find your Venus sign for love style",
+    "description": "Discover your Venus placement and what it reveals about your love nature.",
+    "keywords": [
+      "venus sign",
+      "what is my venus sign",
+      "venus in astrology"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Venus Sign Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Venus Sign Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-sign-calculator",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "mars-sign-calculator",
+    "slug": "mars-sign-calculator",
+    "name": "Mars Sign Calculator",
+    "tagline": "Discover your Mars energy and drive",
+    "description": "Find your Mars sign to understand your passion, drive and ambition.",
+    "keywords": [
+      "mars sign calculator",
+      "what is my mars sign",
+      "mars placement"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Mars Sign Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Mars Sign Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "venus-sign-calculator",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-zodiac-finder",
+    "slug": "chinese-zodiac-finder",
+    "name": "Chinese Zodiac Finder",
+    "tagline": "Find your Chinese zodiac animal",
+    "description": "Discover your Chinese zodiac animal sign by birth year.",
+    "keywords": [
+      "chinese zodiac",
+      "what is my chinese zodiac",
+      "chinese astrology sign"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Chinese Zodiac Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Zodiac Finder?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-sign-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "vedic-astrology-chart",
+    "slug": "vedic-astrology-chart",
+    "name": "Vedic Astrology Chart",
+    "tagline": "Generate your Jyotish birth chart",
+    "description": "Create your Vedic astrology chart with lagna, nakshatras and planetary positions.",
+    "keywords": [
+      "vedic astrology",
+      "jyotish chart",
+      "vedic birth chart calculator"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Vedic Astrology Chart free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Vedic Astrology Chart?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "nakshatra-calculator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "nakshatra-calculator",
+    "slug": "nakshatra-calculator",
+    "name": "Nakshatra Calculator",
+    "tagline": "Find your birth star (Nakshatra)",
+    "description": "Calculate your Nakshatra, the lunar mansion you were born under in Vedic astrology.",
+    "keywords": [
+      "nakshatra calculator",
+      "birth star",
+      "lunar mansion astrology"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Nakshatra Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Nakshatra Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "vedic-astrology-chart",
+      "moon-sign-calculator"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "asteroid-sign-calculator",
+    "slug": "asteroid-sign-calculator",
+    "name": "Chiron & Asteroid Calculator",
+    "tagline": "Find Chiron and asteroid placements",
+    "description": "Discover your Chiron, Juno, Vesta and Ceres positions in your birth chart.",
+    "keywords": [
+      "chiron sign",
+      "asteroid astrology",
+      "juno placement"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Chiron & Asteroid Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chiron & Asteroid Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "rising-sign-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "solar-return-calculator",
+    "slug": "solar-return-calculator",
+    "name": "Solar Return Calculator",
+    "tagline": "Your birthday chart for the year ahead",
+    "description": "Calculate your solar return chart \u2014 your personal new year forecast.",
+    "keywords": [
+      "solar return calculator",
+      "birthday chart astrology",
+      "solar return chart"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Solar Return Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Solar Return Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "daily-horoscope"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "composite-chart-calculator",
+    "slug": "composite-chart-calculator",
+    "name": "Composite Chart Calculator",
+    "tagline": "The relationship chart between two people",
+    "description": "Generate a composite chart showing the energy of a relationship.",
+    "keywords": [
+      "composite chart",
+      "relationship chart astrology",
+      "couple chart"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Composite Chart Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Composite Chart Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "synastry-calculator",
+      "zodiac-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "element-calculator",
+    "slug": "element-calculator",
+    "name": "Astrology Element Calculator",
+    "tagline": "Find your dominant astrological element",
+    "description": "Discover if you are Fire, Earth, Air or Water dominant in your chart.",
+    "keywords": [
+      "astrology elements",
+      "fire earth air water sign",
+      "dominant element birth chart"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Astrology Element Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Astrology Element Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-sign-finder",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "modality-calculator",
+    "slug": "modality-calculator",
+    "name": "Astrology Modality Finder",
+    "tagline": "Cardinal, Fixed or Mutable \u2014 find yours",
+    "description": "Discover your dominant chart modality: Cardinal, Fixed or Mutable.",
+    "keywords": [
+      "astrology modality",
+      "cardinal fixed mutable",
+      "chart modality calculator"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Astrology Modality Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Astrology Modality Finder?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "element-calculator",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "part-of-fortune",
+    "slug": "part-of-fortune",
+    "name": "Part of Fortune Calculator",
+    "tagline": "Find your fortune point in astrology",
+    "description": "Calculate the Part of Fortune in your natal chart and what it means.",
+    "keywords": [
+      "part of fortune",
+      "arabic parts astrology",
+      "lot of fortune"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Part of Fortune Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Part of Fortune Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "solar-return-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "retrograde-planets",
+    "slug": "retrograde-planets",
+    "name": "Retrograde Planets Finder",
+    "tagline": "Were planets retrograde when you were born?",
+    "description": "Find all retrograde planets in your natal chart and their meaning.",
+    "keywords": [
+      "retrograde planets natal chart",
+      "born with retrograde",
+      "natal retrograde"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Retrograde Planets Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Retrograde Planets Finder?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "mercury-retrograde-checker",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "saturn-return-calculator",
+    "slug": "saturn-return-calculator",
+    "name": "Saturn Return Calculator",
+    "tagline": "When is your Saturn return?",
+    "description": "Calculate the dates of your Saturn return \u2014 a major life turning point at 29 and 58.",
+    "keywords": [
+      "saturn return calculator",
+      "when is my saturn return",
+      "saturn return dates"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Saturn Return Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Saturn Return Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "daily-horoscope"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "north-node-calculator",
+    "slug": "north-node-calculator",
+    "name": "North Node / Rahu Calculator",
+    "tagline": "Find your life purpose node",
+    "description": "Discover your North Node (Rahu) sign and the karmic life lessons it brings.",
+    "keywords": [
+      "north node calculator",
+      "rahu sign",
+      "karmic astrology"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the North Node / Rahu Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the North Node / Rahu Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "vedic-astrology-chart"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "astrology-personality",
+    "slug": "astrology-personality",
+    "name": "Zodiac Personality Profile",
+    "tagline": "Full personality profile by zodiac sign",
+    "description": "Get a detailed personality analysis based on your zodiac sign.",
+    "keywords": [
+      "zodiac personality",
+      "astrology personality traits",
+      "horoscope personality"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Personality Profile free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Personality Profile?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-sign-finder",
+      "daily-horoscope"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-career",
+    "slug": "zodiac-career",
+    "name": "Zodiac Career Guide",
+    "tagline": "Best careers for your zodiac sign",
+    "description": "Discover the best career paths and jobs for your astrological sign.",
+    "keywords": [
+      "zodiac career",
+      "best job for zodiac sign",
+      "astrology career"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Career Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Career Guide?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "astrology-personality",
+      "daily-horoscope"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-money",
+    "slug": "zodiac-money",
+    "name": "Zodiac Money Personality",
+    "tagline": "Your financial style by zodiac sign",
+    "description": "Learn how your zodiac sign influences your relationship with money and wealth.",
+    "keywords": [
+      "zodiac money",
+      "astrology finance",
+      "zodiac financial personality"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Money Personality free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Money Personality?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "astrology-personality",
+      "lucky-number-generator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "moon-phase-birthday",
+    "slug": "moon-phase-birthday",
+    "name": "Moon Phase on Birthday",
+    "tagline": "What was the moon phase on your birthday?",
+    "description": "Find the exact moon phase on any date \u2014 great for birthdays.",
+    "keywords": [
+      "moon phase on birthday",
+      "moon phase date",
+      "what was moon phase"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Moon Phase on Birthday free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Moon Phase on Birthday?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-sign-calculator",
+      "moon-phase-tracker"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "ayanamsa-calculator",
+    "slug": "ayanamsa-calculator",
+    "name": "Ayanamsa Calculator",
+    "tagline": "Calculate Lahiri ayanamsa for Vedic astrology",
+    "description": "Find the current ayanamsa value for precise Vedic chart calculations.",
+    "keywords": [
+      "ayanamsa calculator",
+      "lahiri ayanamsa",
+      "vedic astrology degrees"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Ayanamsa Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Ayanamsa Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "vedic-astrology-chart",
+      "nakshatra-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 4400,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-flower",
+    "slug": "zodiac-flower",
+    "name": "Zodiac Birth Flower",
+    "tagline": "Your flower by zodiac sign",
+    "description": "Discover the traditional birth flower associated with your zodiac sign.",
+    "keywords": [
+      "zodiac flower",
+      "birth flower by sign",
+      "astrology flower"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Birth Flower free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Birth Flower?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-sign-finder",
+      "astrology-personality"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-stone",
+    "slug": "zodiac-stone",
+    "name": "Zodiac Birthstone Finder",
+    "tagline": "Your lucky gemstone by zodiac sign",
+    "description": "Find the traditional and modern birthstones for your zodiac sign.",
+    "keywords": [
+      "zodiac birthstone",
+      "gemstone by zodiac",
+      "astrology crystal"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Birthstone Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Birthstone Finder?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-flower",
+      "lucky-stone-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-tarot-card",
+    "slug": "zodiac-tarot-card",
+    "name": "Zodiac Tarot Card",
+    "tagline": "Your tarot card by zodiac sign",
+    "description": "Discover the Major Arcana tarot card associated with your zodiac sign.",
+    "keywords": [
+      "zodiac tarot card",
+      "tarot card by sign",
+      "astrology tarot"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Tarot Card free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Tarot Card?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "zodiac-sign-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "decan-calculator",
+    "slug": "decan-calculator",
+    "name": "Decan Calculator",
+    "tagline": "Find your zodiac decan (1st, 2nd, 3rd)",
+    "description": "Discover which decan of your sign you belong to for a more precise reading.",
+    "keywords": [
+      "decan astrology",
+      "zodiac decan",
+      "first second third decan"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Decan Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Decan Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-sign-finder",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "stellium-finder",
+    "slug": "stellium-finder",
+    "name": "Stellium Finder",
+    "tagline": "Do you have a stellium in your chart?",
+    "description": "Check if you have 3+ planets in one sign or house \u2014 a powerful stellium.",
+    "keywords": [
+      "stellium astrology",
+      "stellium finder",
+      "stellium natal chart"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Stellium Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Stellium Finder?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "element-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "void-of-course-moon",
+    "slug": "void-of-course-moon",
+    "name": "Void of Course Moon",
+    "tagline": "Is the moon void of course?",
+    "description": "Track void of course moon periods and understand their effect on timing decisions.",
+    "keywords": [
+      "void of course moon",
+      "moon void of course",
+      "voc moon"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Void of Course Moon free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Void of Course Moon?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-phase-tracker",
+      "planetary-hour-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "antiscia-calculator",
+    "slug": "antiscia-calculator",
+    "name": "Antiscia Calculator",
+    "tagline": "Find mirror zodiac points",
+    "description": "Calculate antiscia and contra-antiscia points in your natal chart.",
+    "keywords": [
+      "antiscia calculator",
+      "mirror degrees astrology",
+      "zodiac mirror points"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Antiscia Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Antiscia Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "part-of-fortune"
+    ],
+    "priority": 0.5,
+    "monthlySearches": 1600,
+    "evergreen": true
+  },
+  {
+    "id": "arabic-parts",
+    "slug": "arabic-parts",
+    "name": "Arabic Parts Calculator",
+    "tagline": "Calculate Arabic parts / Lots",
+    "description": "Find all 8 classic Arabic parts in your natal chart.",
+    "keywords": [
+      "arabic parts calculator",
+      "arabic lots astrology",
+      "lots of fortune spirit"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Arabic Parts Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Arabic Parts Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "part-of-fortune",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 4400,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-animal-spirit",
+    "slug": "zodiac-animal-spirit",
+    "name": "Zodiac Spirit Animal",
+    "tagline": "Your spirit animal by zodiac sign",
+    "description": "Discover the spirit animal associated with your Western zodiac sign.",
+    "keywords": [
+      "zodiac spirit animal",
+      "astrology spirit animal",
+      "spirit animal by sign"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Spirit Animal free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Spirit Animal?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-sign-finder",
+      "astrology-personality"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "midheaven-calculator",
+    "slug": "midheaven-calculator",
+    "name": "Midheaven (MC) Calculator",
+    "tagline": "Find your career house cusp",
+    "description": "Calculate your Midheaven sign to understand your public image and career path.",
+    "keywords": [
+      "midheaven calculator",
+      "mc astrology",
+      "10th house cusp"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Midheaven (MC) Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Midheaven (MC) Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "rising-sign-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "ic-calculator",
+    "slug": "ic-calculator",
+    "name": "Imum Coeli (IC) Calculator",
+    "tagline": "Find your 4th house home axis",
+    "description": "Calculate your IC placement \u2014 your roots, home and private self.",
+    "keywords": [
+      "imum coeli calculator",
+      "ic astrology",
+      "4th house cusp"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Imum Coeli (IC) Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Imum Coeli (IC) Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "midheaven-calculator",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "descendant-calculator",
+    "slug": "descendant-calculator",
+    "name": "Descendant Calculator",
+    "tagline": "Find your 7th house relationship axis",
+    "description": "Discover your Descendant sign and what it reveals about your ideal partner.",
+    "keywords": [
+      "descendant calculator",
+      "7th house astrology",
+      "astrology partner sign"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Descendant Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Descendant Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "synastry-calculator",
+      "rising-sign-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-health",
+    "slug": "zodiac-health",
+    "name": "Zodiac Health Guide",
+    "tagline": "Health tendencies by zodiac sign",
+    "description": "Explore the body parts, health strengths and weaknesses of each zodiac sign.",
+    "keywords": [
+      "zodiac health",
+      "astrology health",
+      "zodiac body parts"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Health Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Health Guide?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "astrology-personality",
+      "daily-horoscope"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "eclipse-calculator",
+    "slug": "eclipse-calculator",
+    "name": "Eclipse Calculator",
+    "tagline": "Upcoming solar and lunar eclipses",
+    "description": "Find upcoming eclipse dates and see which zodiac sign they fall in.",
+    "keywords": [
+      "eclipse calculator",
+      "solar eclipse dates",
+      "lunar eclipse astrology"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Eclipse Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Eclipse Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "mercury-retrograde-checker",
+      "daily-horoscope"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-lucky-color",
+    "slug": "zodiac-lucky-color",
+    "name": "Zodiac Lucky Color",
+    "tagline": "Your lucky color by zodiac sign",
+    "description": "Discover the lucky colors associated with your zodiac sign.",
+    "keywords": [
+      "zodiac lucky color",
+      "astrology color",
+      "lucky color by sign"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Lucky Color free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Lucky Color?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-color-finder",
+      "zodiac-stone"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-friendship",
+    "slug": "zodiac-friendship",
+    "name": "Zodiac Friendship Compatibility",
+    "tagline": "Best friend matches by zodiac",
+    "description": "Find the most compatible zodiac signs for lasting friendship.",
+    "keywords": [
+      "zodiac friendship",
+      "astrology friend compatibility",
+      "best friend zodiac"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Friendship Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Friendship Compatibility?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-compatibility",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "zodiac-enemy",
+    "slug": "zodiac-enemy",
+    "name": "Zodiac Enemy Finder",
+    "tagline": "Which signs clash with yours?",
+    "description": "Discover which zodiac signs are most likely to clash with your personality.",
+    "keywords": [
+      "zodiac enemies",
+      "worst zodiac match",
+      "astrology clash"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Zodiac Enemy Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Zodiac Enemy Finder?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-compatibility",
+      "zodiac-friendship"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "astrocartography",
+    "slug": "astrocartography",
+    "name": "Astrocartography Guide",
+    "tagline": "Best places to live by birth chart",
+    "description": "Understand astrocartography and find favorable locations based on your chart.",
+    "keywords": [
+      "astrocartography",
+      "relocation astrology",
+      "astro map"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Astrocartography Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Astrocartography Guide?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "solar-return-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "cusp-sign-checker",
+    "slug": "cusp-sign-checker",
+    "name": "Cusp Sign Checker",
+    "tagline": "Were you born on a zodiac cusp?",
+    "description": "Find out if your birthday falls on a zodiac cusp and what two signs influence you.",
+    "keywords": [
+      "zodiac cusp",
+      "cusp sign",
+      "born on cusp"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Cusp Sign Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Cusp Sign Checker?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-sign-finder",
+      "decan-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "solar-arc-calculator",
+    "slug": "solar-arc-calculator",
+    "name": "Solar Arc Direction",
+    "tagline": "Progress your chart by solar arcs",
+    "description": "Calculate solar arc directed planets for predictive astrology.",
+    "keywords": [
+      "solar arc directions",
+      "predictive astrology",
+      "progressed chart"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Solar Arc Direction free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Solar Arc Direction?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "solar-return-calculator",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "progressed-chart",
+    "slug": "progressed-chart",
+    "name": "Secondary Progressions",
+    "tagline": "Your evolved birth chart",
+    "description": "Calculate your secondary progressed chart to see inner psychological evolution.",
+    "keywords": [
+      "progressed chart",
+      "secondary progressions",
+      "progressed astrology"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Secondary Progressions free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Secondary Progressions?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "solar-arc-calculator",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "transits-calculator",
+    "slug": "transits-calculator",
+    "name": "Planetary Transits",
+    "tagline": "Current planetary transits to your chart",
+    "description": "See how current planetary positions affect your natal chart right now.",
+    "keywords": [
+      "planetary transits",
+      "astrology transits",
+      "transits to natal chart"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Planetary Transits free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Planetary Transits?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "mercury-retrograde-checker"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "jupiter-sign",
+    "slug": "jupiter-sign",
+    "name": "Jupiter Sign Calculator",
+    "tagline": "Find your Jupiter luck placement",
+    "description": "Discover your Jupiter sign and where blessings and expansion flow in your life.",
+    "keywords": [
+      "jupiter sign",
+      "what is my jupiter sign",
+      "jupiter placement astrology"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Jupiter Sign Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Jupiter Sign Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "lucky-number-generator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "saturn-sign",
+    "slug": "saturn-sign",
+    "name": "Saturn Sign Calculator",
+    "tagline": "Your Saturn lessons and karma",
+    "description": "Find your Saturn sign and understand your life challenges and karmic lessons.",
+    "keywords": [
+      "saturn sign",
+      "what is my saturn sign",
+      "saturn placement"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Saturn Sign Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Saturn Sign Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "saturn-return-calculator",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "uranus-sign",
+    "slug": "uranus-sign",
+    "name": "Uranus Sign Calculator",
+    "tagline": "Your generational Uranus placement",
+    "description": "Find your Uranus sign for insight into your generation's revolution and change.",
+    "keywords": [
+      "uranus sign",
+      "uranus placement",
+      "outer planet astrology"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Uranus Sign Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Uranus Sign Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "neptune-sign"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "neptune-sign",
+    "slug": "neptune-sign",
+    "name": "Neptune Sign Calculator",
+    "tagline": "Your spiritual Neptune placement",
+    "description": "Discover your Neptune sign and its influence on dreams and spirituality.",
+    "keywords": [
+      "neptune sign",
+      "neptune placement",
+      "neptune in astrology"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Neptune Sign Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Neptune Sign Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "uranus-sign",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "pluto-sign",
+    "slug": "pluto-sign",
+    "name": "Pluto Sign Calculator",
+    "tagline": "Your transformational Pluto sign",
+    "description": "Find your Pluto sign and understand themes of transformation in your life.",
+    "keywords": [
+      "pluto sign",
+      "pluto placement",
+      "pluto generation"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Pluto Sign Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Pluto Sign Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "neptune-sign",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "aspect-calculator",
+    "slug": "aspect-calculator",
+    "name": "Natal Aspect Calculator",
+    "tagline": "Key aspects in your birth chart",
+    "description": "Find all major aspects (conjunctions, squares, trines) in your natal chart.",
+    "keywords": [
+      "natal aspects",
+      "birth chart aspects",
+      "astrology aspects calculator"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Natal Aspect Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Natal Aspect Calculator?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "birth-chart-calculator",
+      "synastry-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "yod-finder",
+    "slug": "yod-finder",
+    "name": "Yod Finder \u2014 Finger of God",
+    "tagline": "Do you have a Yod in your chart?",
+    "description": "Check if your natal chart contains the rare Yod configuration.",
+    "keywords": [
+      "yod astrology",
+      "finger of god astrology",
+      "yod natal chart"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Yod Finder \u2014 Finger of God free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Yod Finder \u2014 Finger of God?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "aspect-calculator",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "grand-trine",
+    "slug": "grand-trine",
+    "name": "Grand Trine Finder",
+    "tagline": "Find grand trines in your birth chart",
+    "description": "Discover if your chart has the harmonious Grand Trine configuration.",
+    "keywords": [
+      "grand trine astrology",
+      "grand trine natal",
+      "grand trine calculator"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the Grand Trine Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Grand Trine Finder?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "aspect-calculator",
+      "element-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "t-square-finder",
+    "slug": "t-square-finder",
+    "name": "T-Square Finder",
+    "tagline": "Find T-Square tension in your chart",
+    "description": "Discover T-Square configurations and the tension they bring to growth.",
+    "keywords": [
+      "t-square astrology",
+      "t-square natal chart",
+      "astrology t square"
+    ],
+    "category": "astrology",
+    "faqs": [
+      {
+        "q": "Is the T-Square Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the T-Square Finder?",
+        "a": "This tool uses traditional astrology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "aspect-calculator",
+      "birth-chart-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  }
+]

@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "life-path-number",
+    "slug": "life-path-number",
+    "name": "Life Path Number Calculator",
+    "tagline": "Calculate your most important numerology number",
+    "description": "Find your Life Path Number \u2014 the core of your numerology chart \u2014 from your birthdate.",
+    "keywords": [
+      "life path number",
+      "life path calculator",
+      "numerology life path"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Life Path Number Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Path Number Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "destiny-number",
+      "soul-urge-number"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "destiny-number",
+    "slug": "destiny-number",
+    "name": "Destiny Number Calculator",
+    "tagline": "Find your Expression/Destiny number",
+    "description": "Calculate your Destiny (Expression) number from your full birth name.",
+    "keywords": [
+      "destiny number",
+      "expression number numerology",
+      "numerology name calculator"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Destiny Number Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Destiny Number Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "soul-urge-number"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "soul-urge-number",
+    "slug": "soul-urge-number",
+    "name": "Soul Urge Number Calculator",
+    "tagline": "Discover your heart's desire number",
+    "description": "Find your Soul Urge number (Hearts Desire) from the vowels in your name.",
+    "keywords": [
+      "soul urge number",
+      "hearts desire number",
+      "soul number numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Soul Urge Number Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Soul Urge Number Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "destiny-number",
+      "personality-number"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "personality-number",
+    "slug": "personality-number",
+    "name": "Personality Number Calculator",
+    "tagline": "How others see you numerologically",
+    "description": "Calculate your Personality number from consonants in your name.",
+    "keywords": [
+      "personality number numerology",
+      "inner dreams number",
+      "outer personality numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Personality Number Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Personality Number Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "soul-urge-number",
+      "destiny-number"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "birthday-number",
+    "slug": "birthday-number",
+    "name": "Birthday Number",
+    "tagline": "Your gift \u2014 numerology birthday number",
+    "description": "Find your Birthday number and the special talent it reveals.",
+    "keywords": [
+      "birthday number numerology",
+      "birth day number",
+      "numerology birthday"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Birthday Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Birthday Number?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "destiny-number"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "maturity-number",
+    "slug": "maturity-number",
+    "name": "Maturity Number Calculator",
+    "tagline": "Your life's ultimate goal number",
+    "description": "Calculate the Maturity number \u2014 the number that guides your later life.",
+    "keywords": [
+      "maturity number numerology",
+      "ultimate goal number",
+      "numerology maturity"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Maturity Number Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Maturity Number Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "destiny-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "balance-number",
+    "slug": "balance-number",
+    "name": "Balance Number Calculator",
+    "tagline": "Your number for handling stress",
+    "description": "Find your Balance number \u2014 how you react during times of difficulty.",
+    "keywords": [
+      "balance number numerology",
+      "challenge number",
+      "numerology balance"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Balance Number Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Balance Number Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "maturity-number"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "pinnacle-numbers",
+    "slug": "pinnacle-numbers",
+    "name": "Pinnacle Numbers Calculator",
+    "tagline": "Your four life cycles",
+    "description": "Calculate all four Pinnacle numbers \u2014 the milestones of your life journey.",
+    "keywords": [
+      "pinnacle numbers",
+      "numerology pinnacles",
+      "life cycle numbers"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Pinnacle Numbers Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Pinnacle Numbers Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "challenge-numbers"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "challenge-numbers",
+    "slug": "challenge-numbers",
+    "name": "Challenge Numbers Calculator",
+    "tagline": "Your life's key obstacles",
+    "description": "Find your four Challenge numbers \u2014 the lessons and obstacles you must overcome.",
+    "keywords": [
+      "challenge numbers numerology",
+      "numerology obstacles",
+      "life challenge number"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Challenge Numbers Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Challenge Numbers Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "pinnacle-numbers",
+      "life-path-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "personal-year-number",
+    "slug": "personal-year-number",
+    "name": "Personal Year Number",
+    "tagline": "Your energy theme for this year",
+    "description": "Calculate your Personal Year number to understand the theme of your current year.",
+    "keywords": [
+      "personal year number",
+      "numerology year",
+      "what is my personal year"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Personal Year Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Personal Year Number?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "personal-month-number",
+      "life-path-number"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "personal-month-number",
+    "slug": "personal-month-number",
+    "name": "Personal Month Number",
+    "tagline": "Monthly energy in numerology",
+    "description": "Find your Personal Month number for insight into this month's energy.",
+    "keywords": [
+      "personal month number",
+      "numerology month",
+      "monthly numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Personal Month Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Personal Month Number?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "personal-year-number",
+      "personal-day-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "personal-day-number",
+    "slug": "personal-day-number",
+    "name": "Personal Day Number",
+    "tagline": "Today's numerology energy",
+    "description": "Calculate your Personal Day number for guidance on what today's energy brings.",
+    "keywords": [
+      "personal day number",
+      "numerology today",
+      "daily numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Personal Day Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Personal Day Number?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "personal-month-number",
+      "personal-year-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "name-number-calculator",
+    "slug": "name-number-calculator",
+    "name": "Name Numerology Calculator",
+    "tagline": "The numerological power of your name",
+    "description": "Calculate the complete numerology reading for any name.",
+    "keywords": [
+      "name numerology",
+      "numerology name meaning",
+      "name number calculator"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Name Numerology Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Name Numerology Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "destiny-number",
+      "soul-urge-number"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-name-calculator",
+    "slug": "lucky-name-calculator",
+    "name": "Lucky Name Calculator",
+    "tagline": "Is your name numerologically lucky?",
+    "description": "Check if your name has a lucky number vibration based on Chaldean numerology.",
+    "keywords": [
+      "lucky name numerology",
+      "lucky name calculator",
+      "name luck checker"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Lucky Name Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Name Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "name-number-calculator",
+      "lucky-number-generator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "chaldean-numerology",
+    "slug": "chaldean-numerology",
+    "name": "Chaldean Numerology Calculator",
+    "tagline": "Ancient Babylonian name analysis",
+    "description": "Calculate your name number using the ancient Chaldean numerology system.",
+    "keywords": [
+      "chaldean numerology",
+      "babylonian numerology",
+      "chaldean name number"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Chaldean Numerology Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chaldean Numerology Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "name-number-calculator",
+      "pythagorean-numerology"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "pythagorean-numerology",
+    "slug": "pythagorean-numerology",
+    "name": "Pythagorean Numerology Calculator",
+    "tagline": "Western numerology name analysis",
+    "description": "Calculate name numbers using the standard Western Pythagorean system.",
+    "keywords": [
+      "pythagorean numerology",
+      "western numerology",
+      "numerology system"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Pythagorean Numerology Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Pythagorean Numerology Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chaldean-numerology",
+      "name-number-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "kabbalah-numerology",
+    "slug": "kabbalah-numerology",
+    "name": "Kabbalah Numerology Calculator",
+    "tagline": "Hebrew mystic number system",
+    "description": "Explore your name through the ancient Kabbalistic numerology system.",
+    "keywords": [
+      "kabbalah numerology",
+      "hebrew numerology",
+      "kabbalistic number"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Kabbalah Numerology Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Kabbalah Numerology Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chaldean-numerology",
+      "name-number-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "angel-number-meaning",
+    "slug": "angel-number-meaning",
+    "name": "Angel Number Decoder",
+    "tagline": "What does your angel number mean?",
+    "description": "Look up the spiritual meaning of any repeating number sequence.",
+    "keywords": [
+      "angel numbers",
+      "angel number meaning",
+      "repeating numbers meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Angel Number Decoder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Angel Number Decoder?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "lucky-number-generator"
+    ],
+    "priority": 0.9,
+    "monthlySearches": 201000,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-compatibility",
+    "slug": "numerology-compatibility",
+    "name": "Numerology Compatibility",
+    "tagline": "Life path compatibility between two people",
+    "description": "Check how compatible two people are using their Life Path numbers.",
+    "keywords": [
+      "numerology compatibility",
+      "life path compatibility",
+      "numerology love match"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Numerology Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Compatibility?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "love-compatibility-calculator"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "master-number-checker",
+    "slug": "master-number-checker",
+    "name": "Master Number Checker",
+    "tagline": "Do you have 11, 22, or 33?",
+    "description": "Check if your numerology chart contains powerful Master Numbers.",
+    "keywords": [
+      "master numbers 11 22 33",
+      "master number numerology",
+      "am i a master number"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Master Number Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Master Number Checker?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "destiny-number"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "karmic-debt-calculator",
+    "slug": "karmic-debt-calculator",
+    "name": "Karmic Debt Calculator",
+    "tagline": "Find karmic debt numbers 13,14,16,19",
+    "description": "Discover if you carry karmic debt numbers in your numerology chart.",
+    "keywords": [
+      "karmic debt numerology",
+      "karma number",
+      "karmic debt 13 14 16 19"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Karmic Debt Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Karmic Debt Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "challenge-numbers"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "karmic-lesson-calculator",
+    "slug": "karmic-lesson-calculator",
+    "name": "Karmic Lessons Calculator",
+    "tagline": "Missing numbers in your name",
+    "description": "Find which numbers are absent from your name \u2014 your karmic lessons.",
+    "keywords": [
+      "karmic lessons numerology",
+      "missing numbers name",
+      "karmic lessons chart"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Karmic Lessons Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Karmic Lessons Calculator?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "karmic-debt-calculator",
+      "destiny-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-chart",
+    "slug": "numerology-chart",
+    "name": "Full Numerology Chart",
+    "tagline": "Complete numerology reading",
+    "description": "Generate your complete numerology chart with all core numbers.",
+    "keywords": [
+      "numerology chart",
+      "full numerology reading",
+      "complete numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Full Numerology Chart free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Full Numerology Chart?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "destiny-number"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "house-number-numerology",
+    "slug": "house-number-numerology",
+    "name": "House Number Numerology",
+    "tagline": "The energy of your home number",
+    "description": "Find out what your house or apartment number means in numerology.",
+    "keywords": [
+      "house number numerology",
+      "home number meaning",
+      "address numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the House Number Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the House Number Numerology?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-number-generator",
+      "name-number-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "phone-number-numerology",
+    "slug": "phone-number-numerology",
+    "name": "Phone Number Numerology",
+    "tagline": "The numerology of your phone number",
+    "description": "Calculate the numerological energy of any phone number.",
+    "keywords": [
+      "phone number numerology",
+      "numerology of phone number",
+      "lucky phone number"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Phone Number Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Phone Number Numerology?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "house-number-numerology",
+      "lucky-number-generator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "business-name-numerology",
+    "slug": "business-name-numerology",
+    "name": "Business Name Numerology",
+    "tagline": "Is your business name lucky?",
+    "description": "Check the numerological power of a business name before launching.",
+    "keywords": [
+      "business name numerology",
+      "company name numerology",
+      "lucky business name"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Business Name Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Business Name Numerology?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-name-calculator",
+      "name-number-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "baby-name-numerology",
+    "slug": "baby-name-numerology",
+    "name": "Baby Name Numerology",
+    "tagline": "Find the perfect name for your baby",
+    "description": "Calculate the numerological value of baby names to find the most auspicious.",
+    "keywords": [
+      "baby name numerology",
+      "lucky baby name",
+      "numerology baby name"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Baby Name Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Baby Name Numerology?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "name-number-calculator",
+      "lucky-name-calculator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-grid",
+    "slug": "numerology-grid",
+    "name": "Numerology Pythagorean Grid",
+    "tagline": "The Lo Shu / arrow grid",
+    "description": "Create your Pythagorean numerology grid and find your arrow patterns.",
+    "keywords": [
+      "numerology grid",
+      "lo shu grid",
+      "pythagorean square numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Numerology Pythagorean Grid free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Pythagorean Grid?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "numerology-chart",
+      "life-path-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-forecast",
+    "slug": "numerology-forecast",
+    "name": "Numerology Yearly Forecast",
+    "tagline": "5-year numerology forecast",
+    "description": "Get a 5-year numerology forecast based on your personal year cycles.",
+    "keywords": [
+      "numerology forecast",
+      "numerology prediction",
+      "future numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Numerology Yearly Forecast free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Yearly Forecast?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "personal-year-number",
+      "life-path-number"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "number-meaning",
+    "slug": "number-meaning",
+    "name": "Number Meaning Lookup",
+    "tagline": "Meaning of any number 1-9999",
+    "description": "Look up the spiritual and numerological meaning of any number.",
+    "keywords": [
+      "number meaning",
+      "numerology meaning",
+      "what does number mean"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Number Meaning Lookup free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Number Meaning Lookup?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "angel-number-meaning",
+      "life-path-number"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-1",
+    "slug": "numerology-1",
+    "name": "Life Path 1 Meaning",
+    "tagline": "All about Life Path number 1",
+    "description": "Detailed meaning and guidance for Life Path number 1.",
+    "keywords": [
+      "life path 1",
+      "numerology 1",
+      "life path number 1 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Life Path 1 Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Path 1 Meaning?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "numerology-chart"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-2",
+    "slug": "numerology-2",
+    "name": "Life Path 2 Meaning",
+    "tagline": "All about Life Path number 2",
+    "description": "Detailed meaning and guidance for Life Path number 2.",
+    "keywords": [
+      "life path 2",
+      "numerology 2",
+      "life path number 2 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Life Path 2 Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Path 2 Meaning?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "numerology-chart"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-3",
+    "slug": "numerology-3",
+    "name": "Life Path 3 Meaning",
+    "tagline": "All about Life Path number 3",
+    "description": "Detailed meaning and guidance for Life Path number 3.",
+    "keywords": [
+      "life path 3",
+      "numerology 3",
+      "life path number 3"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Life Path 3 Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Path 3 Meaning?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "numerology-chart"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-4",
+    "slug": "numerology-4",
+    "name": "Life Path 4 Meaning",
+    "tagline": "All about Life Path number 4",
+    "description": "Detailed meaning and guidance for Life Path number 4.",
+    "keywords": [
+      "life path 4",
+      "numerology 4",
+      "life path 4 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Life Path 4 Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Path 4 Meaning?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "master-number-checker"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-5",
+    "slug": "numerology-5",
+    "name": "Life Path 5 Meaning",
+    "tagline": "All about Life Path number 5",
+    "description": "Detailed meaning and guidance for Life Path number 5.",
+    "keywords": [
+      "life path 5",
+      "numerology 5",
+      "life path 5 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Life Path 5 Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Path 5 Meaning?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "numerology-chart"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-6",
+    "slug": "numerology-6",
+    "name": "Life Path 6 Meaning",
+    "tagline": "All about Life Path number 6",
+    "description": "Detailed meaning and guidance for Life Path number 6.",
+    "keywords": [
+      "life path 6",
+      "numerology 6",
+      "life path 6 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Life Path 6 Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Path 6 Meaning?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "numerology-chart"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-7",
+    "slug": "numerology-7",
+    "name": "Life Path 7 Meaning",
+    "tagline": "All about Life Path number 7",
+    "description": "Detailed meaning and guidance for Life Path number 7.",
+    "keywords": [
+      "life path 7",
+      "numerology 7",
+      "life path 7 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Life Path 7 Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Path 7 Meaning?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "lucky-number-generator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-8",
+    "slug": "numerology-8",
+    "name": "Life Path 8 Meaning",
+    "tagline": "All about Life Path number 8",
+    "description": "Detailed meaning and guidance for Life Path number 8.",
+    "keywords": [
+      "life path 8",
+      "numerology 8",
+      "life path 8 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Life Path 8 Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Path 8 Meaning?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "numerology-chart"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-9",
+    "slug": "numerology-9",
+    "name": "Life Path 9 Meaning",
+    "tagline": "All about Life Path number 9",
+    "description": "Detailed meaning and guidance for Life Path number 9.",
+    "keywords": [
+      "life path 9",
+      "numerology 9",
+      "life path 9 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Life Path 9 Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Life Path 9 Meaning?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "numerology-chart"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-11",
+    "slug": "numerology-11",
+    "name": "Master Number 11",
+    "tagline": "The Illuminated Master \u2014 number 11",
+    "description": "Deep dive into the meaning of Master Number 11 in numerology.",
+    "keywords": [
+      "master number 11",
+      "life path 11",
+      "numerology 11 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Master Number 11 free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Master Number 11?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "master-number-checker",
+      "life-path-number"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-22",
+    "slug": "numerology-22",
+    "name": "Master Number 22",
+    "tagline": "The Master Builder \u2014 number 22",
+    "description": "Deep dive into the meaning of Master Number 22 in numerology.",
+    "keywords": [
+      "master number 22",
+      "life path 22",
+      "numerology 22 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Master Number 22 free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Master Number 22?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "master-number-checker",
+      "numerology-11"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-33",
+    "slug": "numerology-33",
+    "name": "Master Number 33",
+    "tagline": "The Master Teacher \u2014 number 33",
+    "description": "Deep dive into the meaning of Master Number 33 in numerology.",
+    "keywords": [
+      "master number 33",
+      "life path 33",
+      "numerology 33 meaning"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Master Number 33 free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Master Number 33?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "master-number-checker",
+      "numerology-22"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "name-change-numerology",
+    "slug": "name-change-numerology",
+    "name": "Name Change Numerology",
+    "tagline": "Should you change your name?",
+    "description": "Analyze how a name change would affect your numerological vibration.",
+    "keywords": [
+      "name change numerology",
+      "changing name numerology",
+      "new name numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Name Change Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Name Change Numerology?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "name-number-calculator",
+      "lucky-name-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-career",
+    "slug": "numerology-career",
+    "name": "Numerology Career Guide",
+    "tagline": "Best careers by life path number",
+    "description": "Find the most fulfilling careers based on your Life Path number.",
+    "keywords": [
+      "numerology career",
+      "life path career",
+      "best job by life path"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Numerology Career Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Career Guide?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "destiny-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-love",
+    "slug": "numerology-love",
+    "name": "Numerology Love Reading",
+    "tagline": "Love compatibility by life path",
+    "description": "Get a full love compatibility reading using numerology.",
+    "keywords": [
+      "numerology love",
+      "love compatibility numerology",
+      "numerology romance"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Numerology Love Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Love Reading?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "numerology-compatibility"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "color-numerology",
+    "slug": "color-numerology",
+    "name": "Color Numerology",
+    "tagline": "Lucky colors by numerology number",
+    "description": "Find your lucky colors based on your core numerology numbers.",
+    "keywords": [
+      "color numerology",
+      "lucky color numerology",
+      "numerology color"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Color Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Color Numerology?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-color-finder",
+      "life-path-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "crystal-numerology",
+    "slug": "crystal-numerology",
+    "name": "Crystal by Life Path",
+    "tagline": "Best crystals for your life path",
+    "description": "Discover the best healing crystals for your Life Path number.",
+    "keywords": [
+      "numerology crystals",
+      "crystal life path",
+      "healing stones numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Crystal by Life Path free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Crystal by Life Path?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-stone-finder",
+      "life-path-number"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "vowel-count",
+    "slug": "vowel-count",
+    "name": "Vowel Counter in Name",
+    "tagline": "Count vowels for soul urge calculation",
+    "description": "Count the vowels in any name for soul urge number calculation.",
+    "keywords": [
+      "vowel counter name",
+      "count vowels in name",
+      "name vowel calculator"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Vowel Counter in Name free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Vowel Counter in Name?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "soul-urge-number",
+      "name-number-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "number-vibration",
+    "slug": "number-vibration",
+    "name": "Number Vibration Checker",
+    "tagline": "Vibrational energy of any number",
+    "description": "Explore the spiritual vibration and energy of any number.",
+    "keywords": [
+      "number vibration",
+      "spiritual number meaning",
+      "number energy"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Number Vibration Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Number Vibration Checker?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "angel-number-meaning",
+      "number-meaning"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-meditation",
+    "slug": "numerology-meditation",
+    "name": "Numerology Meditation Number",
+    "tagline": "Your personal meditation number",
+    "description": "Find your ideal meditation number for focus and spiritual connection.",
+    "keywords": [
+      "numerology meditation",
+      "meditation number",
+      "spiritual number"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Numerology Meditation Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Meditation Number?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "number-vibration"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 4400,
+    "evergreen": true
+  },
+  {
+    "id": "street-numerology",
+    "slug": "street-numerology",
+    "name": "Street Address Numerology",
+    "tagline": "The energy of your street address",
+    "description": "Calculate the numerological energy of your street address.",
+    "keywords": [
+      "street address numerology",
+      "address number meaning",
+      "home address numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Street Address Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Street Address Numerology?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "house-number-numerology",
+      "business-name-numerology"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "city-numerology",
+    "slug": "city-numerology",
+    "name": "City Numerology",
+    "tagline": "Numerological energy of cities",
+    "description": "Find the numerological vibration of any city name.",
+    "keywords": [
+      "city numerology",
+      "city number meaning",
+      "place numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the City Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the City Numerology?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "street-numerology",
+      "astrocartography"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-tarot",
+    "slug": "numerology-tarot",
+    "name": "Numerology Tarot Connection",
+    "tagline": "Tarot cards linked to your numbers",
+    "description": "Discover which tarot cards correspond to your core numerology numbers.",
+    "keywords": [
+      "numerology tarot",
+      "tarot number",
+      "life path tarot card"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Numerology Tarot Connection free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Tarot Connection?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "numerology-chart",
+      "tarot-card-reader"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "expression-number",
+    "slug": "expression-number",
+    "name": "Expression Number Deep Dive",
+    "tagline": "What your expression number reveals",
+    "description": "Detailed guide to your Expression (Destiny) number and its full meaning.",
+    "keywords": [
+      "expression number",
+      "destiny number meaning",
+      "expression numerology"
+    ],
+    "category": "numerology",
+    "faqs": [
+      {
+        "q": "Is the Expression Number Deep Dive free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Expression Number Deep Dive?",
+        "a": "This tool uses traditional numerology methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "destiny-number",
+      "life-path-number"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  }
+]

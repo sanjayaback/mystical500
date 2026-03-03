@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "id": "astrology",
+      "name": "Astrology Tools",
+      "slug": "astrology",
+      "icon": "\u2b50",
+      "color": "6D28D9",
+      "description": "Free astrology tools: birth charts, zodiac compatibility, horoscopes, planetary readings and more."
+    },
+    {
+      "id": "numerology",
+      "name": "Numerology Tools",
+      "slug": "numerology",
+      "icon": "\ud83d\udd22",
+      "color": "2563EB",
+      "description": "Free numerology calculators: life path numbers, name numbers, destiny readings and more."
+    },
+    {
+      "id": "love",
+      "name": "Love & Compatibility",
+      "slug": "love",
+      "icon": "\ud83d\udc95",
+      "color": "DB2777",
+      "description": "Free love compatibility tools: zodiac matching, name compatibility, relationship readings and more."
+    },
+    {
+      "id": "lucky",
+      "name": "Lucky Day & Fortune",
+      "slug": "lucky",
+      "icon": "\ud83c\udf40",
+      "color": "059669",
+      "description": "Free lucky day finders, fortune tools, lucky number generators and daily fortune readings."
+    },
+    {
+      "id": "birthday",
+      "name": "Birthday & Age Tools",
+      "slug": "birthday",
+      "icon": "\ud83c\udf82",
+      "color": "D97706",
+      "description": "Free birthday tools: age calculators, birthday personality, biorhythm, day of week finders."
+    },
+    {
+      "id": "tarot",
+      "name": "Tarot & Oracle",
+      "slug": "tarot",
+      "icon": "\ud83c\udccf",
+      "color": "7C3AED",
+      "description": "Free online tarot card readings, oracle cards, rune readings and divination tools."
+    },
+    {
+      "id": "dream",
+      "name": "Dream & Spiritual",
+      "slug": "dream",
+      "icon": "\ud83c\udf19",
+      "color": "1E40AF",
+      "description": "Free dream interpretation, aura reading, chakra tools, meditation timers and spiritual calculators."
+    },
+    {
+      "id": "chinese",
+      "name": "Chinese Astrology",
+      "slug": "chinese",
+      "icon": "\ud83d\udc09",
+      "color": "DC2626",
+      "description": "Free Chinese astrology: zodiac animals, Ba Zi, feng shui tools, Chinese calendar and lucky elements."
+    },
+    {
+      "id": "wellness",
+      "name": "Wellness & Mind",
+      "slug": "wellness",
+      "icon": "\ud83e\uddd8",
+      "color": "0D9488",
+      "description": "Free wellness tools: moon phase tracker, biorhythm, sleep calculator, stress checker and mindfulness aids."
+    },
+    {
+      "id": "text",
+      "name": "Text & Word Tools",
+      "slug": "text",
+      "icon": "\u270d\ufe0f",
+      "color": "374151",
+      "description": "Free text tools: word counter, character counter, case converter, readability checker and more."
+    }
+  ]
+}

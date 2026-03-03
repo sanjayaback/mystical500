@@ -1,0 +1,11 @@
+{
+  "name": "mystictools",
+  "version": "3.0.0",
+  "description": "498 free mystical tools — astrology, numerology, love, tarot, lucky and more",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "start": "node scripts/build.js && python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "engines": { "node": ">=16" }
+}

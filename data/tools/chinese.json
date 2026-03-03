@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "chinese-zodiac-finder",
+    "slug": "chinese-zodiac-finder",
+    "name": "Chinese Zodiac Animal",
+    "tagline": "Find your Chinese zodiac sign",
+    "description": "Discover your Chinese zodiac animal by birth year.",
+    "keywords": [
+      "chinese zodiac",
+      "chinese zodiac calculator",
+      "what is my chinese zodiac sign"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Zodiac Animal free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Zodiac Animal?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-compatibility",
+      "chinese-element"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-zodiac-compatibility",
+    "slug": "chinese-zodiac-compatibility",
+    "name": "Chinese Zodiac Compatibility",
+    "tagline": "Love and friendship by Chinese zodiac",
+    "description": "Check compatibility between two Chinese zodiac animals.",
+    "keywords": [
+      "chinese zodiac compatibility",
+      "chinese astrology match",
+      "chinese horoscope compatibility"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Zodiac Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Zodiac Compatibility?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-love-compatibility"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-element",
+    "slug": "chinese-element",
+    "name": "Chinese Element Calculator",
+    "tagline": "Your Chinese element: Wood, Fire, Earth, Metal, Water",
+    "description": "Find your Chinese Five Element based on birth year.",
+    "keywords": [
+      "chinese element",
+      "five elements chinese",
+      "wuxing element calculator"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Element Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Element Calculator?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "lucky-element"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "ba-zi-calculator",
+    "slug": "ba-zi-calculator",
+    "name": "Ba Zi (Four Pillars)",
+    "tagline": "Your Chinese astrological destiny pillars",
+    "description": "Calculate your Ba Zi (Four Pillars of Destiny) chart.",
+    "keywords": [
+      "ba zi calculator",
+      "four pillars of destiny",
+      "bazi chart"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Ba Zi (Four Pillars) free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Ba Zi (Four Pillars)?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-element"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-horoscope-2025",
+    "slug": "chinese-horoscope-2025",
+    "name": "Chinese Horoscope 2025",
+    "tagline": "Year of the Snake forecast",
+    "description": "Get your Chinese zodiac horoscope for 2025, the Year of the Snake.",
+    "keywords": [
+      "chinese horoscope 2025",
+      "year of the snake 2025",
+      "snake year forecast"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Horoscope 2025 free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Horoscope 2025?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "daily-horoscope"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-new-year-2025",
+    "slug": "chinese-new-year-2025",
+    "name": "Chinese New Year 2025",
+    "tagline": "When is Chinese New Year 2025?",
+    "description": "Find the date and traditions of Chinese New Year 2025.",
+    "keywords": [
+      "chinese new year 2025",
+      "lunar new year 2025",
+      "year of the snake date"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese New Year 2025 free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese New Year 2025?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-new-year",
+      "chinese-horoscope-2025"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "feng-shui-colors-2025",
+    "slug": "feng-shui-colors-2025",
+    "name": "Feng Shui Colors 2025",
+    "tagline": "Lucky colors for 2025",
+    "description": "Find the luckiest feng shui colors for the Year of the Snake 2025.",
+    "keywords": [
+      "feng shui colors 2025",
+      "lucky colors 2025",
+      "year of snake colors"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Feng Shui Colors 2025 free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Feng Shui Colors 2025?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-color-finder",
+      "kua-number"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-calendar",
+    "slug": "chinese-calendar",
+    "name": "Chinese Lunar Calendar",
+    "tagline": "Convert dates to Chinese calendar",
+    "description": "Convert any Gregorian date to the Chinese lunar calendar.",
+    "keywords": [
+      "chinese calendar converter",
+      "lunar calendar",
+      "chinese date converter"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Lunar Calendar free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Lunar Calendar?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-birthday",
+      "chinese-new-year"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "kua-number-2025",
+    "slug": "kua-number-2025",
+    "name": "Kua Number 2025",
+    "tagline": "Your personal feng shui number for 2025",
+    "description": "Calculate your Kua number and get personalized feng shui advice for 2025.",
+    "keywords": [
+      "kua number 2025",
+      "feng shui kua 2025",
+      "personal feng shui 2025"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Kua Number 2025 free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Kua Number 2025?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "kua-number",
+      "feng-shui-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-daily-horoscope",
+    "slug": "chinese-daily-horoscope",
+    "name": "Chinese Daily Horoscope",
+    "tagline": "Daily reading by Chinese zodiac",
+    "description": "Get your Chinese zodiac daily horoscope.",
+    "keywords": [
+      "chinese daily horoscope",
+      "chinese zodiac horoscope today",
+      "daily chinese astrology"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Daily Horoscope free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Daily Horoscope?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-horoscope",
+      "chinese-zodiac-finder"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-rat",
+    "slug": "chinese-animal-rat",
+    "name": "Rat Chinese Zodiac",
+    "tagline": "Complete guide to the Rat sign",
+    "description": "Everything about the Rat \u2014 traits, compatibility, and 2025 forecast.",
+    "keywords": [
+      "rat chinese zodiac",
+      "year of the rat",
+      "rat zodiac personality"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Rat Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Rat Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-ox",
+    "slug": "chinese-animal-ox",
+    "name": "Ox Chinese Zodiac",
+    "tagline": "Complete guide to the Ox sign",
+    "description": "Everything about the Ox \u2014 traits, compatibility, and 2025 forecast.",
+    "keywords": [
+      "ox chinese zodiac",
+      "year of the ox",
+      "ox zodiac traits"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Ox Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Ox Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-tiger",
+    "slug": "chinese-animal-tiger",
+    "name": "Tiger Chinese Zodiac",
+    "tagline": "Complete guide to the Tiger sign",
+    "description": "Everything about the Tiger \u2014 traits, compatibility, and 2025 forecast.",
+    "keywords": [
+      "tiger chinese zodiac",
+      "year of the tiger",
+      "tiger zodiac"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Tiger Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Tiger Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-rabbit",
+    "slug": "chinese-animal-rabbit",
+    "name": "Rabbit Chinese Zodiac",
+    "tagline": "Complete guide to the Rabbit sign",
+    "description": "Everything about the Rabbit \u2014 traits, compatibility, and 2025 forecast.",
+    "keywords": [
+      "rabbit chinese zodiac",
+      "year of the rabbit",
+      "rabbit zodiac"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Rabbit Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Rabbit Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-dragon",
+    "slug": "chinese-animal-dragon",
+    "name": "Dragon Chinese Zodiac",
+    "tagline": "Complete guide to the Dragon sign",
+    "description": "Everything about the Dragon \u2014 the most auspicious Chinese zodiac sign.",
+    "keywords": [
+      "dragon chinese zodiac",
+      "year of the dragon",
+      "dragon zodiac personality"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Dragon Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Dragon Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-snake",
+    "slug": "chinese-animal-snake",
+    "name": "Snake Chinese Zodiac",
+    "tagline": "Complete guide to the Snake sign",
+    "description": "Everything about the Snake \u2014 traits, compatibility, and 2025 forecast.",
+    "keywords": [
+      "snake chinese zodiac",
+      "year of the snake",
+      "snake zodiac"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Snake Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Snake Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-horoscope-2025"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-horse",
+    "slug": "chinese-animal-horse",
+    "name": "Horse Chinese Zodiac",
+    "tagline": "Complete guide to the Horse sign",
+    "description": "Everything about the Horse \u2014 traits, compatibility, and forecast.",
+    "keywords": [
+      "horse chinese zodiac",
+      "year of the horse",
+      "horse zodiac traits"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Horse Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Horse Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-goat",
+    "slug": "chinese-animal-goat",
+    "name": "Goat Chinese Zodiac",
+    "tagline": "Complete guide to the Goat/Sheep sign",
+    "description": "Everything about the Goat \u2014 traits, compatibility, and forecast.",
+    "keywords": [
+      "goat chinese zodiac",
+      "sheep zodiac",
+      "year of the goat"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Goat Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Goat Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-monkey",
+    "slug": "chinese-animal-monkey",
+    "name": "Monkey Chinese Zodiac",
+    "tagline": "Complete guide to the Monkey sign",
+    "description": "Everything about the Monkey \u2014 traits, compatibility, and forecast.",
+    "keywords": [
+      "monkey chinese zodiac",
+      "year of the monkey",
+      "monkey zodiac"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Monkey Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Monkey Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-rooster",
+    "slug": "chinese-animal-rooster",
+    "name": "Rooster Chinese Zodiac",
+    "tagline": "Complete guide to the Rooster sign",
+    "description": "Everything about the Rooster \u2014 traits, compatibility, and forecast.",
+    "keywords": [
+      "rooster chinese zodiac",
+      "year of the rooster",
+      "rooster zodiac"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Rooster Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Rooster Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-dog",
+    "slug": "chinese-animal-dog",
+    "name": "Dog Chinese Zodiac",
+    "tagline": "Complete guide to the Dog sign",
+    "description": "Everything about the Dog \u2014 traits, compatibility, and forecast.",
+    "keywords": [
+      "dog chinese zodiac",
+      "year of the dog",
+      "dog zodiac traits"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Dog Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Dog Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-animal-pig",
+    "slug": "chinese-animal-pig",
+    "name": "Pig Chinese Zodiac",
+    "tagline": "Complete guide to the Pig sign",
+    "description": "Everything about the Pig \u2014 traits, compatibility, and forecast.",
+    "keywords": [
+      "pig chinese zodiac",
+      "year of the pig",
+      "boar zodiac"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Pig Chinese Zodiac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Pig Chinese Zodiac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-lucky-numbers-2025",
+    "slug": "chinese-lucky-numbers-2025",
+    "name": "Chinese Lucky Numbers 2025",
+    "tagline": "Lucky numbers for 2025",
+    "description": "The luckiest numbers for each Chinese zodiac sign in 2025.",
+    "keywords": [
+      "lucky numbers 2025 chinese",
+      "chinese lucky number 2025",
+      "snake year lucky numbers"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Lucky Numbers 2025 free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Lucky Numbers 2025?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-lucky-number",
+      "lucky-number-generator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-compatibility-detailed",
+    "slug": "chinese-compatibility-detailed",
+    "name": "Detailed Chinese Compatibility",
+    "tagline": "In-depth Chinese zodiac match",
+    "description": "Deep compatibility analysis for all 144 Chinese zodiac pairings.",
+    "keywords": [
+      "chinese zodiac match",
+      "detailed chinese compatibility",
+      "all chinese zodiac pairs"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Detailed Chinese Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Detailed Chinese Compatibility?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-compatibility",
+      "chinese-love-compatibility"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "five-elements-quiz",
+    "slug": "five-elements-quiz",
+    "name": "Five Elements Personality",
+    "tagline": "Which Chinese element are you?",
+    "description": "Discover your dominant Chinese element through a personality quiz.",
+    "keywords": [
+      "five elements personality",
+      "chinese element quiz",
+      "wood fire earth metal water personality"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Five Elements Personality free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Five Elements Personality?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-element",
+      "element-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-numerology",
+    "slug": "chinese-numerology",
+    "name": "Chinese Numerology",
+    "tagline": "Numbers in Chinese culture",
+    "description": "Explore lucky and unlucky numbers in Chinese numerological tradition.",
+    "keywords": [
+      "chinese numerology",
+      "lucky unlucky numbers chinese",
+      "chinese number meaning"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Numerology free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Numerology?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-number-generator",
+      "chinese-lucky-number"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "feng-shui-house",
+    "slug": "feng-shui-house",
+    "name": "Feng Shui House Analysis",
+    "tagline": "Basic feng shui for your home",
+    "description": "Apply basic feng shui principles to analyze and improve your home.",
+    "keywords": [
+      "feng shui house",
+      "feng shui home",
+      "home feng shui guide"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Feng Shui House Analysis free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Feng Shui House Analysis?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "kua-number",
+      "bagua-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-medicine-type",
+    "slug": "chinese-medicine-type",
+    "name": "TCM Body Type",
+    "tagline": "Traditional Chinese Medicine body type",
+    "description": "Find your TCM constitutional body type (wood, fire, earth, metal, water).",
+    "keywords": [
+      "tcm body type",
+      "traditional chinese medicine type",
+      "chinese medicine constitution"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the TCM Body Type free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the TCM Body Type?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-element",
+      "five-elements-quiz"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-wedding",
+    "slug": "chinese-wedding",
+    "name": "Chinese Wedding Date",
+    "tagline": "Auspicious wedding dates Chinese calendar",
+    "description": "Find lucky wedding dates according to the Chinese lunar calendar.",
+    "keywords": [
+      "chinese wedding date",
+      "auspicious wedding chinese",
+      "lucky wedding date chinese"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Wedding Date free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Wedding Date?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "wedding-date-calculator",
+      "chinese-calendar"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "tai-sui",
+    "slug": "tai-sui",
+    "name": "Tai Sui Check",
+    "tagline": "Are you offending Tai Sui this year?",
+    "description": "Check if your Chinese zodiac sign offends Tai Sui (Grand Duke Jupiter) in 2025.",
+    "keywords": [
+      "tai sui 2025",
+      "offending tai sui",
+      "grand duke jupiter"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Tai Sui Check free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Tai Sui Check?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-horoscope-2025",
+      "chinese-zodiac-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-birth-chart",
+    "slug": "chinese-birth-chart",
+    "name": "Chinese Birth Chart",
+    "tagline": "Full Ba Zi four pillars chart",
+    "description": "Generate a complete Chinese birth chart with all four pillars.",
+    "keywords": [
+      "chinese birth chart",
+      "bazi four pillars",
+      "chinese astrology chart"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Birth Chart free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Birth Chart?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "ba-zi-calculator",
+      "vedic-astrology-chart"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "tong-shu",
+    "slug": "tong-shu",
+    "name": "Tong Shu Almanac",
+    "tagline": "Chinese almanac day selection",
+    "description": "Use the Chinese almanac (Tong Shu) to find auspicious days for activities.",
+    "keywords": [
+      "tong shu",
+      "chinese almanac",
+      "auspicious day chinese"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Tong Shu Almanac free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Tong Shu Almanac?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "auspicious-date",
+      "chinese-calendar"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "luo-pan",
+    "slug": "luo-pan",
+    "name": "Feng Shui Compass",
+    "tagline": "Basic feng shui compass (Lo Pan) reading",
+    "description": "Use the feng shui Lo Pan compass to determine directional energy.",
+    "keywords": [
+      "luo pan",
+      "lo pan compass",
+      "feng shui compass direction"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Feng Shui Compass free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Feng Shui Compass?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "kua-number",
+      "feng-shui-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-career",
+    "slug": "chinese-career",
+    "name": "Chinese Zodiac Career",
+    "tagline": "Best careers by Chinese sign",
+    "description": "Discover ideal careers for your Chinese zodiac animal sign.",
+    "keywords": [
+      "chinese zodiac career",
+      "chinese astrology career",
+      "best job chinese zodiac"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Zodiac Career free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Zodiac Career?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "numerology-career"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-health",
+    "slug": "chinese-health",
+    "name": "Chinese Zodiac Health",
+    "tagline": "Health guide by Chinese sign",
+    "description": "Explore health tendencies and tips for each Chinese zodiac sign.",
+    "keywords": [
+      "chinese zodiac health",
+      "chinese astrology health",
+      "zodiac health tips"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Zodiac Health free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Zodiac Health?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "zodiac-health"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-forecast-month",
+    "slug": "chinese-forecast-month",
+    "name": "Chinese Monthly Forecast",
+    "tagline": "Monthly Chinese zodiac forecast",
+    "description": "Get a month-by-month Chinese zodiac forecast.",
+    "keywords": [
+      "chinese monthly horoscope",
+      "chinese zodiac forecast",
+      "monthly chinese reading"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Monthly Forecast free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Monthly Forecast?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-daily-horoscope",
+      "personal-month-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "gua-calculation",
+    "slug": "gua-calculation",
+    "name": "Trigram Gua Calculator",
+    "tagline": "I Ching trigram for your birth",
+    "description": "Calculate your personal I Ching trigram (Gua) from your birth data.",
+    "keywords": [
+      "gua calculator",
+      "i ching trigram",
+      "personal gua"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Trigram Gua Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Trigram Gua Calculator?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "i-ching-reading",
+      "ba-zi-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-element-compatibility",
+    "slug": "chinese-element-compatibility",
+    "name": "Five Elements Compatibility",
+    "tagline": "Compatibility by Chinese elements",
+    "description": "Check if two people's Chinese elements create harmony or conflict.",
+    "keywords": [
+      "chinese elements compatibility",
+      "five elements love",
+      "wuxing compatibility love"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Five Elements Compatibility free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Five Elements Compatibility?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-love-elements",
+      "chinese-zodiac-compatibility"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-zodiac-2026",
+    "slug": "chinese-zodiac-2026",
+    "name": "Chinese Zodiac 2026",
+    "tagline": "Chinese astrology preview for 2026",
+    "description": "Get an early preview of Chinese zodiac forecasts for 2026.",
+    "keywords": [
+      "chinese zodiac 2026",
+      "chinese horoscope 2026",
+      "year 2026 chinese astrology"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Zodiac 2026 free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Zodiac 2026?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-horoscope-2025",
+      "chinese-zodiac-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "qi-gong-number",
+    "slug": "qi-gong-number",
+    "name": "Qi Gong Personal Number",
+    "tagline": "Your Qi Gong practice number",
+    "description": "Find the numerological number that supports your Qi Gong and Tai Chi practice.",
+    "keywords": [
+      "qi gong number",
+      "tai chi numerology",
+      "qigong personal practice"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Qi Gong Personal Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Qi Gong Personal Number?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-medicine-type",
+      "meditation-timer"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 4400,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-poetry-fortune",
+    "slug": "chinese-poetry-fortune",
+    "name": "Chinese Poetry Fortune",
+    "tagline": "A fortune in classical Chinese poetry",
+    "description": "Receive a fortune expressed in a classical Chinese poem.",
+    "keywords": [
+      "chinese poetry fortune",
+      "classical chinese poem fortune",
+      "fortune in poetry"
+    ],
+    "category": "chinese",
+    "faqs": [
+      {
+        "q": "Is the Chinese Poetry Fortune free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Poetry Fortune?",
+        "a": "This tool uses traditional chinese methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "fortune-cookie",
+      "daily-fortune"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 4400,
+    "evergreen": true
+  }
+]

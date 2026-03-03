@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "dream-dictionary",
+    "slug": "dream-dictionary",
+    "name": "Dream Dictionary",
+    "tagline": "Look up the meaning of any dream symbol",
+    "description": "Search our comprehensive dream symbol dictionary for interpretations.",
+    "keywords": [
+      "dream dictionary",
+      "dream meaning",
+      "what does dream mean"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Dream Dictionary free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Dream Dictionary?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "dream-interpreter",
+      "aura-reader"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "dream-interpreter",
+    "slug": "dream-interpreter",
+    "name": "Dream Interpreter",
+    "tagline": "Interpret your full dream",
+    "description": "Describe your dream and get a comprehensive interpretation.",
+    "keywords": [
+      "dream interpreter",
+      "interpret my dream",
+      "dream analysis"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Dream Interpreter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Dream Interpreter?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "dream-dictionary",
+      "dream-card"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "aura-reader",
+    "slug": "aura-reader",
+    "name": "Aura Color Reader",
+    "tagline": "Discover your aura color",
+    "description": "Find out your aura color based on personality and energy.",
+    "keywords": [
+      "aura color reader",
+      "what is my aura",
+      "aura color meaning"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Aura Color Reader free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Aura Color Reader?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chakra-calculator",
+      "dream-dictionary"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "chakra-calculator",
+    "slug": "chakra-calculator",
+    "name": "Chakra Balance Checker",
+    "tagline": "Check your chakra balance",
+    "description": "Answer questions to discover which of your 7 chakras are blocked or open.",
+    "keywords": [
+      "chakra calculator",
+      "chakra balance",
+      "am i chakra balanced"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Chakra Balance Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chakra Balance Checker?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "aura-reader",
+      "chakra-tarot"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "moon-phase-tracker",
+    "slug": "moon-phase-tracker",
+    "name": "Moon Phase Tracker",
+    "tagline": "Current moon phase and calendar",
+    "description": "Track the current moon phase and see the full lunar calendar.",
+    "keywords": [
+      "moon phase tracker",
+      "current moon phase",
+      "moon calendar"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Moon Phase Tracker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Moon Phase Tracker?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-luck",
+      "moon-sign-calculator"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "meditation-timer",
+    "slug": "meditation-timer",
+    "name": "Meditation Timer",
+    "tagline": "Timed meditation with gentle chimes",
+    "description": "Set a meditation timer with optional beginning and ending bells.",
+    "keywords": [
+      "meditation timer",
+      "online meditation timer",
+      "mindfulness timer"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Meditation Timer free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Meditation Timer?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chakra-calculator",
+      "breathing-exercise"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "breathing-exercise",
+    "slug": "breathing-exercise",
+    "name": "Breathing Exercise Timer",
+    "tagline": "Guided breathing exercises",
+    "description": "Practice 4-7-8, box breathing, or coherence breathing with a visual guide.",
+    "keywords": [
+      "breathing exercise",
+      "box breathing",
+      "4-7-8 breathing timer"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Breathing Exercise Timer free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Breathing Exercise Timer?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "meditation-timer",
+      "stress-checker"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "spirit-animal-finder",
+    "slug": "spirit-animal-finder",
+    "name": "Spirit Animal Finder",
+    "tagline": "Discover your spirit animal",
+    "description": "Find your spirit animal through a guided quiz based on instincts and personality.",
+    "keywords": [
+      "spirit animal",
+      "what is my spirit animal",
+      "totem animal quiz"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Spirit Animal Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Spirit Animal Finder?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-animal-spirit",
+      "chinese-zodiac-finder"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "aura-chakra-reading",
+    "slug": "aura-chakra-reading",
+    "name": "Combined Aura & Chakra Reading",
+    "tagline": "Your aura color and chakra state",
+    "description": "Get a combined reading of your aura color and chakra energy centers.",
+    "keywords": [
+      "aura chakra reading",
+      "energy body reading",
+      "chakra aura"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Combined Aura & Chakra Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Combined Aura & Chakra Reading?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "aura-reader",
+      "chakra-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "past-life-calculator",
+    "slug": "past-life-calculator",
+    "name": "Past Life Reading",
+    "tagline": "Explore your past life connections",
+    "description": "Use numerology and astrology to explore potential past life themes.",
+    "keywords": [
+      "past life reading",
+      "past life calculator",
+      "what was i in past life"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Past Life Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Past Life Reading?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "past-life-tarot",
+      "karmic-debt-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "lucid-dream-guide",
+    "slug": "lucid-dream-guide",
+    "name": "Lucid Dream Guide",
+    "tagline": "Learn to have lucid dreams",
+    "description": "Guide and tools for achieving lucid dreaming and dream control.",
+    "keywords": [
+      "lucid dreaming",
+      "how to lucid dream",
+      "lucid dream guide"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Lucid Dream Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucid Dream Guide?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "dream-dictionary",
+      "meditation-timer"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "sleep-calculator",
+    "slug": "sleep-calculator",
+    "name": "Sleep Calculator",
+    "tagline": "Find your optimal sleep time",
+    "description": "Calculate the best time to wake up based on sleep cycles.",
+    "keywords": [
+      "sleep calculator",
+      "best time to wake up",
+      "sleep cycle calculator"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Sleep Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Sleep Calculator?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "meditation-timer",
+      "biorhythm-calculator"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-dream",
+    "slug": "numerology-dream",
+    "name": "Dream Number Meaning",
+    "tagline": "Numerological meaning of numbers in dreams",
+    "description": "Look up the numerological significance of numbers appearing in your dreams.",
+    "keywords": [
+      "dream numbers meaning",
+      "number in dream",
+      "numerology dream number"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Dream Number Meaning free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Dream Number Meaning?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "dream-dictionary",
+      "angel-number-meaning"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "akashic-records",
+    "slug": "akashic-records",
+    "name": "Akashic Records Guide",
+    "tagline": "Access your soul's cosmic records",
+    "description": "Guided meditation and affirmations to access your Akashic Records.",
+    "keywords": [
+      "akashic records",
+      "soul records",
+      "akashic reading"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Akashic Records Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Akashic Records Guide?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "past-life-calculator",
+      "spirit-guide-tarot"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "third-eye-test",
+    "slug": "third-eye-test",
+    "name": "Third Eye Test",
+    "tagline": "Is your third eye open?",
+    "description": "Take a quiz to assess the openness of your third eye (6th chakra).",
+    "keywords": [
+      "third eye test",
+      "is my third eye open",
+      "6th chakra test"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Third Eye Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Third Eye Test?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chakra-calculator",
+      "aura-reader"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "angel-number-daily",
+    "slug": "angel-number-daily",
+    "name": "Daily Angel Number",
+    "tagline": "Your angel number for today",
+    "description": "Calculate today's angel number based on the date and your numbers.",
+    "keywords": [
+      "daily angel number",
+      "angel number today",
+      "todays angel number"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Daily Angel Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Daily Angel Number?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "angel-number-meaning",
+      "daily-fortune"
+    ],
+    "priority": 0.57,
+    "monthlySearches": 33100,
+    "evergreen": true
+  },
+  {
+    "id": "synchronicity-tracker",
+    "slug": "synchronicity-tracker",
+    "name": "Synchronicity Journal",
+    "tagline": "Track meaningful coincidences",
+    "description": "Log and find patterns in synchronicities and meaningful coincidences.",
+    "keywords": [
+      "synchronicity",
+      "meaningful coincidences",
+      "synchronicity tracker"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Synchronicity Journal free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Synchronicity Journal?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "angel-number-daily",
+      "dream-interpreter"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "crystal-guide",
+    "slug": "crystal-guide",
+    "name": "Crystal Healing Guide",
+    "tagline": "Properties of healing crystals",
+    "description": "Look up the healing properties and uses of any crystal or gemstone.",
+    "keywords": [
+      "crystal healing guide",
+      "crystal properties",
+      "healing crystals meaning"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Crystal Healing Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Crystal Healing Guide?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-stone-finder",
+      "chakra-calculator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "tarot-affirmation",
+    "slug": "tarot-affirmation",
+    "name": "Tarot Affirmation",
+    "tagline": "Daily tarot-based affirmation",
+    "description": "Pull a card and receive an affirmation aligned with its energy.",
+    "keywords": [
+      "tarot affirmation",
+      "tarot daily practice",
+      "affirmation tarot"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Tarot Affirmation free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Tarot Affirmation?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-affirmation",
+      "daily-tarot-card"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-affirmation",
+    "slug": "numerology-affirmation",
+    "name": "Numerology Affirmation",
+    "tagline": "Affirmation based on your life path",
+    "description": "Get a powerful daily affirmation aligned with your Life Path number.",
+    "keywords": [
+      "numerology affirmation",
+      "life path affirmation",
+      "number affirmation"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Numerology Affirmation free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Affirmation?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-affirmation",
+      "life-path-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "gratitude-practice",
+    "slug": "gratitude-practice",
+    "name": "Gratitude Practice",
+    "tagline": "Daily gratitude prompts",
+    "description": "Generate personalized gratitude prompts based on your zodiac energy.",
+    "keywords": [
+      "gratitude practice",
+      "gratitude prompts",
+      "daily gratitude"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Gratitude Practice free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Gratitude Practice?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-affirmation",
+      "meditation-timer"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "manifestation-calculator",
+    "slug": "manifestation-calculator",
+    "name": "Manifestation Calculator",
+    "tagline": "Best time to manifest your desires",
+    "description": "Calculate the most powerful times to manifest based on moon phase and numerology.",
+    "keywords": [
+      "manifestation calculator",
+      "manifest timing",
+      "best time to manifest"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Manifestation Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Manifestation Calculator?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-phase-tracker",
+      "wish-maker"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "dream-journal-prompt",
+    "slug": "dream-journal-prompt",
+    "name": "Dream Journal Prompt",
+    "tagline": "Prompts for recording your dreams",
+    "description": "Get guided questions to deepen your dream journaling practice.",
+    "keywords": [
+      "dream journal prompts",
+      "dream journaling",
+      "how to journal dreams"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Dream Journal Prompt free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Dream Journal Prompt?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "dream-dictionary",
+      "lucid-dream-guide"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "shadow-work-prompt",
+    "slug": "shadow-work-prompt",
+    "name": "Shadow Work Prompt",
+    "tagline": "Daily shadow work question",
+    "description": "Receive a daily shadow work prompt to explore your subconscious patterns.",
+    "keywords": [
+      "shadow work prompt",
+      "shadow work questions",
+      "daily shadow work"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Shadow Work Prompt free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Shadow Work Prompt?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "shadow-work-tarot",
+      "dream-interpreter"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "sacred-geometry",
+    "slug": "sacred-geometry",
+    "name": "Sacred Geometry Guide",
+    "tagline": "Symbols of universal truth",
+    "description": "Explore sacred geometry symbols and their spiritual meanings.",
+    "keywords": [
+      "sacred geometry",
+      "sacred geometry meaning",
+      "geometric symbols spiritual"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Sacred Geometry Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Sacred Geometry Guide?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "crystal-guide",
+      "aura-reader"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "sigil-creator",
+    "slug": "sigil-creator",
+    "name": "Sigil Creator",
+    "tagline": "Create your intention sigil",
+    "description": "Create a personal sigil (magic symbol) for manifestation.",
+    "keywords": [
+      "sigil creator",
+      "make a sigil",
+      "intention sigil"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Sigil Creator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Sigil Creator?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "wish-maker",
+      "manifestation-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "karma-calculator",
+    "slug": "karma-calculator",
+    "name": "Karma Calculator",
+    "tagline": "Your karmic score by actions",
+    "description": "Reflect on past actions and calculate your karmic balance.",
+    "keywords": [
+      "karma calculator",
+      "karma score",
+      "karmic balance"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Karma Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Karma Calculator?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "karmic-debt-calculator",
+      "past-life-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "energy-check",
+    "slug": "energy-check",
+    "name": "Energy Level Checker",
+    "tagline": "Your vibrational energy today",
+    "description": "Assess your current vibrational energy level and get tips to raise it.",
+    "keywords": [
+      "energy check",
+      "vibrational energy",
+      "raise your vibration"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Energy Level Checker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Energy Level Checker?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chakra-calculator",
+      "aura-reader"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "frequency-calculator",
+    "slug": "frequency-calculator",
+    "name": "Healing Frequency Guide",
+    "tagline": "Solfeggio frequencies for healing",
+    "description": "Explore healing solfeggio frequencies and their benefits.",
+    "keywords": [
+      "solfeggio frequencies",
+      "healing frequencies",
+      "396 hz 528 hz"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Healing Frequency Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Healing Frequency Guide?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "meditation-timer",
+      "crystal-guide"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "angel-message",
+    "slug": "angel-message",
+    "name": "Angel Message Generator",
+    "tagline": "Receive a message from the angels",
+    "description": "Generate a personalized angel message based on your numbers.",
+    "keywords": [
+      "angel message",
+      "message from angels",
+      "angel guidance"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Angel Message Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Angel Message Generator?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "angel-card-reading",
+      "angel-number-daily"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "intuition-quiz",
+    "slug": "intuition-quiz",
+    "name": "Intuition Strength Test",
+    "tagline": "How strong is your intuition?",
+    "description": "Take a quiz to test and understand the strength of your intuitive gifts.",
+    "keywords": [
+      "intuition test",
+      "how intuitive am i",
+      "intuition quiz"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Intuition Strength Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Intuition Strength Test?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "third-eye-test",
+      "spirit-animal-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "empath-test",
+    "slug": "empath-test",
+    "name": "Empath Test",
+    "tagline": "Are you an empath?",
+    "description": "Take this quiz to discover if you are an empath and what type.",
+    "keywords": [
+      "empath test",
+      "am i an empath",
+      "empath quiz"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Empath Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Empath Test?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "intuition-quiz",
+      "aura-reader"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "psychic-abilities",
+    "slug": "psychic-abilities",
+    "name": "Psychic Ability Finder",
+    "tagline": "Discover your psychic gifts",
+    "description": "A quiz to identify your strongest psychic abilities.",
+    "keywords": [
+      "psychic abilities",
+      "what psychic ability do i have",
+      "psychic gifts test"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Psychic Ability Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Psychic Ability Finder?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "empath-test",
+      "third-eye-test"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "moon-ritual",
+    "slug": "moon-ritual",
+    "name": "Moon Ritual Guide",
+    "tagline": "New and full moon rituals",
+    "description": "Get a personalized moon ritual based on your zodiac sign and moon phase.",
+    "keywords": [
+      "moon ritual",
+      "full moon ritual",
+      "new moon ritual"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Moon Ritual Guide free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Moon Ritual Guide?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-phase-tracker",
+      "manifestation-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "energy-number",
+    "slug": "energy-number",
+    "name": "Energy Number",
+    "tagline": "Your vibrational number",
+    "description": "Calculate your personal energy number for understanding your vibration.",
+    "keywords": [
+      "energy number",
+      "vibrational number",
+      "personal energy numerology"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Energy Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Energy Number?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "frequency-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "cosmic-quiz",
+    "slug": "cosmic-quiz",
+    "name": "Cosmic Personality Quiz",
+    "tagline": "Are you more earth or cosmos?",
+    "description": "Take a fun quiz to find where you feel most at home in the universe.",
+    "keywords": [
+      "cosmic personality",
+      "spiritual personality quiz",
+      "earth or cosmos"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Cosmic Personality Quiz free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Cosmic Personality Quiz?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-personality",
+      "spirit-animal-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "light-worker",
+    "slug": "light-worker",
+    "name": "Lightworker Quiz",
+    "tagline": "Are you a Lightworker?",
+    "description": "Discover if you are a Lightworker and what your mission is.",
+    "keywords": [
+      "lightworker quiz",
+      "am i a lightworker",
+      "lightworker test"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Lightworker Quiz free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lightworker Quiz?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "empath-test",
+      "psychic-abilities"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "star-seed",
+    "slug": "star-seed",
+    "name": "Starseed Identifier",
+    "tagline": "Are you a Starseed?",
+    "description": "Explore if you are a Starseed and which star system you may originate from.",
+    "keywords": [
+      "starseed test",
+      "am i a starseed",
+      "starseed quiz"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Starseed Identifier free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Starseed Identifier?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "light-worker",
+      "cosmic-quiz"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "indigo-child",
+    "slug": "indigo-child",
+    "name": "Indigo Child Test",
+    "tagline": "Are you an Indigo, Crystal or Rainbow child?",
+    "description": "Take a quiz to discover if you are an Indigo, Crystal, or Rainbow child.",
+    "keywords": [
+      "indigo child test",
+      "crystal child",
+      "rainbow child quiz"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Indigo Child Test free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Indigo Child Test?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "star-seed",
+      "empath-test"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "guided-visualization",
+    "slug": "guided-visualization",
+    "name": "Guided Visualization",
+    "tagline": "Daily manifestation visualization",
+    "description": "Follow a guided visualization script for daily manifestation practice.",
+    "keywords": [
+      "guided visualization",
+      "manifestation visualization",
+      "creative visualization"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Guided Visualization free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Guided Visualization?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "meditation-timer",
+      "manifestation-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "totem-pole",
+    "slug": "totem-pole",
+    "name": "Totem Pole Reading",
+    "tagline": "Three spirit animals: above, within, below",
+    "description": "A three-animal totem reading for spiritual guidance.",
+    "keywords": [
+      "totem pole reading",
+      "three totem animals",
+      "spirit animal reading"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Totem Pole Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Totem Pole Reading?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "spirit-animal-finder",
+      "tarot-card-reader"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-healing",
+    "slug": "numerology-healing",
+    "name": "Numerology Healing Number",
+    "tagline": "Your healing frequency number",
+    "description": "Discover the numerological frequency that best supports your healing.",
+    "keywords": [
+      "healing number numerology",
+      "numerology health number",
+      "healing vibration number"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Numerology Healing Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Healing Number?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "life-path-number",
+      "frequency-calculator"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 5400,
+    "evergreen": true
+  },
+  {
+    "id": "earth-angel",
+    "slug": "earth-angel",
+    "name": "Earth Angel Quiz",
+    "tagline": "Are you an Earth Angel?",
+    "description": "Discover if you are an Earth Angel and what your soul mission is.",
+    "keywords": [
+      "earth angel quiz",
+      "am i an earth angel",
+      "earth angel test"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Earth Angel Quiz free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Earth Angel Quiz?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "light-worker",
+      "star-seed"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "oracle-self-love",
+    "slug": "oracle-self-love",
+    "name": "Self-Love Oracle Reading",
+    "tagline": "A reading for self-love and healing",
+    "description": "Draw cards for a nurturing self-love oracle reading.",
+    "keywords": [
+      "self love oracle",
+      "self love reading",
+      "healing oracle cards"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Self-Love Oracle Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Self-Love Oracle Reading?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "oracle-card-reading",
+      "shadow-work-prompt"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "dream-archetype",
+    "slug": "dream-archetype",
+    "name": "Dream Archetype Finder",
+    "tagline": "Your Jungian dream archetype",
+    "description": "Discover your dominant Jungian archetype through dream analysis.",
+    "keywords": [
+      "dream archetype",
+      "jungian archetype",
+      "archetypal dream"
+    ],
+    "category": "dream",
+    "faqs": [
+      {
+        "q": "Is the Dream Archetype Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Dream Archetype Finder?",
+        "a": "This tool uses traditional dream methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "dream-interpreter",
+      "spirit-animal-finder"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  }
+]

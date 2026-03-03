@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "lucky-day-finder",
+    "slug": "lucky-day-finder",
+    "name": "Lucky Day Finder",
+    "tagline": "Find your luckiest day of the week",
+    "description": "Calculate your luckiest day based on your birth date and numerology.",
+    "keywords": [
+      "lucky day",
+      "luckiest day of the week",
+      "lucky day calculator"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Day Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Day Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-number-generator",
+      "lucky-color-finder"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-number-generator",
+    "slug": "lucky-number-generator",
+    "name": "Lucky Number Generator",
+    "tagline": "Your personal lucky numbers",
+    "description": "Generate your personal lucky numbers using numerology and astrology.",
+    "keywords": [
+      "lucky numbers",
+      "lucky number calculator",
+      "what are my lucky numbers"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Number Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Number Generator?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "lucky-color-finder"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-color-finder",
+    "slug": "lucky-color-finder",
+    "name": "Lucky Color Finder",
+    "tagline": "Your lucky colors for today",
+    "description": "Find your lucky colors for today based on your numerology and zodiac.",
+    "keywords": [
+      "lucky color",
+      "lucky color today",
+      "what is my lucky color"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Color Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Color Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-number-generator",
+      "lucky-day-finder"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-stone-finder",
+    "slug": "lucky-stone-finder",
+    "name": "Lucky Gemstone Finder",
+    "tagline": "Your lucky crystal or gemstone",
+    "description": "Discover the most powerful gemstones and crystals for your energy.",
+    "keywords": [
+      "lucky stone",
+      "lucky gemstone",
+      "crystal for luck"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Gemstone Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Gemstone Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-color-finder",
+      "zodiac-stone"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "daily-fortune",
+    "slug": "daily-fortune",
+    "name": "Daily Fortune Reading",
+    "tagline": "Your fortune for today",
+    "description": "Get a personalized daily fortune reading based on your sign and numbers.",
+    "keywords": [
+      "daily fortune",
+      "fortune today",
+      "daily luck reading"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Daily Fortune Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Daily Fortune Reading?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "daily-horoscope"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "fortune-cookie",
+    "slug": "fortune-cookie",
+    "name": "Fortune Cookie Generator",
+    "tagline": "Get a random fortune cookie message",
+    "description": "Generate a random fortune cookie message for fun and inspiration.",
+    "keywords": [
+      "fortune cookie",
+      "random fortune",
+      "fortune cookie generator"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Fortune Cookie Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Fortune Cookie Generator?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-fortune",
+      "lucky-number-generator"
+    ],
+    "priority": 0.62,
+    "monthlySearches": 60500,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-direction",
+    "slug": "lucky-direction",
+    "name": "Lucky Direction Finder",
+    "tagline": "Your lucky compass direction",
+    "description": "Find your auspicious direction based on your birth year and feng shui.",
+    "keywords": [
+      "lucky direction",
+      "feng shui direction",
+      "kua number direction"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Direction Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Direction Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "kua-number",
+      "feng-shui-calculator"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-time",
+    "slug": "lucky-time",
+    "name": "Lucky Hour Calculator",
+    "tagline": "Your luckiest hours today",
+    "description": "Calculate your most fortunate hours of the day based on your sign.",
+    "keywords": [
+      "lucky hour",
+      "lucky time today",
+      "auspicious hour"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Hour Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Hour Calculator?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "planetary-hour-calculator"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-element",
+    "slug": "lucky-element",
+    "name": "Lucky Element Finder",
+    "tagline": "Your fortune element",
+    "description": "Discover your ruling element (Fire, Water, Earth, Metal, Wood) for luck.",
+    "keywords": [
+      "lucky element",
+      "chinese element luck",
+      "wuxing element"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Element Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Element Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "chinese-zodiac-finder",
+      "lucky-color-finder"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "lottery-numbers",
+    "slug": "lottery-numbers",
+    "name": "Lucky Lottery Numbers",
+    "tagline": "Generate lucky lottery numbers",
+    "description": "Use numerology and astrology to generate potential lucky lottery numbers.",
+    "keywords": [
+      "lucky lottery numbers",
+      "lottery number generator",
+      "lucky pick numbers"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Lottery Numbers free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Lottery Numbers?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-number-generator",
+      "daily-fortune"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "feng-shui-calculator",
+    "slug": "feng-shui-calculator",
+    "name": "Feng Shui Calculator",
+    "tagline": "Calculate your Kua number",
+    "description": "Find your Kua number for personal feng shui directions and luck enhancement.",
+    "keywords": [
+      "feng shui calculator",
+      "kua number",
+      "personal feng shui"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Feng Shui Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Feng Shui Calculator?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "kua-number",
+      "lucky-direction"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "kua-number",
+    "slug": "kua-number",
+    "name": "Kua Number Calculator",
+    "tagline": "Your feng shui Kua number",
+    "description": "Calculate your Kua number from birth year and gender for feng shui.",
+    "keywords": [
+      "kua number calculator",
+      "feng shui kua",
+      "personal kua"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Kua Number Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Kua Number Calculator?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "feng-shui-calculator",
+      "lucky-direction"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-animal",
+    "slug": "lucky-animal",
+    "name": "Lucky Spirit Animal",
+    "tagline": "Your lucky spirit animal",
+    "description": "Discover your lucky spirit animal for the year based on your birth sign.",
+    "keywords": [
+      "lucky spirit animal",
+      "power animal",
+      "totem animal finder"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Spirit Animal free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Spirit Animal?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-animal-spirit",
+      "chinese-zodiac-finder"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "good-luck-charm",
+    "slug": "good-luck-charm",
+    "name": "Good Luck Charm Finder",
+    "tagline": "Best lucky charm for your sign",
+    "description": "Find the most powerful lucky charm or talisman for your zodiac sign.",
+    "keywords": [
+      "lucky charm",
+      "good luck charm",
+      "lucky talisman by sign"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Good Luck Charm Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Good Luck Charm Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-stone-finder",
+      "lucky-color-finder"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-month",
+    "slug": "lucky-month",
+    "name": "Lucky Month Finder",
+    "tagline": "Your luckiest months of the year",
+    "description": "Find your most fortunate months using numerology and astrology.",
+    "keywords": [
+      "lucky month",
+      "luckiest month",
+      "best month for me"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Month Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Month Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "personal-year-number"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "auspicious-date",
+    "slug": "auspicious-date",
+    "name": "Auspicious Date Finder",
+    "tagline": "Find lucky dates for important events",
+    "description": "Calculate the most auspicious dates for business, travel, or major decisions.",
+    "keywords": [
+      "auspicious date",
+      "lucky date finder",
+      "good date for event"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Auspicious Date Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Auspicious Date Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "wedding-date-calculator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "daily-lucky-numbers",
+    "slug": "daily-lucky-numbers",
+    "name": "Today's Lucky Numbers",
+    "tagline": "Lucky numbers for today's date",
+    "description": "Calculate the lucky numbers specific to today's date.",
+    "keywords": [
+      "lucky numbers today",
+      "todays lucky numbers",
+      "daily lucky number"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Today's Lucky Numbers free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Today's Lucky Numbers?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-number-generator",
+      "daily-fortune"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "four-leaf-clover",
+    "slug": "four-leaf-clover",
+    "name": "Four Leaf Clover Reading",
+    "tagline": "Your daily luck symbol reading",
+    "description": "Get a symbolic luck reading based on nature's fortune signs.",
+    "keywords": [
+      "four leaf clover luck",
+      "luck symbol",
+      "fortune symbol reading"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Four Leaf Clover Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Four Leaf Clover Reading?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-fortune",
+      "fortune-cookie"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "wish-maker",
+    "slug": "wish-maker",
+    "name": "Wish Maker",
+    "tagline": "Make a wish with numerology",
+    "description": "Use your numbers to set the most powerful wish and intention.",
+    "keywords": [
+      "make a wish numerology",
+      "wish number",
+      "intention setting numerology"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Wish Maker free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Wish Maker?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-number-generator",
+      "daily-fortune"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-name-letter",
+    "slug": "lucky-name-letter",
+    "name": "Lucky Name First Letter",
+    "tagline": "Luckiest first letters for names",
+    "description": "Find which first letters are most auspicious based on numerology.",
+    "keywords": [
+      "lucky name letter",
+      "lucky first letter",
+      "auspicious name initial"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Name First Letter free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Name First Letter?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-name-calculator",
+      "baby-name-numerology"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "year-luck",
+    "slug": "year-luck",
+    "name": "Yearly Luck Forecast",
+    "tagline": "How lucky will this year be?",
+    "description": "Get a full luck forecast for the current year based on your numbers.",
+    "keywords": [
+      "year luck forecast",
+      "lucky year",
+      "annual luck reading"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Yearly Luck Forecast free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Yearly Luck Forecast?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "personal-year-number",
+      "lucky-month"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "travel-lucky-day",
+    "slug": "travel-lucky-day",
+    "name": "Lucky Travel Day",
+    "tagline": "Best days to travel by sign",
+    "description": "Find the luckiest days for travel based on your zodiac and numerology.",
+    "keywords": [
+      "lucky travel day",
+      "best day to travel",
+      "auspicious travel date"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Travel Day free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Travel Day?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "auspicious-date"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "business-lucky-day",
+    "slug": "business-lucky-day",
+    "name": "Lucky Business Day",
+    "tagline": "Most auspicious days to do business",
+    "description": "Find the best days for business meetings, launches and deals.",
+    "keywords": [
+      "lucky business day",
+      "auspicious business date",
+      "best day for business"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Business Day free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Business Day?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "business-name-numerology"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-house-number",
+    "slug": "lucky-house-number",
+    "name": "Lucky House Number",
+    "tagline": "Is your house number lucky?",
+    "description": "Find out if your home's address number brings luck and prosperity.",
+    "keywords": [
+      "lucky house number",
+      "house number luck",
+      "home number numerology"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky House Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky House Number?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "house-number-numerology",
+      "kua-number"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-car-number",
+    "slug": "lucky-car-number",
+    "name": "Lucky Car Number",
+    "tagline": "Is your car's number lucky?",
+    "description": "Calculate the luck value of your vehicle registration number.",
+    "keywords": [
+      "lucky car number",
+      "vehicle number numerology",
+      "car plate luck"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Car Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Car Number?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-number-generator",
+      "lucky-house-number"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "daily-affirmation",
+    "slug": "daily-affirmation",
+    "name": "Daily Affirmation Generator",
+    "tagline": "Personalized daily positive affirmation",
+    "description": "Generate a personalized affirmation based on your numbers and sign for today.",
+    "keywords": [
+      "daily affirmation",
+      "positive affirmation",
+      "affirmation generator"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Daily Affirmation Generator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Daily Affirmation Generator?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-fortune",
+      "love-mantra"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-planet",
+    "slug": "lucky-planet",
+    "name": "Lucky Planet Today",
+    "tagline": "Which planet favors you today?",
+    "description": "Find out which planet is most favorable for you today.",
+    "keywords": [
+      "lucky planet",
+      "planet of the day",
+      "favorable planet astrology"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Planet Today free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Planet Today?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "planetary-hour-calculator",
+      "lucky-day-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "yes-no-oracle",
+    "slug": "yes-no-oracle",
+    "name": "Yes or No Oracle",
+    "tagline": "Get a mystical yes or no answer",
+    "description": "Ask a question and get a yes or no answer from the cosmic oracle.",
+    "keywords": [
+      "yes or no oracle",
+      "yes no question",
+      "oracle yes no"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Yes or No Oracle free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Yes or No Oracle?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-fortune",
+      "fortune-cookie"
+    ],
+    "priority": 0.58,
+    "monthlySearches": 40500,
+    "evergreen": true
+  },
+  {
+    "id": "magic-8-ball",
+    "slug": "magic-8-ball",
+    "name": "Magic 8 Ball",
+    "tagline": "Shake the magic 8 ball",
+    "description": "Get a mystical answer from the famous magic 8 ball.",
+    "keywords": [
+      "magic 8 ball",
+      "8 ball oracle",
+      "magic 8 ball online"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Magic 8 Ball free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Magic 8 Ball?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "yes-no-oracle",
+      "fortune-cookie"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "coin-flip",
+    "slug": "coin-flip",
+    "name": "Lucky Coin Flip",
+    "tagline": "Flip a coin for decisions",
+    "description": "Flip a digital coin to help make decisions or determine luck.",
+    "keywords": [
+      "coin flip",
+      "flip a coin",
+      "heads or tails"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Coin Flip free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Coin Flip?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "yes-no-oracle",
+      "dice-roller"
+    ],
+    "priority": 0.77,
+    "monthlySearches": 135000,
+    "evergreen": true
+  },
+  {
+    "id": "dice-roller",
+    "slug": "dice-roller",
+    "name": "Dice Roller",
+    "tagline": "Roll any number of dice",
+    "description": "Roll virtual dice for games, decisions or numerology practice.",
+    "keywords": [
+      "dice roller",
+      "roll dice online",
+      "virtual dice"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Dice Roller free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Dice Roller?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "coin-flip",
+      "lucky-number-generator"
+    ],
+    "priority": 0.68,
+    "monthlySearches": 90500,
+    "evergreen": true
+  },
+  {
+    "id": "rune-cast",
+    "slug": "rune-cast",
+    "name": "Rune Cast",
+    "tagline": "Draw three runes for guidance",
+    "description": "Cast runes for a three-card style divination reading.",
+    "keywords": [
+      "rune cast",
+      "rune reading online",
+      "rune divination"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Rune Cast free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Rune Cast?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "yes-no-oracle"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 18100,
+    "evergreen": true
+  },
+  {
+    "id": "pendulum",
+    "slug": "pendulum",
+    "name": "Pendulum Reading",
+    "tagline": "Virtual pendulum for yes/no",
+    "description": "Use a virtual pendulum to seek guidance on any question.",
+    "keywords": [
+      "pendulum reading",
+      "pendulum dowsing",
+      "virtual pendulum"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Pendulum Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Pendulum Reading?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "yes-no-oracle",
+      "magic-8-ball"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-quote",
+    "slug": "lucky-quote",
+    "name": "Lucky Motivational Quote",
+    "tagline": "Personalized lucky quote for today",
+    "description": "Get a motivational quote aligned with your numerology for today.",
+    "keywords": [
+      "lucky quote",
+      "motivational quote today",
+      "lucky motivation"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Motivational Quote free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Motivational Quote?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-affirmation",
+      "daily-fortune"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "color-of-day",
+    "slug": "color-of-day",
+    "name": "Color of the Day",
+    "tagline": "Your power color for today",
+    "description": "Find your energizing color for today based on date numerology.",
+    "keywords": [
+      "color of the day",
+      "daily color",
+      "todays color numerology"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Color of the Day free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Color of the Day?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-color-finder",
+      "daily-fortune"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-food",
+    "slug": "lucky-food",
+    "name": "Lucky Food by Sign",
+    "tagline": "Auspicious foods for your zodiac",
+    "description": "Discover the luckiest foods and drinks for your zodiac sign.",
+    "keywords": [
+      "lucky food zodiac",
+      "astrology food",
+      "zodiac diet"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Food by Sign free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Food by Sign?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "zodiac-health",
+      "lucky-color-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "bagua-calculator",
+    "slug": "bagua-calculator",
+    "name": "Bagua Map Calculator",
+    "tagline": "Feng shui bagua for your home",
+    "description": "Map your home according to the feng shui bagua for prosperity.",
+    "keywords": [
+      "bagua calculator",
+      "feng shui bagua",
+      "bagua map"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Bagua Map Calculator free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Bagua Map Calculator?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "kua-number",
+      "feng-shui-calculator"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "vastu-direction",
+    "slug": "vastu-direction",
+    "name": "Vastu Direction Finder",
+    "tagline": "Auspicious directions by Vastu Shastra",
+    "description": "Find lucky directions for your home or workspace using Vastu Shastra.",
+    "keywords": [
+      "vastu direction",
+      "vastu calculator",
+      "vastu shastra"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Vastu Direction Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Vastu Direction Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "feng-shui-calculator",
+      "kua-number"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-plant",
+    "slug": "lucky-plant",
+    "name": "Lucky Plant by Sign",
+    "tagline": "Best plants for luck by zodiac",
+    "description": "Find the most auspicious plants for your home based on zodiac sign.",
+    "keywords": [
+      "lucky plant zodiac",
+      "feng shui plants",
+      "lucky plant for sign"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Plant by Sign free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Plant by Sign?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-food",
+      "good-luck-charm"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "weekly-luck",
+    "slug": "weekly-luck",
+    "name": "Weekly Luck Forecast",
+    "tagline": "Your luck for the week ahead",
+    "description": "Get a full weekly luck forecast based on your numerology.",
+    "keywords": [
+      "weekly luck",
+      "luck this week",
+      "weekly fortune"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Weekly Luck Forecast free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Weekly Luck Forecast?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "daily-fortune",
+      "year-luck"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-metal",
+    "slug": "lucky-metal",
+    "name": "Lucky Metal Finder",
+    "tagline": "Your auspicious metal or material",
+    "description": "Find your lucky metal (gold, silver, copper, iron) based on your sign.",
+    "keywords": [
+      "lucky metal",
+      "auspicious metal",
+      "metal by zodiac"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Metal Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Metal Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-stone-finder",
+      "lucky-element"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "moon-luck",
+    "slug": "moon-luck",
+    "name": "Moon Phase Luck",
+    "tagline": "How the moon affects your luck today",
+    "description": "Find out how today's moon phase influences your personal luck.",
+    "keywords": [
+      "moon luck",
+      "moon phase luck",
+      "lunar luck"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Moon Phase Luck free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Moon Phase Luck?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "moon-phase-tracker",
+      "lucky-day-finder"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-season",
+    "slug": "lucky-season",
+    "name": "Lucky Season Finder",
+    "tagline": "Your luckiest season of the year",
+    "description": "Discover which season brings the most luck and opportunity for you.",
+    "keywords": [
+      "lucky season",
+      "best season for me",
+      "lucky time of year"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Season Finder free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Season Finder?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-month",
+      "year-luck"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 8100,
+    "evergreen": true
+  },
+  {
+    "id": "chinese-lucky-number",
+    "slug": "chinese-lucky-number",
+    "name": "Chinese Lucky Number",
+    "tagline": "Lucky numbers in Chinese culture",
+    "description": "Explore the luckiest numbers in Chinese numerology and culture.",
+    "keywords": [
+      "chinese lucky number",
+      "lucky number chinese",
+      "chinese numerology numbers"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Chinese Lucky Number free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Chinese Lucky Number?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-number-generator",
+      "chinese-zodiac-finder"
+    ],
+    "priority": 0.54,
+    "monthlySearches": 22200,
+    "evergreen": true
+  },
+  {
+    "id": "numerology-lottery",
+    "slug": "numerology-lottery",
+    "name": "Numerology Lottery Prediction",
+    "tagline": "Lucky lottery picks by numerology",
+    "description": "Use your personal numerology to select lottery number picks.",
+    "keywords": [
+      "numerology lottery",
+      "lucky lottery numerology",
+      "lottery prediction numerology"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Numerology Lottery Prediction free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Numerology Lottery Prediction?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lottery-numbers",
+      "lucky-number-generator"
+    ],
+    "priority": 0.55,
+    "monthlySearches": 27100,
+    "evergreen": true
+  },
+  {
+    "id": "tarot-daily-card",
+    "slug": "tarot-daily-card",
+    "name": "Daily Tarot Card",
+    "tagline": "Pull your card of the day",
+    "description": "Draw a single tarot card each day for guidance and reflection.",
+    "keywords": [
+      "daily tarot card",
+      "card of the day",
+      "tarot daily"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Daily Tarot Card free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Daily Tarot Card?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "tarot-card-reader",
+      "daily-fortune"
+    ],
+    "priority": 0.6,
+    "monthlySearches": 49500,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-i-ching",
+    "slug": "lucky-i-ching",
+    "name": "I Ching Reading",
+    "tagline": "Ancient Chinese I Ching oracle",
+    "description": "Cast the I Ching hexagram for timeless wisdom and guidance.",
+    "keywords": [
+      "i ching",
+      "i ching reading",
+      "book of changes oracle"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the I Ching Reading free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the I Ching Reading?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "rune-cast",
+      "tarot-card-reader"
+    ],
+    "priority": 0.53,
+    "monthlySearches": 14800,
+    "evergreen": true
+  },
+  {
+    "id": "wish-day",
+    "slug": "wish-day",
+    "name": "Best Day to Make a Wish",
+    "tagline": "Most powerful wishing day",
+    "description": "Find the most cosmically powerful day to make a wish or set intentions.",
+    "keywords": [
+      "best day to make a wish",
+      "wishing day",
+      "manifestation day"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Best Day to Make a Wish free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Best Day to Make a Wish?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "auspicious-date"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 9900,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-sport",
+    "slug": "lucky-sport",
+    "name": "Lucky Sport Day",
+    "tagline": "Best day for sports and competition",
+    "description": "Find the most favorable day for sports, games and competitions.",
+    "keywords": [
+      "lucky sports day",
+      "competition luck",
+      "sports astrology"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Sport Day free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Sport Day?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "daily-fortune"
+    ],
+    "priority": 0.51,
+    "monthlySearches": 6600,
+    "evergreen": true
+  },
+  {
+    "id": "lucky-exam-day",
+    "slug": "lucky-exam-day",
+    "name": "Lucky Exam Day",
+    "tagline": "Best day to take exams",
+    "description": "Find the most auspicious day for taking exams or tests.",
+    "keywords": [
+      "lucky exam day",
+      "best day for exam",
+      "exam luck astrology"
+    ],
+    "category": "lucky",
+    "faqs": [
+      {
+        "q": "Is the Lucky Exam Day free?",
+        "a": "Yes, completely free. No signup required. Works entirely in your browser."
+      },
+      {
+        "q": "How accurate is the Lucky Exam Day?",
+        "a": "This tool uses traditional lucky methods and formulas for its calculations."
+      }
+    ],
+    "relatedTools": [
+      "lucky-day-finder",
+      "auspicious-date"
+    ],
+    "priority": 0.52,
+    "monthlySearches": 12100,
+    "evergreen": true
+  }
+]

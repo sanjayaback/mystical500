@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /data/
+Disallow: /scripts/
+Disallow: /templates/
+Disallow: /src/
+Sitemap: https://mystictools.com/sitemap.xml
