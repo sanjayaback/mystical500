@@ -514,7 +514,7 @@
     "slug": "solar-return-calculator",
     "name": "Solar Return Calculator",
     "tagline": "Your birthday chart for the year ahead",
-    "description": "Calculate your solar return chart \u2014 your personal new year forecast.",
+    "description": "Calculate your solar return chart — your personal new year forecast.",
     "keywords": [
       "solar return calculator",
       "birthday chart astrology",
@@ -603,7 +603,7 @@
     "id": "modality-calculator",
     "slug": "modality-calculator",
     "name": "Astrology Modality Finder",
-    "tagline": "Cardinal, Fixed or Mutable \u2014 find yours",
+    "tagline": "Cardinal, Fixed or Mutable — find yours",
     "description": "Discover your dominant chart modality: Cardinal, Fixed or Mutable.",
     "keywords": [
       "astrology modality",
@@ -694,7 +694,7 @@
     "slug": "saturn-return-calculator",
     "name": "Saturn Return Calculator",
     "tagline": "When is your Saturn return?",
-    "description": "Calculate the dates of your Saturn return \u2014 a major life turning point at 29 and 58.",
+    "description": "Calculate the dates of your Saturn return — a major life turning point at 29 and 58.",
     "keywords": [
       "saturn return calculator",
       "when is my saturn return",
@@ -844,7 +844,7 @@
     "slug": "moon-phase-birthday",
     "name": "Moon Phase on Birthday",
     "tagline": "What was the moon phase on your birthday?",
-    "description": "Find the exact moon phase on any date \u2014 great for birthdays.",
+    "description": "Find the exact moon phase on any date — great for birthdays.",
     "keywords": [
       "moon phase on birthday",
       "moon phase date",
@@ -1024,7 +1024,7 @@
     "slug": "stellium-finder",
     "name": "Stellium Finder",
     "tagline": "Do you have a stellium in your chart?",
-    "description": "Check if you have 3+ planets in one sign or house \u2014 a powerful stellium.",
+    "description": "Check if you have 3+ planets in one sign or house — a powerful stellium.",
     "keywords": [
       "stellium astrology",
       "stellium finder",
@@ -1204,7 +1204,7 @@
     "slug": "ic-calculator",
     "name": "Imum Coeli (IC) Calculator",
     "tagline": "Find your 4th house home axis",
-    "description": "Calculate your IC placement \u2014 your roots, home and private self.",
+    "description": "Calculate your IC placement — your roots, home and private self.",
     "keywords": [
       "imum coeli calculator",
       "ic astrology",
@@ -1742,7 +1742,7 @@
   {
     "id": "yod-finder",
     "slug": "yod-finder",
-    "name": "Yod Finder \u2014 Finger of God",
+    "name": "Yod Finder — Finger of God",
     "tagline": "Do you have a Yod in your chart?",
     "description": "Check if your natal chart contains the rare Yod configuration.",
     "keywords": [
@@ -1753,11 +1753,11 @@
     "category": "astrology",
     "faqs": [
       {
-        "q": "Is the Yod Finder \u2014 Finger of God free?",
+        "q": "Is the Yod Finder — Finger of God free?",
         "a": "Yes, completely free. No signup required. Works entirely in your browser."
       },
       {
-        "q": "How accurate is the Yod Finder \u2014 Finger of God?",
+        "q": "How accurate is the Yod Finder — Finger of God?",
         "a": "This tool uses traditional astrology methods and formulas for its calculations."
       }
     ],
@@ -1828,5 +1828,24 @@
     "priority": 0.51,
     "monthlySearches": 5400,
     "evergreen": true
+  },
+  {
+    "id": "test",
+    "slug": "test",
+    "name": "test",
+    "tagline": "test",
+    "description": "test",
+    "seoTitle": "",
+    "metaDescription": "",
+    "imageUrl": "",
+    "canonicalUrl": "",
+    "keywords": [],
+    "relatedTools": [],
+    "externalLinks": [],
+    "faqs": [],
+    "priority": 0.7,
+    "monthlySearches": 0,
+    "evergreen": true,
+    "category": "Astrology"
   }
 ]

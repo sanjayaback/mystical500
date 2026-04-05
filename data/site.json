@@ -1,0 +1,142 @@
+{
+  "siteName": "MysticTools",
+  "logoText": "✨ MysticTools",
+  "baseUrl": "https://mystictools.com",
+  "defaultSocialImage": "",
+  "footerBottomText": "Free forever · No data collected",
+  "metaKeywords": [
+    "astrology",
+    "numerology",
+    "tarot",
+    "love compatibility",
+    "mystical tools",
+    "free online tools"
+  ],
+  "metaAuthor": "MysticTools",
+  "metaRobots": "index, follow",
+  "ogSiteName": "MysticTools",
+  "ogType": "website",
+  "ogDescription": "Free online mystical tools: astrology charts, numerology readings, love compatibility, tarot cards, and more. No signup required.",
+  "ogImage": "",
+  "twitterCard": "summary_large_image",
+  "twitterSite": "@mystictools",
+  "twitterCreator": "@mystictools",
+  "googleAnalytics": "",
+  "gtmId": "",
+  "customTracking": "",
+  "toolBadges": [
+    "⚡ Instant results",
+    "🆓 100% Free",
+    "🔒 No signup needed",
+    "📱 Works on all devices"
+  ],
+  "homepage": {
+    "title": "MysticTools — 498 Free Astrology, Numerology & Spiritual Tools",
+    "description": "Free online mystical tools: astrology charts, numerology readings, love compatibility, tarot cards, lucky numbers and more. 498 tools. No signup required.",
+    "heroTitle": "✨ MysticToolses",
+    "heroDescription": "498 free mystical tools for astrology, numerology, love, tarot, lucky numbers and more. No signup. Instant results.",
+    "footerTagline": "Free mystical tools. 498 tools. No signup. No data collected."
+  },
+  "categoryPage": {
+    "footerTagline": "Free mystical tools. 498 tools. No signup needed."
+  },
+  "toolPage": {
+    "footerTagline": "Free mystical tools for astrology, numerology, love, tarot and more. 498 tools. No signup. No ads tracking."
+  },
+  "navigation": [
+    {
+      "label": "🔢 Numerology",
+      "href": "/numerology/"
+    },
+    {
+      "label": "💕 Love",
+      "href": "/love/"
+    },
+    {
+      "label": "🍀 Lucky",
+      "href": "/lucky/"
+    },
+    {
+      "label": "🎂 Birthday",
+      "href": "/birthday/"
+    },
+    {
+      "label": "🃏 Tarot",
+      "href": "/tarot/"
+    }
+  ],
+  "footerColumns": [
+    {
+      "heading": "Categories",
+      "links": [
+        {
+          "label": "⭐ Astrology",
+          "href": "/astrology/"
+        },
+        {
+          "label": "🔢 Numerology",
+          "href": "/numerology/"
+        },
+        {
+          "label": "💕 Love",
+          "href": "/love/"
+        },
+        {
+          "label": "🍀 Lucky",
+          "href": "/lucky/"
+        },
+        {
+          "label": "🎂 Birthday",
+          "href": "/birthday/"
+        },
+        {
+          "label": "🃏 Tarot",
+          "href": "/tarot/"
+        }
+      ]
+    },
+    {
+      "heading": "More",
+      "links": [
+        {
+          "label": "🌙 Dream",
+          "href": "/dream/"
+        },
+        {
+          "label": "🐉 Chinese",
+          "href": "/chinese/"
+        },
+        {
+          "label": "🧘 Wellness",
+          "href": "/wellness/"
+        },
+        {
+          "label": "✍️ Text Tools",
+          "href": "/text/"
+        },
+        {
+          "label": "About",
+          "href": "/about/"
+        },
+        {
+          "label": "Privacy",
+          "href": "/privacy/"
+        }
+      ]
+    }
+  ],
+  "staticPages": {
+    "about": {
+      "title": "About MysticTools sssss",
+      "metaDescription": "Learn about MysticTools and how we build free browser-based tools for astrology, numerology, tarot, wellness, and more.",
+      "heading": "About MysticTools",
+      "contentHtml": "<p>MysticTools is a collection of free browser-based calculators, readings and generators across astrology, numerology, tarot, wellness and text tools.</p><p>Everything is designed to be simple to use, fast to load and accessible without signup.</p>"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "metaDescription": "Read the MysticTools privacy policy and learn how this site handles data.",
+      "heading": "Privacy Policy",
+      "contentHtml": "<p>MysticTools is designed to run primarily in your browser. We do not require account creation to use the tools.</p><p>If you add analytics, ads or third-party integrations later, update this page so the published privacy policy matches the site behavior.</p>"
+    }
+  }
+}

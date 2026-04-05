@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MysticTools Admin</title>
+<link rel="stylesheet" href="/admin/styles.css">
+</head>
+<body>
+  <div class="admin-shell">
+    <aside class="sidebar">
+      <div class="brand">MysticTools Admin</div>
+      <div class="nav-section">
+        <div class="nav-section-title">📊 Site Management</div>
+        <button class="nav-btn active" data-section="dashboard">Dashboard</button>
+        <button class="nav-btn" data-section="global">Global Settings</button>
+        <button class="nav-btn" data-section="seo">SEO & Meta</button>
+      </div>
+      <div class="nav-section">
+        <div class="nav-section-title">📦 Content</div>
+        <button class="nav-btn" data-section="categories">Categories</button>
+        <button class="nav-btn" data-section="tools">Tools</button>
+        <button class="nav-btn" data-section="pages">Static Pages</button>
+      </div>
+      <div class="nav-section">
+        <div class="nav-section-title">🚀 Build & Deploy</div>
+        <button class="nav-btn" data-section="build">Build & Preview</button>
+        <button class="nav-btn" data-section="analytics">Analytics</button>
+      </div>
+      <button class="nav-btn logout-btn" id="logoutBtn">🚪 Logout</button>
+      <a class="preview-link" href="/" target="_blank" rel="noreferrer">🌐 Open Site Preview</a>
+    </aside>
+
+    <main class="content">
+      <header class="page-header">
+        <div>
+          <h1 id="pageTitle">Dashboard</h1>
+          <p id="pageDescription">Site overview and quick actions</p>
+        </div>
+        <div id="flash" class="flash" hidden></div>
+      </header>
+
+      <!-- Dashboard Section -->
+      <section id="section-dashboard" class="section active">
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-icon">📊</div>
+            <div class="stat-content">
+              <div class="stat-value" id="totalTools">0</div>
+              <div class="stat-label">Total Tools</div>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">📁</div>
+            <div class="stat-content">
+              <div class="stat-value" id="totalCategories">0</div>
+              <div class="stat-label">Categories</div>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">🌐</div>
+            <div class="stat-content">
+              <div class="stat-value" id="siteStatus">Live</div>
+              <div class="stat-label">Site Status</div>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">📅</div>
+            <div class="stat-content">
+              <div class="stat-value" id="lastBuild">Never</div>
+              <div class="stat-label">Last Build</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Quick Actions</h2>
+          <div class="quick-actions">
+            <button class="action-btn" onclick="quickSaveSettings()">
+              <span class="action-icon">💾</span>
+              <div class="action-content">
+                <div class="action-title">Save Settings</div>
+                <div class="action-desc">Save and rebuild site</div>
+              </div>
+            </button>
+            <button class="action-btn" onclick="quickAddTool()">
+              <span class="action-icon">➕</span>
+              <div class="action-content">
+                <div class="action-title">Add Tool</div>
+                <div class="action-desc">Create new tool</div>
+              </div>
+            </button>
+            <button class="action-btn" onclick="quickPreview()">
+              <span class="action-icon">👁️</span>
+              <div class="action-content">
+                <div class="action-title">Preview Site</div>
+                <div class="action-desc">Open in new tab</div>
+              </div>
+            </button>
+            <button class="action-btn" onclick="quickBuild()">
+              <span class="action-icon">🔄</span>
+              <div class="action-content">
+                <div class="action-title">Build Site</div>
+                <div class="action-desc">Rebuild all pages</div>
+              </div>
+            </button>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Recent Activity</h2>
+          <div id="recentActivity" class="activity-list">
+            <div class="activity-item">
+              <div class="activity-icon">📝</div>
+              <div class="activity-content">
+                <div class="activity-title">Welcome to MysticTools Admin</div>
+                <div class="activity-time">Just now</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SEO & Meta Section -->
+      <section id="section-seo" class="section">
+        <div class="card">
+          <h2>SEO Configuration</h2>
+          <div class="grid two-col">
+            <label>Meta keywords (comma-separated)<textarea id="metaKeywords" rows="3" placeholder="astrology, numerology, tarot, love compatibility"></textarea></label>
+            <label>Meta author<input id="metaAuthor" type="text" placeholder="MysticTools"></label>
+            <label class="full">Meta robots<input id="metaRobots" type="text" placeholder="index, follow"></label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Open Graph Settings</h2>
+          <div class="grid two-col">
+            <label>OG site name<input id="ogSiteName" type="text"></label>
+            <label>OG type<input id="ogType" type="text" value="website"></label>
+            <label class="full">OG description<textarea id="ogDescription" rows="3"></textarea></label>
+            <label class="full">OG image URL<input id="ogImage" type="text"></label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Twitter Card Settings</h2>
+          <div class="grid two-col">
+            <label>Twitter card type<select id="twitterCard">
+              <option value="summary_large_image">Summary Large Image</option>
+              <option value="summary">Summary</option>
+            </select></label>
+            <label>Twitter site<input id="twitterSite" type="text" placeholder="@mystictools"></label>
+            <label>Twitter creator<input id="twitterCreator" type="text" placeholder="@mystictools"></label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Analytics & Tracking</h2>
+          <div class="grid two-col">
+            <label class="full">Google Analytics ID<input id="googleAnalytics" type="text" placeholder="G-XXXXXXXXXX"></label>
+            <label class="full">Google Tag Manager ID<input id="gtmId" type="text" placeholder="GTM-XXXXXXX"></label>
+            <label class="full">Custom tracking scripts<textarea id="customTracking" rows="5" placeholder="Add any custom tracking scripts here..."></textarea></label>
+          </div>
+        </div>
+
+        <div class="actions">
+          <button id="saveSeoBtn" class="primary">💾 Save SEO Settings</button>
+        </div>
+      </section>
+
+      <!-- Static Pages Section -->
+      <section id="section-pages" class="section">
+        <div class="card">
+          <h2>About Page</h2>
+          <div class="grid two-col">
+            <label>Page title<input id="aboutTitle" type="text"></label>
+            <label>Meta description<input id="aboutMetaDescription" type="text"></label>
+            <label>Page heading<input id="aboutHeading" type="text"></label>
+          </div>
+          <label class="full">Page content<textarea id="aboutContentHtml" rows="10"></textarea></label>
+        </div>
+
+        <div class="card">
+          <h2>Privacy Policy Page</h2>
+          <div class="grid two-col">
+            <label>Page title<input id="privacyTitle" type="text"></label>
+            <label>Meta description<input id="privacyMetaDescription" type="text"></label>
+            <label>Page heading<input id="privacyHeading" type="text"></label>
+          </div>
+          <label class="full">Page content<textarea id="privacyContentHtml" rows="10"></textarea></label>
+        </div>
+
+        <div class="actions">
+          <button id="savePagesBtn" class="primary">💾 Save Pages</button>
+        </div>
+      </section>
+
+      <!-- Analytics Section -->
+      <section id="section-analytics" class="section">
+        <div class="card">
+          <h2>Site Analytics</h2>
+          <div class="analytics-grid">
+            <div class="analytics-item">
+              <div class="analytics-label">Total Page Views</div>
+              <div class="analytics-value" id="totalViews">-</div>
+            </div>
+            <div class="analytics-item">
+              <div class="analytics-label">Unique Visitors</div>
+              <div class="analytics-value" id="uniqueVisitors">-</div>
+            </div>
+            <div class="analytics-item">
+              <div class="analytics-label">Avg. Session Duration</div>
+              <div class="analytics-value" id="avgSession">-</div>
+            </div>
+            <div class="analytics-item">
+              <div class="analytics-label">Bounce Rate</div>
+              <div class="analytics-value" id="bounceRate">-</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Popular Tools</h2>
+          <div id="popularTools" class="popular-tools-list">
+            <div class="tool-item">
+              <div class="tool-name">Loading...</div>
+              <div class="tool-views">-</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Recent Activity Log</h2>
+          <div id="activityLog" class="activity-log">
+            <div class="log-item">
+              <div class="log-time">-</div>
+              <div class="log-message">No activity data available</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="section-global" class="section">
+        <div class="card">
+          <h2>Global Site Settings</h2>
+          <div class="grid two-col">
+            <label>Site name<input id="siteName" type="text"></label>
+            <label>Logo text<input id="logoText" type="text"></label>
+            <label>Base URL<input id="baseUrl" type="text"></label>
+            <label>Default social image URL<input id="defaultSocialImage" type="text"></label>
+            <label class="full">Footer bottom text<input id="footerBottomText" type="text"></label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Homepage</h2>
+          <div class="grid two-col">
+            <label>Home title<input id="homeTitle" type="text"></label>
+            <label>Home description<input id="homeDescription" type="text"></label>
+            <label>Hero title<input id="homeHeroTitle" type="text"></label>
+            <label>Hero description<input id="homeHeroDescription" type="text"></label>
+            <label class="full">Homepage footer tagline<input id="homeFooterTagline" type="text"></label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Shared Tool Display</h2>
+          <div class="grid two-col">
+            <label>Tool page footer tagline<input id="toolFooterTagline" type="text"></label>
+            <label>Category page footer tagline<input id="categoryFooterTagline" type="text"></label>
+            <label class="full">Tool badges JSON<textarea id="toolBadges" rows="6"></textarea></label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Navigation & Footer Links</h2>
+          <div class="grid two-col">
+            <label>Navigation JSON<textarea id="navigationJson" rows="10"></textarea></label>
+            <label>Footer columns JSON<textarea id="footerColumnsJson" rows="10"></textarea></label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>About Page</h2>
+          <div class="grid two-col">
+            <label>About title<input id="aboutTitle" type="text"></label>
+            <label>About meta description<input id="aboutMetaDescription" type="text"></label>
+            <label class="full">About heading<input id="aboutHeading" type="text"></label>
+            <label class="full">About HTML<textarea id="aboutContentHtml" rows="10"></textarea></label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Privacy Page</h2>
+          <div class="grid two-col">
+            <label>Privacy title<input id="privacyTitle" type="text"></label>
+            <label>Privacy meta description<input id="privacyMetaDescription" type="text"></label>
+            <label class="full">Privacy heading<input id="privacyHeading" type="text"></label>
+            <label class="full">Privacy HTML<textarea id="privacyContentHtml" rows="10"></textarea></label>
+          </div>
+        </div>
+
+        <div class="actions">
+          <button id="saveSiteBtn" class="primary">Save Global Settings</button>
+        </div>
+      </section>
+
+      <section id="section-categories" class="section">
+        <div class="card">
+          <h2>Categories</h2>
+          <p class="muted">These values drive category pages, navigation labels, and tool grouping.</p>
+          <div class="table-wrap">
+            <table class="data-table" id="categoriesTable">
+              <thead>
+                <tr>
+                  <th>ID</th>
+                  <th>Name</th>
+                  <th>Slug</th>
+                  <th>Icon</th>
+                  <th>Color</th>
+                  <th>Description</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <div class="actions">
+            <button id="saveCategoriesBtn" class="primary">Save Categories</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="section-tools" class="section">
+        <div class="card">
+          <div class="toolbar">
+            <div class="toolbar-group">
+              <label>Category
+                <select id="toolCategorySelect"></select>
+              </label>
+              <label>Tool
+                <select id="toolSelect"></select>
+              </label>
+            </div>
+            <div class="toolbar-group">
+              <button id="newToolBtn">New Tool</button>
+              <button id="previewToolBtn">Preview</button>
+              <button id="deleteToolBtn" class="danger">Delete</button>
+              <button id="reorderToolsBtn" class="secondary">🔄 Reorder Tools</button>
+            </div>
+          </div>
+          
+          <div id="reorderToolsSection" class="reorder-section" style="display: none;">
+            <h3>Drag and drop tools to reorder them</h3>
+            <div id="reorderableToolsList" class="reorderable-list"></div>
+            <div class="actions">
+              <button id="saveReorderBtn" class="primary">Save Order</button>
+              <button id="cancelReorderBtn" class="secondary">Cancel</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Tool Editor</h2>
+          <div class="grid two-col">
+            <label>ID<input id="toolId" type="text"></label>
+            <label>Slug<input id="toolSlug" type="text"></label>
+            <label>Name<input id="toolName" type="text"></label>
+            <label>Tagline<input id="toolTagline" type="text"></label>
+            <label class="full">Description<textarea id="toolDescription" rows="4"></textarea></label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>SEO, Images & Links</h2>
+          <div class="grid two-col">
+            <label>SEO title override<input id="toolSeoTitle" type="text"></label>
+            <label>Meta description override<input id="toolMetaDescription" type="text"></label>
+            <label>Image URL<input id="toolImageUrl" type="text"></label>
+            <label>Canonical URL override<input id="toolCanonicalUrl" type="text"></label>
+            <label class="full">Keywords (comma separated)<textarea id="toolKeywords" rows="4"></textarea></label>
+            <label class="full">Related tool IDs (comma separated)<textarea id="toolRelatedTools" rows="4"></textarea></label>
+            <label class="full">Useful links JSON<textarea id="toolExternalLinks" rows="8"></textarea></label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Publishing Controls</h2>
+          <div class="grid two-col">
+            <label>Priority<input id="toolPriority" type="number" min="0" max="1" step="0.01"></label>
+            <label>Monthly searches<input id="toolMonthlySearches" type="number" min="0" step="1"></label>
+            <label class="checkbox-row"><input id="toolEvergreen" type="checkbox"> Evergreen</label>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>FAQs</h2>
+          <label>FAQs JSON<textarea id="toolFaqs" rows="10"></textarea></label>
+        </div>
+
+        <div class="actions">
+          <button id="saveToolBtn" class="primary">Save Tool</button>
+        </div>
+      </section>
+
+      <section id="section-build" class="section">
+        <div class="card">
+          <h2>Build the Site</h2>
+          <p class="muted">Changes are saved directly into the source data. Rebuild to refresh the generated HTML pages.</p>
+          <div class="actions">
+            <button id="buildBtn" class="primary">🔄 Rebuild Site</button>
+            <button id="quickBuildBtn" class="secondary">⚡ Quick Build</button>
+          </div>
+          <label>Build output<textarea id="buildOutput" rows="18" readonly></textarea></label>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="/admin/app.js"></script>
+</body>
+</html>

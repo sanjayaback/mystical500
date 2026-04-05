@@ -1,229 +1,426 @@
 #!/usr/bin/env node
 /**
  * MysticTools Build Script
- * Generates all 498 tool pages, category indexes, sitemap, robots.txt
+ * Generates tool pages, category indexes, homepage, static pages, sitemap, robots.txt
  */
 const fs = require('fs');
 const path = require('path');
+const { readSiteConfig } = require('./lib/site-config');
 
-const BASE_URL = 'https://mystictools.com'; // ← CHANGE TO YOUR DOMAIN
 const ROOT = path.join(__dirname, '..');
 const DATA = path.join(ROOT, 'data');
-const OUT  = ROOT; // output to project root for GitHub Pages
+const OUT = ROOT;
 
-// ── READ CATEGORIES ──────────────────────────────
+const site = readSiteConfig(ROOT);
+const BASE_URL = site.baseUrl;
+
 const { categories } = JSON.parse(fs.readFileSync(path.join(DATA, 'categories.json'), 'utf8'));
-const TOOL_TEMPLATE  = fs.readFileSync(path.join(ROOT, 'templates', 'tool.html'), 'utf8');
+const TOOL_TEMPLATE = fs.readFileSync(path.join(ROOT, 'templates', 'tool.html'), 'utf8');
 
-// ── HELPERS ──────────────────────────────────────
-function ensureDir(p) { fs.mkdirSync(p, { recursive: true }); }
+function ensureDir(target) {
+  fs.mkdirSync(target, { recursive: true });
+}
 
-function loadTools(catId) {
-  const file = path.join(DATA, 'tools', `${catId}.json`);
+function loadTools(categoryId) {
+  const file = path.join(DATA, 'tools', `${categoryId}.json`);
   if (!fs.existsSync(file)) return [];
   return JSON.parse(fs.readFileSync(file, 'utf8'));
 }
 
-function escHtml(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function escHtml(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function joinUrl(base, relativePath) {
+  return `${base.replace(/\/$/, '')}/${String(relativePath).replace(/^\//, '')}`;
+}
+
+function renderNavLinks(links) {
+  return (links || [])
+    .map((link) => `<a href="${escHtml(link.href)}">${escHtml(link.label)}</a>`)
+    .join('');
+}
+
+function renderFooterColumns(columns) {
+  return (columns || [])
+    .map((column) => {
+      const links = (column.links || [])
+        .map((link) => `<a href="${escHtml(link.href)}">${escHtml(link.label)}</a>`)
+        .join('');
+      return `<div class="footer-col"><h4>${escHtml(column.heading)}</h4>${links}</div>`;
+    })
+    .join('');
+}
+
+function renderToolBadges(badges) {
+  return (badges || [])
+    .map((badge) => `<span class="hero-badge">${escHtml(badge)}</span>`)
+    .join('');
+}
 
 function faqsHtml(faqs) {
-  return faqs.map(f => `
+  return faqs
+    .map(
+      (faq) => `
   <div class="faq-item">
-    <button class="faq-question" aria-expanded="false">${escHtml(f.q)}</button>
-    <div class="faq-answer" hidden><p>${escHtml(f.a)}</p></div>
-  </div>`).join('');
+    <button class="faq-question" aria-expanded="false">${escHtml(faq.q)}</button>
+    <div class="faq-answer" hidden><p>${escHtml(faq.a)}</p></div>
+  </div>`
+    )
+    .join('');
 }
 
 function faqsSchema(faqs) {
-  return JSON.stringify(faqs.map(f => ({
-    '@type': 'Question',
-    'name': f.q,
-    'acceptedAnswer': { '@type': 'Answer', 'text': f.a }
-  })));
+  return JSON.stringify(
+    faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.q,
+      acceptedAnswer: { '@type': 'Answer', text: faq.a },
+    }))
+  );
 }
 
 function relatedHtml(relatedIds, allToolMap) {
-  return relatedIds.slice(0, 6).map(id => {
-    const t = allToolMap[id];
-    if (!t) return '';
-    return `<li><a href="/${t.category}/${t.slug}/">${t.name}</a></li>`;
-  }).join('');
+  return (relatedIds || [])
+    .slice(0, 6)
+    .map((id) => {
+      const tool = allToolMap[id];
+      if (!tool) return '';
+      return `<li><a href="/${tool.category}/${tool.slug}/">${escHtml(tool.name)}</a></li>`;
+    })
+    .join('');
 }
 
-function catToolsHtml(tools, currentSlug, catSlug) {
-  return tools.slice(0, 8).filter(t => t.slug !== currentSlug).slice(0, 6).map(t =>
-    `<li><a href="/${catSlug}/${t.slug}/">${t.name}</a></li>`
-  ).join('');
+function categoryToolsHtml(tools, currentSlug, categorySlug) {
+  return tools
+    .slice(0, 8)
+    .filter((tool) => tool.slug !== currentSlug)
+    .slice(0, 6)
+    .map((tool) => `<li><a href="/${categorySlug}/${tool.slug}/">${escHtml(tool.name)}</a></li>`)
+    .join('');
 }
 
-function howToUse(tool, catName) {
+function usefulLinksSection(tool) {
+  if (!Array.isArray(tool.externalLinks) || !tool.externalLinks.length) return '';
+  const links = tool.externalLinks
+    .filter((link) => link && link.label && link.href)
+    .map((link) => `<li><a href="${escHtml(link.href)}">${escHtml(link.label)}</a></li>`)
+    .join('');
+
+  if (!links) return '';
+
+  return `<div class="content-section"><h2>Useful Links</h2><ul>${links}</ul></div>`;
+}
+
+function heroMediaHtml(tool) {
+  if (!tool.imageUrl) return '';
+  return `<div class="hero-media"><img src="${escHtml(tool.imageUrl)}" alt="${escHtml(tool.name)}" loading="lazy"></div>`;
+}
+
+function imageMetaHtml(imageUrl, title, description) {
+  if (!imageUrl) return '';
+  return `<meta property="og:image" content="${escHtml(imageUrl)}">
+<meta property="og:image:alt" content="${escHtml(title)}">
+<meta name="twitter:image" content="${escHtml(imageUrl)}">
+<meta name="twitter:image:alt" content="${escHtml(description)}">`;
+}
+
+function howToUse(tool, categoryName) {
   return `<ol>
-    <li>Enter your details in the ${tool.name} tool above.</li>
+    <li>Enter your details in the ${escHtml(tool.name)} tool above.</li>
     <li>Click the calculate or submit button to get your instant result.</li>
-    <li>Read your personalized ${catName.toLowerCase()} reading carefully.</li>
+    <li>Read your personalized ${escHtml(categoryName.toLowerCase())} reading carefully.</li>
     <li>Use the results for guidance, reflection and self-discovery.</li>
   </ol>
-  <p>The ${tool.name} is completely free and works entirely in your browser — no data is ever sent to a server.</p>`;
+  <p>The ${escHtml(tool.name)} is completely free and works entirely in your browser. No data is ever sent to a server.</p>`;
 }
 
-function aboutContent(tool, cat) {
-  return `<p>The <strong>${tool.name}</strong> is a free online tool that ${tool.description}. It is part of our collection of ${cat.name.toLowerCase()} designed to help you gain deeper insight into yourself and the world around you.</p>
-  <p>${tool.tagline}. This tool uses traditional ${cat.name.toLowerCase().replace(' tools','')} methods and calculations to provide accurate, meaningful readings.</p>
-  <p>Whether you are new to ${cat.id} or an experienced practitioner, this tool offers valuable guidance for reflection, decision-making and personal growth.</p>
+function aboutContent(tool, category) {
+  return `<p>The <strong>${escHtml(tool.name)}</strong> is a free online tool that ${escHtml(tool.description)} It is part of our collection of ${escHtml(category.name.toLowerCase())} designed to help you gain deeper insight into yourself and the world around you.</p>
+  <p>${escHtml(tool.tagline)}. This tool uses traditional ${escHtml(category.name.toLowerCase().replace(' tools', ''))} methods and calculations to provide accurate, meaningful readings.</p>
+  <p>Whether you are new to ${escHtml(category.id)} or an experienced practitioner, this tool offers valuable guidance for reflection, decision-making and personal growth.</p>
   <p>All calculations happen instantly in your browser. We never store your personal data or require account creation.</p>`;
 }
 
-function useCases(tool, catName) {
+function useCases(tool, categoryName) {
   const cases = [
-    `Personal daily guidance and reflection`,
-    `Understanding yourself and your natural tendencies`,
-    `Exploring ${catName.toLowerCase()} traditions and their meaning`,
-    `Sharing insights with friends and family`,
-    `Decision-making support and clarity`,
-    `Self-discovery and spiritual growth`,
+    'Personal daily guidance and reflection',
+    'Understanding yourself and your natural tendencies',
+    `Exploring ${categoryName.toLowerCase()} traditions and their meaning`,
+    'Sharing insights with friends and family',
+    'Decision-making support and clarity',
+    'Self-discovery and spiritual growth',
   ];
-  return `<ul>${cases.map(c => `<li>${c}</li>`).join('')}</ul>
-  <p>The ${tool.name} is used by thousands of people around the world each day for personal insight, entertainment and spiritual exploration.</p>`;
+
+  return `<ul>${cases.map((item) => `<li>${escHtml(item)}</li>`).join('')}</ul>
+  <p>The ${escHtml(tool.name)} is used by thousands of people around the world each day for personal insight, entertainment and spiritual exploration.</p>`;
 }
 
-// ── BUILD ALL TOOLS ───────────────────────────────
+function buildHeaderHtml() {
+  return `<header class="site-header"><div class="header-inner"><a href="/" class="logo">${escHtml(site.logoText)}</a><div class="header-nav"><nav class="main-nav" id="main-nav">${renderNavLinks(site.navigation)}</nav><div class="search-container"><span class="search-icon">🔍</span><input type="text" class="search-bar" placeholder="Search tools..." autocomplete="off"><div class="search-results"></div></div></div><button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button></div></header>`;
+}
+
+function buildFooterHtml(tagline) {
+  return `<footer class="site-footer"><div class="footer-inner"><div><div class="footer-brand">${escHtml(site.logoText)}</div><p class="footer-tagline">${escHtml(tagline)}</p></div>${renderFooterColumns(site.footerColumns)}</div><div class="footer-bottom">© <span id="footer-year"></span> ${escHtml(site.siteName)} · ${escHtml(site.footerBottomText)}</div></footer><script>document.getElementById('footer-year').textContent=new Date().getFullYear();</script>`;
+}
+
+function buildStaticPageHtml(pageConfig) {
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>${escHtml(pageConfig.title)} | ${escHtml(site.siteName)}</title>
+<meta name="description" content="${escHtml(pageConfig.metaDescription)}">
+<link rel="canonical" href="${joinUrl(BASE_URL, pageConfig.slug + '/')}">
+<link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+${buildHeaderHtml()}
+<div style="max-width:900px;margin:0 auto;padding:1.5rem 1.25rem 3rem">
+  <div class="content-section">
+    <h1>${escHtml(pageConfig.heading)}</h1>
+    ${pageConfig.contentHtml || ''}
+  </div>
+</div>
+${buildFooterHtml(site.toolPage.footerTagline)}
+</body>
+</html>`;
+}
+
+const totalTools = categories.reduce((sum, category) => sum + loadTools(category.id).length, 0);
 let totalBuilt = 0;
 let sitemapUrls = [`  <url><loc>${BASE_URL}/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>`];
 const allToolMap = {};
 
-// Build global tool map first
-categories.forEach(cat => {
-  const tools = loadTools(cat.id);
-  tools.forEach(t => { allToolMap[t.id] = { ...t, category: cat.id }; });
+categories.forEach((category) => {
+  const tools = loadTools(category.id);
+  tools.forEach((tool) => {
+    allToolMap[tool.id] = { ...tool, category: category.id };
+  });
 });
 
-console.log(`\n🔨 Building MysticTools — ${Object.keys(allToolMap).length} tools\n`);
+console.log(`\n🔨 Building ${site.siteName} — ${Object.keys(allToolMap).length} unique tool ids\n`);
 
-categories.forEach(cat => {
-  const tools = loadTools(cat.id);
+categories.forEach((category) => {
+  const tools = loadTools(category.id);
   if (!tools.length) return;
 
-  const catDir = path.join(OUT, cat.slug);
-  ensureDir(catDir);
+  const categoryDir = path.join(OUT, category.slug);
+  ensureDir(categoryDir);
 
-  // ── BUILD EACH TOOL PAGE ──
-  tools.forEach(tool => {
-    const toolDir = path.join(catDir, tool.slug);
+  tools.forEach((tool) => {
+    const toolDir = path.join(categoryDir, tool.slug);
     ensureDir(toolDir);
 
-    const faqs = tool.faqs || [
-      { q: `Is the ${tool.name} free?`, a: `Yes — completely free. No signup or account needed.` },
-      { q: `How accurate is this tool?`, a: `This tool uses traditional ${cat.name.toLowerCase().replace(' tools','')} methods for its calculations.` },
-      { q: `Can I use this on my phone?`, a: `Yes, the ${tool.name} works perfectly on all devices including phones and tablets.` },
-    ];
+    const faqs =
+      tool.faqs ||
+      [
+        { q: `Is the ${tool.name} free?`, a: 'Yes. It is completely free and requires no signup.' },
+        { q: `How accurate is the ${tool.name}?`, a: `This tool uses traditional ${category.name.toLowerCase().replace(' tools', '')} methods for its calculations.` },
+      ];
 
-    const title = `${tool.name} — Free Online Tool | MysticTools`;
-    const metaDesc = tool.description.slice(0, 160);
+    const title = tool.seoTitle || `${tool.name} — Free Online Tool | ${site.siteName}`;
+    const metaDesc = (tool.metaDescription || tool.description || '').slice(0, 160);
+    const imageUrl = tool.imageUrl || site.defaultSocialImage || '';
+    const twitterCard = imageUrl ? 'summary_large_image' : 'summary';
+    const canonicalUrl = tool.canonicalUrl || joinUrl(BASE_URL, `${category.slug}/${tool.slug}/`);
 
-    let html = TOOL_TEMPLATE
+    const html = TOOL_TEMPLATE
       .replaceAll('{{BASE_URL}}', BASE_URL)
+      .replaceAll('{{TOOL_CANONICAL_URL}}', canonicalUrl)
+      .replaceAll('{{SITE_NAME}}', site.siteName)
+      .replaceAll('{{SITE_LOGO}}', site.logoText)
+      .replaceAll('{{NAV_LINKS_HTML}}', renderNavLinks(site.navigation))
+      .replaceAll('{{FOOTER_TAGLINE}}', site.toolPage.footerTagline)
+      .replaceAll('{{FOOTER_COLUMNS_HTML}}', renderFooterColumns(site.footerColumns))
+      .replaceAll('{{FOOTER_BOTTOM_TEXT}}', site.footerBottomText)
+      .replaceAll('{{TOOL_BADGES_HTML}}', renderToolBadges(site.toolBadges))
       .replaceAll('{{TOOL_SLUG}}', tool.slug)
       .replaceAll('{{TOOL_NAME}}', tool.name)
       .replaceAll('{{TOOL_TITLE}}', title)
       .replaceAll('{{TOOL_TAGLINE}}', tool.tagline)
       .replaceAll('{{TOOL_META_DESC}}', metaDesc)
       .replaceAll('{{TOOL_KEYWORDS}}', (tool.keywords || []).join(', '))
-      .replaceAll('{{CATEGORY_SLUG}}', cat.slug)
-      .replaceAll('{{CATEGORY_NAME}}', cat.name)
-      .replaceAll('{{CATEGORY_ICON}}', cat.icon)
+      .replaceAll('{{CATEGORY_SLUG}}', category.slug)
+      .replaceAll('{{CATEGORY_NAME}}', category.name)
+      .replaceAll('{{CATEGORY_ICON}}', category.icon)
       .replaceAll('{{TOOL_FAQS_HTML}}', faqsHtml(faqs))
       .replaceAll('{{TOOL_FAQS_SCHEMA}}', faqsSchema(faqs))
       .replaceAll('{{RELATED_TOOLS_HTML}}', relatedHtml(tool.relatedTools || [], allToolMap))
-      .replaceAll('{{CATEGORY_TOOLS_HTML}}', catToolsHtml(tools, tool.slug, cat.slug))
-      .replaceAll('{{HOW_TO_USE}}', howToUse(tool, cat.name))
-      .replaceAll('{{ABOUT_CONTENT}}', aboutContent(tool, cat))
-      .replaceAll('{{USE_CASES}}', useCases(tool, cat.name));
+      .replaceAll('{{CATEGORY_TOOLS_HTML}}', categoryToolsHtml(tools, tool.slug, category.slug))
+      .replaceAll('{{HOW_TO_USE}}', howToUse(tool, category.name))
+      .replaceAll('{{ABOUT_CONTENT}}', aboutContent(tool, category))
+      .replaceAll('{{USE_CASES}}', useCases(tool, category.name))
+      .replaceAll('{{TOOL_HERO_MEDIA}}', heroMediaHtml(tool))
+      .replaceAll('{{TOOL_IMAGE_META}}', imageMetaHtml(imageUrl, tool.name, metaDesc))
+      .replaceAll('{{TWITTER_CARD}}', twitterCard)
+      .replaceAll('{{TOOL_USEFUL_LINKS_SECTION}}', usefulLinksSection(tool));
 
     fs.writeFileSync(path.join(toolDir, 'index.html'), html);
-    totalBuilt++;
+    totalBuilt += 1;
 
     const priority = tool.priority || 0.7;
-    sitemapUrls.push(`  <url><loc>${BASE_URL}/${cat.slug}/${tool.slug}/</loc><priority>${priority}</priority><changefreq>monthly</changefreq></url>`);
+    sitemapUrls.push(`  <url><loc>${joinUrl(BASE_URL, `${category.slug}/${tool.slug}/`)}</loc><priority>${priority}</priority><changefreq>monthly</changefreq></url>`);
 
-    if (totalBuilt % 50 === 0) process.stdout.write(`  ✓ ${totalBuilt} pages...\n`);
+    if (totalBuilt % 50 === 0) {
+      process.stdout.write(`  ✓ ${totalBuilt} pages...\n`);
+    }
   });
 
-  // ── BUILD CATEGORY INDEX ──
-  const catHtml = `<!DOCTYPE html>
+  const categoryHtml = `<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${cat.name} — Free Online Tools | MysticTools</title>
-<meta name="description" content="${cat.description}">
-<link rel="canonical" href="${BASE_URL}/${cat.slug}/">
+<title>${escHtml(category.name)} — Free Online Tools | ${escHtml(site.siteName)}</title>
+<meta name="description" content="${escHtml(category.description)}">
+<link rel="canonical" href="${joinUrl(BASE_URL, `${category.slug}/`)}">
 <link rel="stylesheet" href="/assets/css/styles.css">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"${cat.name}","url":"${BASE_URL}/${cat.slug}/","description":"${cat.description}"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"${escHtml(category.name)}","url":"${joinUrl(BASE_URL, `${category.slug}/`)}","description":"${escHtml(category.description)}"}</script>
 </head>
 <body>
-<header class="site-header"><div class="header-inner"><a href="/" class="logo">✨ MysticTools</a><nav class="main-nav"><a href="/astrology/">⭐ Astrology</a><a href="/numerology/">🔢 Numerology</a><a href="/love/">💕 Love</a><a href="/lucky/">🍀 Lucky</a><a href="/birthday/">🎂 Birthday</a><a href="/tarot/">🃏 Tarot</a></nav><button class="menu-toggle" aria-label="Toggle menu">☰</button></div></header>
+${buildHeaderHtml()}
 <div style="max-width:1200px;margin:0 auto;padding:1.5rem 1.25rem">
-<div class="cat-hero"><div class="cat-icon">${cat.icon}</div><h1>${cat.name}</h1><p>${cat.description}</p></div>
+<div class="cat-hero"><div class="cat-icon">${escHtml(category.icon)}</div><h1>${escHtml(category.name)}</h1><p>${escHtml(category.description)}</p></div>
 <div class="tools-grid">
-${tools.map(t => `<a href="/${cat.slug}/${t.slug}/" class="tool-card"><div class="card-badge">${cat.icon} ${cat.name.replace(' Tools','')}</div><div class="card-name">${t.name}</div><div class="card-desc">${t.tagline}</div></a>`).join('\n')}
+${tools
+  .map(
+    (tool) =>
+      `<a href="/${category.slug}/${tool.slug}/" class="tool-card"><div class="card-badge">${escHtml(category.icon)} ${escHtml(category.name.replace(' Tools', ''))}</div><div class="card-name">${escHtml(tool.name)}</div><div class="card-desc">${escHtml(tool.tagline)}</div></a>`
+  )
+  .join('\n')}
 </div>
 </div>
-<footer class="site-footer"><div class="footer-inner"><div><div class="footer-brand">✨ MysticTools</div><p class="footer-tagline">Free mystical tools. 498 tools. No signup needed.</p></div><div class="footer-col"><h4>Categories</h4><a href="/astrology/">⭐ Astrology</a><a href="/numerology/">🔢 Numerology</a><a href="/love/">💕 Love</a><a href="/lucky/">🍀 Lucky</a></div><div class="footer-col"><h4>More</h4><a href="/birthday/">🎂 Birthday</a><a href="/tarot/">🃏 Tarot</a><a href="/dream/">🌙 Dream</a><a href="/chinese/">🐉 Chinese</a></div></div><div class="footer-bottom">© <span id="footer-year"></span> MysticTools</div></footer>
-<script>document.getElementById('footer-year').textContent=new Date().getFullYear();</script>
+${buildFooterHtml(site.categoryPage.footerTagline)}
 </body></html>`;
 
-  fs.writeFileSync(path.join(catDir, 'index.html'), catHtml);
-  sitemapUrls.push(`  <url><loc>${BASE_URL}/${cat.slug}/</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>`);
-  console.log(`  ✓ ${cat.name} — ${tools.length} tools`);
+  fs.writeFileSync(path.join(categoryDir, 'index.html'), categoryHtml);
+  sitemapUrls.push(`  <url><loc>${joinUrl(BASE_URL, `${category.slug}/`)}</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>`);
+  console.log(`  ✓ ${category.name} — ${tools.length} tools`);
 });
 
-// ── HOMEPAGE ──────────────────────────────────────
 const homeHtml = `<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>MysticTools — 498 Free Astrology, Numerology & Spiritual Tools</title>
-<meta name="description" content="Free online mystical tools: astrology charts, numerology readings, love compatibility, tarot cards, lucky numbers and more. 498 tools. No signup required.">
+<title>${escHtml(site.homepage.title)}</title>
+<meta name="description" content="${escHtml(site.homepage.description)}">
 <link rel="canonical" href="${BASE_URL}/">
 <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
 <body>
-<header class="site-header"><div class="header-inner"><a href="/" class="logo">✨ MysticTools</a><nav class="main-nav"><a href="/astrology/">⭐ Astrology</a><a href="/numerology/">🔢 Numerology</a><a href="/love/">💕 Love</a><a href="/lucky/">🍀 Lucky</a><a href="/birthday/">🎂 Birthday</a><a href="/tarot/">🃏 Tarot</a></nav><button class="menu-toggle" aria-label="Toggle menu">☰</button></div></header>
+${buildHeaderHtml()}
 <div class="home-hero">
-  <h1>✨ MysticTools</h1>
-  <p>498 free mystical tools for astrology, numerology, love, tarot, lucky numbers and more. No signup. Instant results.</p>
-  <div class="cat-grid">
-    ${categories.map(cat => {
-      const tools = loadTools(cat.id);
-      return `<a href="/${cat.slug}/" class="cat-card"><div class="cat-icon">${cat.icon}</div><div class="cat-name">${cat.name.replace(' Tools','')}</div><div class="cat-count">${tools.length} tools</div></a>`;
-    }).join('')}
+  <div class="hero-content">
+    <h1>${escHtml(site.homepage.heroTitle)}</h1>
+    <div class="subtitle">Discover Your Path with Ancient Wisdom</div>
+    <p>${escHtml(site.homepage.heroDescription)}</p>
+    <div class="home-stats">
+      <div class="stat-item">
+        <span class="stat-number">${totalTools}</span>
+        <span class="stat-label">Free Tools</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">${categories.length}</span>
+        <span class="stat-label">Categories</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">100%</span>
+        <span class="stat-label">Free Forever</span>
+      </div>
+    </div>
+    <div class="cat-grid">
+      ${categories
+        .map((category) => {
+          const tools = loadTools(category.id);
+          return `<a href="/${category.slug}/" class="cat-card"><div class="cat-icon">${escHtml(category.icon)}</div><div class="cat-name">${escHtml(category.name.replace(' Tools', ''))}</div><div class="cat-count">${tools.length} tools</div></a>`;
+        })
+        .join('')}
+    </div>
   </div>
 </div>
-<footer class="site-footer"><div class="footer-inner"><div><div class="footer-brand">✨ MysticTools</div><p class="footer-tagline">Free mystical tools. 498 tools. No signup. No data collected.</p></div><div class="footer-col"><h4>Categories</h4><a href="/astrology/">⭐ Astrology</a><a href="/numerology/">🔢 Numerology</a><a href="/love/">💕 Love</a><a href="/lucky/">🍀 Lucky</a></div><div class="footer-col"><h4>More</h4><a href="/birthday/">🎂 Birthday</a><a href="/tarot/">🃏 Tarot</a><a href="/dream/">🌙 Dream</a><a href="/chinese/">🐉 Chinese</a></div></div><div class="footer-bottom">© <span id="footer-year"></span> MysticTools · Free forever</div></footer>
-<script>document.getElementById('footer-year').textContent=new Date().getFullYear();</script>
+<div class="feature-section">
+  <div class="feature-container">
+    <h2 class="feature-title">Why Choose MysticTools?</h2>
+    <p class="feature-subtitle">Powerful, intuitive, and completely free mystical tools for modern spiritual exploration</p>
+    <div class="feature-grid">
+      <div class="feature-card">
+        <div class="feature-icon">⚡</div>
+        <h3>Instant Results</h3>
+        <p>Get immediate insights and calculations without waiting. All tools work instantly in your browser.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🔒</div>
+        <h3>Privacy First</h3>
+        <p>No signups, no data collection, no tracking. Your spiritual journey remains completely private.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📱</div>
+        <h3>Works Everywhere</h3>
+        <p>Access all tools on any device - desktop, tablet, or mobile. No app installation required.</p>
+      </div>
+    </div>
+  </div>
+</div>
+${buildFooterHtml(site.homepage.footerTagline)}
+<script src="/assets/js/search.js"></script>
 </body></html>`;
+
 fs.writeFileSync(path.join(OUT, 'index.html'), homeHtml);
 
-// ── SITEMAP ───────────────────────────────────────
+Object.entries(site.staticPages || {}).forEach(([slug, pageConfig]) => {
+  const pageDir = path.join(OUT, slug);
+  ensureDir(pageDir);
+  fs.writeFileSync(path.join(pageDir, 'index.html'), buildStaticPageHtml({ ...pageConfig, slug }));
+  sitemapUrls.push(`  <url><loc>${joinUrl(BASE_URL, `${slug}/`)}</loc><priority>0.4</priority><changefreq>monthly</changefreq></url>`);
+});
+
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${sitemapUrls.join('\n')}
 </urlset>`;
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'), sitemap);
 
-// ── ROBOTS.TXT ────────────────────────────────────
-fs.writeFileSync(path.join(OUT, 'robots.txt'),
-`User-agent: *\nAllow: /\nDisallow: /data/\nDisallow: /scripts/\nDisallow: /templates/\nDisallow: /src/\nSitemap: ${BASE_URL}/sitemap.xml\n`);
+fs.writeFileSync(
+  path.join(OUT, 'robots.txt'),
+  `User-agent: *\nAllow: /\nDisallow: /data/\nDisallow: /scripts/\nDisallow: /templates/\nDisallow: /src/\nSitemap: ${BASE_URL}/sitemap.xml\n`
+);
 
-// ── COPY ASSETS ───────────────────────────────────
+// Generate search data
+const searchData = [];
+categories.forEach((category) => {
+  const tools = loadTools(category.id);
+  tools.forEach((tool) => {
+    searchData.push({
+      name: tool.name,
+      slug: tool.slug,
+      category: category.slug,
+      categoryName: category.name.replace(' Tools', ''),
+      categoryIcon: category.icon,
+      tagline: tool.tagline,
+      keywords: (tool.keywords || []).join(' ')
+    });
+  });
+});
+
+fs.writeFileSync(path.join(OUT, 'search-data.json'), JSON.stringify(searchData, null, 2));
+
 const cssDir = path.join(OUT, 'assets', 'css');
-const jsDir  = path.join(OUT, 'assets', 'js');
-ensureDir(cssDir); ensureDir(jsDir);
+const jsDir = path.join(OUT, 'assets', 'js');
+ensureDir(cssDir);
+ensureDir(jsDir);
 fs.copyFileSync(path.join(ROOT, 'src', 'ui', 'styles.css'), path.join(cssDir, 'styles.css'));
 fs.copyFileSync(path.join(ROOT, 'src', 'engine', 'engine.js'), path.join(jsDir, 'engine.js'));
+fs.copyFileSync(path.join(ROOT, 'src', 'ui', 'search.js'), path.join(jsDir, 'search.js'));
 
 console.log(`\n✅ Build complete!`);
 console.log(`   📄 ${totalBuilt} tool pages generated`);
+console.log(`   🧮 ${totalTools} tool entries across ${categories.length} categories`);
 console.log(`   🗺  sitemap.xml — ${sitemapUrls.length} URLs`);
 console.log(`   🤖 robots.txt`);
 console.log(`   🏠 index.html (homepage)`);
+console.log(`   📄 static pages: ${Object.keys(site.staticPages || {}).join(', ') || 'none'}`);
 console.log(`\n👉 Serve: python3 -m http.server 8000\n`);

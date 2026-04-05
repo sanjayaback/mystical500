@@ -1,0 +1,4493 @@
+[
+  {
+    "name": "Zodiac Sign Finder",
+    "slug": "zodiac-sign-finder",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your sun sign by date of birth",
+    "keywords": "zodiac sign finder what is my zodiac sign astrology sign by birthday"
+  },
+  {
+    "name": "Birth Chart Calculator",
+    "slug": "birth-chart-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Generate your full natal astrology chart",
+    "keywords": "birth chart calculator natal chart astrology birth chart free"
+  },
+  {
+    "name": "Rising Sign Calculator",
+    "slug": "rising-sign-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your ascendant / rising sign",
+    "keywords": "rising sign calculator ascendant calculator what is my rising sign"
+  },
+  {
+    "name": "Moon Sign Calculator",
+    "slug": "moon-sign-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Discover your emotional moon sign",
+    "keywords": "moon sign calculator what is my moon sign lunar sign"
+  },
+  {
+    "name": "Zodiac Compatibility Checker",
+    "slug": "zodiac-compatibility",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Check love compatibility between two signs",
+    "keywords": "zodiac compatibility astrology compatibility love compatibility by sign"
+  },
+  {
+    "name": "Daily Horoscope Generator",
+    "slug": "daily-horoscope",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Get your personalized daily horoscope",
+    "keywords": "daily horoscope horoscope today free daily horoscope"
+  },
+  {
+    "name": "Weekly Horoscope",
+    "slug": "weekly-horoscope",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your week ahead by zodiac sign",
+    "keywords": "weekly horoscope horoscope this week astrology weekly"
+  },
+  {
+    "name": "Monthly Horoscope",
+    "slug": "monthly-horoscope",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your month ahead astrology forecast",
+    "keywords": "monthly horoscope horoscope this month monthly astrology"
+  },
+  {
+    "name": "Synastry Chart Calculator",
+    "slug": "synastry-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Compare two birth charts for compatibility",
+    "keywords": "synastry calculator synastry chart relationship astrology"
+  },
+  {
+    "name": "Planetary Hour Calculator",
+    "slug": "planetary-hour-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find the ruling planet for any hour",
+    "keywords": "planetary hour calculator planet of the hour vedic hour"
+  },
+  {
+    "name": "Mercury Retrograde Checker",
+    "slug": "mercury-retrograde-checker",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Is Mercury in retrograde right now?",
+    "keywords": "mercury retrograde is mercury in retrograde mercury retrograde dates"
+  },
+  {
+    "name": "Venus Sign Calculator",
+    "slug": "venus-sign-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your Venus sign for love style",
+    "keywords": "venus sign what is my venus sign venus in astrology"
+  },
+  {
+    "name": "Mars Sign Calculator",
+    "slug": "mars-sign-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Discover your Mars energy and drive",
+    "keywords": "mars sign calculator what is my mars sign mars placement"
+  },
+  {
+    "name": "Chinese Zodiac Finder",
+    "slug": "chinese-zodiac-finder",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your Chinese zodiac animal",
+    "keywords": "chinese zodiac what is my chinese zodiac chinese astrology sign"
+  },
+  {
+    "name": "Vedic Astrology Chart",
+    "slug": "vedic-astrology-chart",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Generate your Jyotish birth chart",
+    "keywords": "vedic astrology jyotish chart vedic birth chart calculator"
+  },
+  {
+    "name": "Nakshatra Calculator",
+    "slug": "nakshatra-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your birth star (Nakshatra)",
+    "keywords": "nakshatra calculator birth star lunar mansion astrology"
+  },
+  {
+    "name": "Chiron & Asteroid Calculator",
+    "slug": "asteroid-sign-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find Chiron and asteroid placements",
+    "keywords": "chiron sign asteroid astrology juno placement"
+  },
+  {
+    "name": "Solar Return Calculator",
+    "slug": "solar-return-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your birthday chart for the year ahead",
+    "keywords": "solar return calculator birthday chart astrology solar return chart"
+  },
+  {
+    "name": "Composite Chart Calculator",
+    "slug": "composite-chart-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "The relationship chart between two people",
+    "keywords": "composite chart relationship chart astrology couple chart"
+  },
+  {
+    "name": "Astrology Element Calculator",
+    "slug": "element-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your dominant astrological element",
+    "keywords": "astrology elements fire earth air water sign dominant element birth chart"
+  },
+  {
+    "name": "Astrology Modality Finder",
+    "slug": "modality-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Cardinal, Fixed or Mutable — find yours",
+    "keywords": "astrology modality cardinal fixed mutable chart modality calculator"
+  },
+  {
+    "name": "Part of Fortune Calculator",
+    "slug": "part-of-fortune",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your fortune point in astrology",
+    "keywords": "part of fortune arabic parts astrology lot of fortune"
+  },
+  {
+    "name": "Retrograde Planets Finder",
+    "slug": "retrograde-planets",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Were planets retrograde when you were born?",
+    "keywords": "retrograde planets natal chart born with retrograde natal retrograde"
+  },
+  {
+    "name": "Saturn Return Calculator",
+    "slug": "saturn-return-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "When is your Saturn return?",
+    "keywords": "saturn return calculator when is my saturn return saturn return dates"
+  },
+  {
+    "name": "North Node / Rahu Calculator",
+    "slug": "north-node-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your life purpose node",
+    "keywords": "north node calculator rahu sign karmic astrology"
+  },
+  {
+    "name": "Zodiac Personality Profile",
+    "slug": "astrology-personality",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Full personality profile by zodiac sign",
+    "keywords": "zodiac personality astrology personality traits horoscope personality"
+  },
+  {
+    "name": "Zodiac Career Guide",
+    "slug": "zodiac-career",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Best careers for your zodiac sign",
+    "keywords": "zodiac career best job for zodiac sign astrology career"
+  },
+  {
+    "name": "Zodiac Money Personality",
+    "slug": "zodiac-money",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your financial style by zodiac sign",
+    "keywords": "zodiac money astrology finance zodiac financial personality"
+  },
+  {
+    "name": "Moon Phase on Birthday",
+    "slug": "moon-phase-birthday",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "What was the moon phase on your birthday?",
+    "keywords": "moon phase on birthday moon phase date what was moon phase"
+  },
+  {
+    "name": "Ayanamsa Calculator",
+    "slug": "ayanamsa-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Calculate Lahiri ayanamsa for Vedic astrology",
+    "keywords": "ayanamsa calculator lahiri ayanamsa vedic astrology degrees"
+  },
+  {
+    "name": "Zodiac Birth Flower",
+    "slug": "zodiac-flower",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your flower by zodiac sign",
+    "keywords": "zodiac flower birth flower by sign astrology flower"
+  },
+  {
+    "name": "Zodiac Birthstone Finder",
+    "slug": "zodiac-stone",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your lucky gemstone by zodiac sign",
+    "keywords": "zodiac birthstone gemstone by zodiac astrology crystal"
+  },
+  {
+    "name": "Zodiac Tarot Card",
+    "slug": "zodiac-tarot-card",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your tarot card by zodiac sign",
+    "keywords": "zodiac tarot card tarot card by sign astrology tarot"
+  },
+  {
+    "name": "Decan Calculator",
+    "slug": "decan-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your zodiac decan (1st, 2nd, 3rd)",
+    "keywords": "decan astrology zodiac decan first second third decan"
+  },
+  {
+    "name": "Stellium Finder",
+    "slug": "stellium-finder",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Do you have a stellium in your chart?",
+    "keywords": "stellium astrology stellium finder stellium natal chart"
+  },
+  {
+    "name": "Void of Course Moon",
+    "slug": "void-of-course-moon",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Is the moon void of course?",
+    "keywords": "void of course moon moon void of course voc moon"
+  },
+  {
+    "name": "Antiscia Calculator",
+    "slug": "antiscia-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find mirror zodiac points",
+    "keywords": "antiscia calculator mirror degrees astrology zodiac mirror points"
+  },
+  {
+    "name": "Arabic Parts Calculator",
+    "slug": "arabic-parts",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Calculate Arabic parts / Lots",
+    "keywords": "arabic parts calculator arabic lots astrology lots of fortune spirit"
+  },
+  {
+    "name": "Zodiac Spirit Animal",
+    "slug": "zodiac-animal-spirit",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your spirit animal by zodiac sign",
+    "keywords": "zodiac spirit animal astrology spirit animal spirit animal by sign"
+  },
+  {
+    "name": "Midheaven (MC) Calculator",
+    "slug": "midheaven-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your career house cusp",
+    "keywords": "midheaven calculator mc astrology 10th house cusp"
+  },
+  {
+    "name": "Imum Coeli (IC) Calculator",
+    "slug": "ic-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your 4th house home axis",
+    "keywords": "imum coeli calculator ic astrology 4th house cusp"
+  },
+  {
+    "name": "Descendant Calculator",
+    "slug": "descendant-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your 7th house relationship axis",
+    "keywords": "descendant calculator 7th house astrology astrology partner sign"
+  },
+  {
+    "name": "Zodiac Health Guide",
+    "slug": "zodiac-health",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Health tendencies by zodiac sign",
+    "keywords": "zodiac health astrology health zodiac body parts"
+  },
+  {
+    "name": "Eclipse Calculator",
+    "slug": "eclipse-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Upcoming solar and lunar eclipses",
+    "keywords": "eclipse calculator solar eclipse dates lunar eclipse astrology"
+  },
+  {
+    "name": "Zodiac Lucky Color",
+    "slug": "zodiac-lucky-color",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your lucky color by zodiac sign",
+    "keywords": "zodiac lucky color astrology color lucky color by sign"
+  },
+  {
+    "name": "Zodiac Friendship Compatibility",
+    "slug": "zodiac-friendship",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Best friend matches by zodiac",
+    "keywords": "zodiac friendship astrology friend compatibility best friend zodiac"
+  },
+  {
+    "name": "Zodiac Enemy Finder",
+    "slug": "zodiac-enemy",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Which signs clash with yours?",
+    "keywords": "zodiac enemies worst zodiac match astrology clash"
+  },
+  {
+    "name": "Astrocartography Guide",
+    "slug": "astrocartography",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Best places to live by birth chart",
+    "keywords": "astrocartography relocation astrology astro map"
+  },
+  {
+    "name": "Cusp Sign Checker",
+    "slug": "cusp-sign-checker",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Were you born on a zodiac cusp?",
+    "keywords": "zodiac cusp cusp sign born on cusp"
+  },
+  {
+    "name": "Solar Arc Direction",
+    "slug": "solar-arc-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Progress your chart by solar arcs",
+    "keywords": "solar arc directions predictive astrology progressed chart"
+  },
+  {
+    "name": "Secondary Progressions",
+    "slug": "progressed-chart",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your evolved birth chart",
+    "keywords": "progressed chart secondary progressions progressed astrology"
+  },
+  {
+    "name": "Planetary Transits",
+    "slug": "transits-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Current planetary transits to your chart",
+    "keywords": "planetary transits astrology transits transits to natal chart"
+  },
+  {
+    "name": "Jupiter Sign Calculator",
+    "slug": "jupiter-sign",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find your Jupiter luck placement",
+    "keywords": "jupiter sign what is my jupiter sign jupiter placement astrology"
+  },
+  {
+    "name": "Saturn Sign Calculator",
+    "slug": "saturn-sign",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your Saturn lessons and karma",
+    "keywords": "saturn sign what is my saturn sign saturn placement"
+  },
+  {
+    "name": "Uranus Sign Calculator",
+    "slug": "uranus-sign",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your generational Uranus placement",
+    "keywords": "uranus sign uranus placement outer planet astrology"
+  },
+  {
+    "name": "Neptune Sign Calculator",
+    "slug": "neptune-sign",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your spiritual Neptune placement",
+    "keywords": "neptune sign neptune placement neptune in astrology"
+  },
+  {
+    "name": "Pluto Sign Calculator",
+    "slug": "pluto-sign",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Your transformational Pluto sign",
+    "keywords": "pluto sign pluto placement pluto generation"
+  },
+  {
+    "name": "Natal Aspect Calculator",
+    "slug": "aspect-calculator",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Key aspects in your birth chart",
+    "keywords": "natal aspects birth chart aspects astrology aspects calculator"
+  },
+  {
+    "name": "Yod Finder — Finger of God",
+    "slug": "yod-finder",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Do you have a Yod in your chart?",
+    "keywords": "yod astrology finger of god astrology yod natal chart"
+  },
+  {
+    "name": "Grand Trine Finder",
+    "slug": "grand-trine",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find grand trines in your birth chart",
+    "keywords": "grand trine astrology grand trine natal grand trine calculator"
+  },
+  {
+    "name": "T-Square Finder",
+    "slug": "t-square-finder",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "Find T-Square tension in your chart",
+    "keywords": "t-square astrology t-square natal chart astrology t square"
+  },
+  {
+    "name": "test",
+    "slug": "test",
+    "category": "astrology",
+    "categoryName": "Astrology ",
+    "categoryIcon": "⭐️",
+    "tagline": "test",
+    "keywords": ""
+  },
+  {
+    "name": "Life Path Number Calculator",
+    "slug": "life-path-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Calculate your most important numerology number",
+    "keywords": "life path number life path calculator numerology life path"
+  },
+  {
+    "name": "Destiny Number Calculator",
+    "slug": "destiny-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Find your Expression/Destiny number",
+    "keywords": "destiny number expression number numerology numerology name calculator"
+  },
+  {
+    "name": "Soul Urge Number Calculator",
+    "slug": "soul-urge-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Discover your heart's desire number",
+    "keywords": "soul urge number hearts desire number soul number numerology"
+  },
+  {
+    "name": "Personality Number Calculator",
+    "slug": "personality-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "How others see you numerologically",
+    "keywords": "personality number numerology inner dreams number outer personality numerology"
+  },
+  {
+    "name": "Birthday Number",
+    "slug": "birthday-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Your gift — numerology birthday number",
+    "keywords": "birthday number numerology birth day number numerology birthday"
+  },
+  {
+    "name": "Maturity Number Calculator",
+    "slug": "maturity-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Your life's ultimate goal number",
+    "keywords": "maturity number numerology ultimate goal number numerology maturity"
+  },
+  {
+    "name": "Balance Number Calculator",
+    "slug": "balance-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Your number for handling stress",
+    "keywords": "balance number numerology challenge number numerology balance"
+  },
+  {
+    "name": "Pinnacle Numbers Calculator",
+    "slug": "pinnacle-numbers",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Your four life cycles",
+    "keywords": "pinnacle numbers numerology pinnacles life cycle numbers"
+  },
+  {
+    "name": "Challenge Numbers Calculator",
+    "slug": "challenge-numbers",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Your life's key obstacles",
+    "keywords": "challenge numbers numerology numerology obstacles life challenge number"
+  },
+  {
+    "name": "Personal Year Number",
+    "slug": "personal-year-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Your energy theme for this year",
+    "keywords": "personal year number numerology year what is my personal year"
+  },
+  {
+    "name": "Personal Month Number",
+    "slug": "personal-month-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Monthly energy in numerology",
+    "keywords": "personal month number numerology month monthly numerology"
+  },
+  {
+    "name": "Personal Day Number",
+    "slug": "personal-day-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Today's numerology energy",
+    "keywords": "personal day number numerology today daily numerology"
+  },
+  {
+    "name": "Name Numerology Calculator",
+    "slug": "name-number-calculator",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "The numerological power of your name",
+    "keywords": "name numerology numerology name meaning name number calculator"
+  },
+  {
+    "name": "Lucky Name Calculator",
+    "slug": "lucky-name-calculator",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Is your name numerologically lucky?",
+    "keywords": "lucky name numerology lucky name calculator name luck checker"
+  },
+  {
+    "name": "Chaldean Numerology Calculator",
+    "slug": "chaldean-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Ancient Babylonian name analysis",
+    "keywords": "chaldean numerology babylonian numerology chaldean name number"
+  },
+  {
+    "name": "Pythagorean Numerology Calculator",
+    "slug": "pythagorean-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Western numerology name analysis",
+    "keywords": "pythagorean numerology western numerology numerology system"
+  },
+  {
+    "name": "Kabbalah Numerology Calculator",
+    "slug": "kabbalah-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Hebrew mystic number system",
+    "keywords": "kabbalah numerology hebrew numerology kabbalistic number"
+  },
+  {
+    "name": "Angel Number Decoder",
+    "slug": "angel-number-meaning",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "What does your angel number mean?",
+    "keywords": "angel numbers angel number meaning repeating numbers meaning"
+  },
+  {
+    "name": "Numerology Compatibility",
+    "slug": "numerology-compatibility",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Life path compatibility between two people",
+    "keywords": "numerology compatibility life path compatibility numerology love match"
+  },
+  {
+    "name": "Master Number Checker",
+    "slug": "master-number-checker",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Do you have 11, 22, or 33?",
+    "keywords": "master numbers 11 22 33 master number numerology am i a master number"
+  },
+  {
+    "name": "Karmic Debt Calculator",
+    "slug": "karmic-debt-calculator",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Find karmic debt numbers 13,14,16,19",
+    "keywords": "karmic debt numerology karma number karmic debt 13 14 16 19"
+  },
+  {
+    "name": "Karmic Lessons Calculator",
+    "slug": "karmic-lesson-calculator",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Missing numbers in your name",
+    "keywords": "karmic lessons numerology missing numbers name karmic lessons chart"
+  },
+  {
+    "name": "Full Numerology Chart",
+    "slug": "numerology-chart",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Complete numerology reading",
+    "keywords": "numerology chart full numerology reading complete numerology"
+  },
+  {
+    "name": "House Number Numerology",
+    "slug": "house-number-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "The energy of your home number",
+    "keywords": "house number numerology home number meaning address numerology"
+  },
+  {
+    "name": "Phone Number Numerology",
+    "slug": "phone-number-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "The numerology of your phone number",
+    "keywords": "phone number numerology numerology of phone number lucky phone number"
+  },
+  {
+    "name": "Business Name Numerology",
+    "slug": "business-name-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Is your business name lucky?",
+    "keywords": "business name numerology company name numerology lucky business name"
+  },
+  {
+    "name": "Baby Name Numerology",
+    "slug": "baby-name-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Find the perfect name for your baby",
+    "keywords": "baby name numerology lucky baby name numerology baby name"
+  },
+  {
+    "name": "Numerology Pythagorean Grid",
+    "slug": "numerology-grid",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "The Lo Shu / arrow grid",
+    "keywords": "numerology grid lo shu grid pythagorean square numerology"
+  },
+  {
+    "name": "Numerology Yearly Forecast",
+    "slug": "numerology-forecast",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "5-year numerology forecast",
+    "keywords": "numerology forecast numerology prediction future numerology"
+  },
+  {
+    "name": "Number Meaning Lookup",
+    "slug": "number-meaning",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Meaning of any number 1-9999",
+    "keywords": "number meaning numerology meaning what does number mean"
+  },
+  {
+    "name": "Life Path 1 Meaning",
+    "slug": "numerology-1",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "All about Life Path number 1",
+    "keywords": "life path 1 numerology 1 life path number 1 meaning"
+  },
+  {
+    "name": "Life Path 2 Meaning",
+    "slug": "numerology-2",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "All about Life Path number 2",
+    "keywords": "life path 2 numerology 2 life path number 2 meaning"
+  },
+  {
+    "name": "Life Path 3 Meaning",
+    "slug": "numerology-3",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "All about Life Path number 3",
+    "keywords": "life path 3 numerology 3 life path number 3"
+  },
+  {
+    "name": "Life Path 4 Meaning",
+    "slug": "numerology-4",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "All about Life Path number 4",
+    "keywords": "life path 4 numerology 4 life path 4 meaning"
+  },
+  {
+    "name": "Life Path 5 Meaning",
+    "slug": "numerology-5",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "All about Life Path number 5",
+    "keywords": "life path 5 numerology 5 life path 5 meaning"
+  },
+  {
+    "name": "Life Path 6 Meaning",
+    "slug": "numerology-6",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "All about Life Path number 6",
+    "keywords": "life path 6 numerology 6 life path 6 meaning"
+  },
+  {
+    "name": "Life Path 7 Meaning",
+    "slug": "numerology-7",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "All about Life Path number 7",
+    "keywords": "life path 7 numerology 7 life path 7 meaning"
+  },
+  {
+    "name": "Life Path 8 Meaning",
+    "slug": "numerology-8",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "All about Life Path number 8",
+    "keywords": "life path 8 numerology 8 life path 8 meaning"
+  },
+  {
+    "name": "Life Path 9 Meaning",
+    "slug": "numerology-9",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "All about Life Path number 9",
+    "keywords": "life path 9 numerology 9 life path 9 meaning"
+  },
+  {
+    "name": "Master Number 11",
+    "slug": "numerology-11",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "The Illuminated Master — number 11",
+    "keywords": "master number 11 life path 11 numerology 11 meaning"
+  },
+  {
+    "name": "Master Number 22",
+    "slug": "numerology-22",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "The Master Builder — number 22",
+    "keywords": "master number 22 life path 22 numerology 22 meaning"
+  },
+  {
+    "name": "Master Number 33",
+    "slug": "numerology-33",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "The Master Teacher — number 33",
+    "keywords": "master number 33 life path 33 numerology 33 meaning"
+  },
+  {
+    "name": "Name Change Numerology",
+    "slug": "name-change-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Should you change your name?",
+    "keywords": "name change numerology changing name numerology new name numerology"
+  },
+  {
+    "name": "Numerology Career Guide",
+    "slug": "numerology-career",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Best careers by life path number",
+    "keywords": "numerology career life path career best job by life path"
+  },
+  {
+    "name": "Numerology Love Reading",
+    "slug": "numerology-love",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Love compatibility by life path",
+    "keywords": "numerology love love compatibility numerology numerology romance"
+  },
+  {
+    "name": "Color Numerology",
+    "slug": "color-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Lucky colors by numerology number",
+    "keywords": "color numerology lucky color numerology numerology color"
+  },
+  {
+    "name": "Crystal by Life Path",
+    "slug": "crystal-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Best crystals for your life path",
+    "keywords": "numerology crystals crystal life path healing stones numerology"
+  },
+  {
+    "name": "Vowel Counter in Name",
+    "slug": "vowel-count",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Count vowels for soul urge calculation",
+    "keywords": "vowel counter name count vowels in name name vowel calculator"
+  },
+  {
+    "name": "Number Vibration Checker",
+    "slug": "number-vibration",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Vibrational energy of any number",
+    "keywords": "number vibration spiritual number meaning number energy"
+  },
+  {
+    "name": "Numerology Meditation Number",
+    "slug": "numerology-meditation",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Your personal meditation number",
+    "keywords": "numerology meditation meditation number spiritual number"
+  },
+  {
+    "name": "Street Address Numerology",
+    "slug": "street-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "The energy of your street address",
+    "keywords": "street address numerology address number meaning home address numerology"
+  },
+  {
+    "name": "City Numerology",
+    "slug": "city-numerology",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Numerological energy of cities",
+    "keywords": "city numerology city number meaning place numerology"
+  },
+  {
+    "name": "Numerology Tarot Connection",
+    "slug": "numerology-tarot",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "Tarot cards linked to your numbers",
+    "keywords": "numerology tarot tarot number life path tarot card"
+  },
+  {
+    "name": "Expression Number Deep Dive",
+    "slug": "expression-number",
+    "category": "numerology",
+    "categoryName": "Numerology",
+    "categoryIcon": "🔢",
+    "tagline": "What your expression number reveals",
+    "keywords": "expression number destiny number meaning expression numerology"
+  },
+  {
+    "name": "Love Compatibility Calculator",
+    "slug": "love-compatibility-calculator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Are you and your partner a good match?",
+    "keywords": "love compatibility calculator are we compatible relationship compatibility"
+  },
+  {
+    "name": "Crush Compatibility Checker",
+    "slug": "crush-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Is your crush compatible with you?",
+    "keywords": "crush compatibility am i compatible with my crush crush zodiac match"
+  },
+  {
+    "name": "Name Love Calculator",
+    "slug": "name-love-calculator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Love percentage by name",
+    "keywords": "love calculator names name compatibility love flames love calculator"
+  },
+  {
+    "name": "FLAMES Calculator",
+    "slug": "flames-calculator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Friends, Lovers, Affectionate, Marriage, Enemies, Siblings",
+    "keywords": "flames calculator flames game flames love test"
+  },
+  {
+    "name": "Soulmate Sign Finder",
+    "slug": "soulmate-finder",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Which zodiac sign is your soulmate?",
+    "keywords": "soulmate zodiac sign who is my soulmate astrology soulmate compatibility"
+  },
+  {
+    "name": "Twin Flame Calculator",
+    "slug": "twin-flame-calculator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Find your twin flame number",
+    "keywords": "twin flame calculator twin flame number twin flame numerology"
+  },
+  {
+    "name": "Anniversary Calculator",
+    "slug": "anniversary-calculator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "How long have you been together?",
+    "keywords": "anniversary calculator relationship length how long together calculator"
+  },
+  {
+    "name": "Wedding Date Numerology",
+    "slug": "wedding-date-calculator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Find the luckiest wedding date",
+    "keywords": "lucky wedding date best wedding date numerology auspicious wedding date"
+  },
+  {
+    "name": "Love Language Test",
+    "slug": "love-language-test",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "What is your love language?",
+    "keywords": "love language test 5 love languages what is my love language"
+  },
+  {
+    "name": "Relationship Health Checker",
+    "slug": "relationship-checker",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Is your relationship healthy?",
+    "keywords": "relationship health check is my relationship healthy relationship assessment"
+  },
+  {
+    "name": "Breakup Recovery Calculator",
+    "slug": "breakup-calculator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "How long to get over a breakup?",
+    "keywords": "breakup recovery time how long to get over breakup breakup calculator"
+  },
+  {
+    "name": "Marriage Compatibility Test",
+    "slug": "marriage-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Are you ready for marriage together?",
+    "keywords": "marriage compatibility are we ready for marriage marriage test"
+  },
+  {
+    "name": "Ex Compatibility Checker",
+    "slug": "ex-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Should you get back with your ex?",
+    "keywords": "ex compatibility should i get back with ex ex relationship compatibility"
+  },
+  {
+    "name": "Date of Birth Love Match",
+    "slug": "date-of-birth-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Love match by birthday numbers",
+    "keywords": "date of birth compatibility birthday love match dob compatibility"
+  },
+  {
+    "name": "First Letter Name Compatibility",
+    "slug": "first-letter-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Love match by first letter",
+    "keywords": "name first letter compatibility first letter love match alphabet love calculator"
+  },
+  {
+    "name": "Blood Group Love Compatibility",
+    "slug": "blood-group-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Love match by blood type",
+    "keywords": "blood type compatibility blood group love match blood type relationship"
+  },
+  {
+    "name": "Chinese Zodiac Love Match",
+    "slug": "chinese-love-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Love by Chinese zodiac animals",
+    "keywords": "chinese zodiac love chinese zodiac compatibility chinese horoscope love"
+  },
+  {
+    "name": "Venus-Mars Compatibility",
+    "slug": "venus-mars-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Love planets compatibility check",
+    "keywords": "venus mars compatibility love planets astrology venus mars synastry"
+  },
+  {
+    "name": "Relationship Numerology",
+    "slug": "relationship-numerology",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Numerology of your relationship",
+    "keywords": "relationship numerology couple numerology love numerology reading"
+  },
+  {
+    "name": "Ideal Partner Finder",
+    "slug": "ideal-partner-finder",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "What's your perfect partner type?",
+    "keywords": "ideal partner perfect partner astrology what type of partner for me"
+  },
+  {
+    "name": "Wedding Number Numerology",
+    "slug": "wedding-numerology",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "The numerology of your wedding date",
+    "keywords": "wedding date numerology marriage number wedding number"
+  },
+  {
+    "name": "Couple Name Generator",
+    "slug": "couple-name-generator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Combine two names into a couple name",
+    "keywords": "couple name generator ship name generator couple name combiner"
+  },
+  {
+    "name": "Love Tarot Reading",
+    "slug": "love-tarot",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "3-card love tarot spread",
+    "keywords": "love tarot reading tarot for love love tarot spread"
+  },
+  {
+    "name": "Attraction Calculator",
+    "slug": "attraction-calculator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "How attracted are you to each other?",
+    "keywords": "attraction calculator how attracted am i attraction compatibility"
+  },
+  {
+    "name": "Commitment Readiness Test",
+    "slug": "commitment-test",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Are you ready for commitment?",
+    "keywords": "commitment test relationship readiness am i ready for relationship"
+  },
+  {
+    "name": "Love Number Calculator",
+    "slug": "love-number",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Your personal love number",
+    "keywords": "love number numerology love number romantic number"
+  },
+  {
+    "name": "Past Life Lover Finder",
+    "slug": "past-life-lover",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Did you know each other in a past life?",
+    "keywords": "past life lover past life compatibility karmic relationship"
+  },
+  {
+    "name": "Flirting Style by Sign",
+    "slug": "flirt-style",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "How do you flirt by zodiac?",
+    "keywords": "flirting style zodiac how zodiac signs flirt flirt by zodiac sign"
+  },
+  {
+    "name": "Jealousy Level Test",
+    "slug": "jealousy-test",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "How jealous are you in relationships?",
+    "keywords": "jealousy test am i jealous relationship jealousy quiz"
+  },
+  {
+    "name": "Romantic Style Compatibility",
+    "slug": "romantic-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "How do you both express romance?",
+    "keywords": "romantic compatibility romance style how romantic am i"
+  },
+  {
+    "name": "Intimacy Compatibility",
+    "slug": "intimacy-calculator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Emotional intimacy compatibility",
+    "keywords": "intimacy compatibility emotional compatibility emotional bond calculator"
+  },
+  {
+    "name": "Trust Calculator",
+    "slug": "trust-calculator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Trust level in your relationship",
+    "keywords": "trust in relationship relationship trust test trust compatibility"
+  },
+  {
+    "name": "Long Distance Compatibility",
+    "slug": "long-distance-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Can your long distance relationship last?",
+    "keywords": "long distance relationship compatibility ldr compatibility long distance love match"
+  },
+  {
+    "name": "Age Gap Love Compatibility",
+    "slug": "age-gap-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Love across age gaps — compatible?",
+    "keywords": "age gap compatibility age gap relationship age difference love"
+  },
+  {
+    "name": "Zodiac Love Forecast",
+    "slug": "zodiac-love-forecast",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Love horoscope for this month",
+    "keywords": "love horoscope zodiac love forecast monthly love reading"
+  },
+  {
+    "name": "Relationship Timeline",
+    "slug": "relationship-timeline",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Key milestones in your relationship",
+    "keywords": "relationship timeline relationship milestones relationship numerology"
+  },
+  {
+    "name": "First Date Lucky Day",
+    "slug": "first-date-planner",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Best day for a first date",
+    "keywords": "best day for first date lucky day first date auspicious date for date"
+  },
+  {
+    "name": "Couple Life Path Match",
+    "slug": "couple-life-path",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Life path compatibility for couples",
+    "keywords": "couple life path life path 1 and 2 compatibility life path number match"
+  },
+  {
+    "name": "Mars-Venus Synastry",
+    "slug": "mars-venus-synastry",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "The raw attraction between two charts",
+    "keywords": "mars venus synastry attraction astrology venus mars aspects"
+  },
+  {
+    "name": "Moon Sign Love Compatibility",
+    "slug": "moon-compatibility",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Emotional compatibility by moon sign",
+    "keywords": "moon sign compatibility moon love match moon sign relationship"
+  },
+  {
+    "name": "Rising Sign Love Compatibility",
+    "slug": "rising-love-match",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "First impressions compatibility",
+    "keywords": "rising sign compatibility ascendant compatibility rising sign love match"
+  },
+  {
+    "name": "Love Letter Generator",
+    "slug": "love-letter-generator",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "AI-assisted romantic love letter",
+    "keywords": "love letter generator romantic letter personalized love letter"
+  },
+  {
+    "name": "Lucky Date Night Planner",
+    "slug": "date-night-planner",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Auspicious date night timing",
+    "keywords": "date night planner lucky date night romantic evening astrology"
+  },
+  {
+    "name": "Zodiac Toxic Match Finder",
+    "slug": "zodiac-toxic-match",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Potentially toxic zodiac pairings",
+    "keywords": "toxic zodiac match zodiac red flags zodiac warning signs"
+  },
+  {
+    "name": "Elemental Love Compatibility",
+    "slug": "element-love-match",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Fire, Earth, Air, Water love match",
+    "keywords": "elemental love compatibility fire and water compatibility astrology elements love"
+  },
+  {
+    "name": "North Node Love Connection",
+    "slug": "north-node-love",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Karmic love by North Node",
+    "keywords": "north node love karmic love connection north node synastry"
+  },
+  {
+    "name": "Chinese Love Elements",
+    "slug": "chinese-love-elements",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Five elements love compatibility",
+    "keywords": "chinese five elements love wuxing compatibility chinese element love"
+  },
+  {
+    "name": "Numerology Marriage Match",
+    "slug": "numerology-marriage-match",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Best marriage match by numbers",
+    "keywords": "numerology marriage marriage number compatibility numerology wedding match"
+  },
+  {
+    "name": "Astrological Age Compatibility",
+    "slug": "astrological-age",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Love across astrological generations",
+    "keywords": "astrological age gap generational compatibility outer planet compatibility"
+  },
+  {
+    "name": "Venus Sign Love Style",
+    "slug": "venus-sign-love",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "How your Venus sign loves",
+    "keywords": "venus sign love style how venus sign loves venus in love astrology"
+  },
+  {
+    "name": "Relationship Expiry Checker",
+    "slug": "relationship-end-date",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Will your relationship last?",
+    "keywords": "relationship longevity will my relationship last relationship future numerology"
+  },
+  {
+    "name": "Love Mantra Generator",
+    "slug": "love-mantra",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Your personal love affirmation",
+    "keywords": "love mantra love affirmation relationship affirmation"
+  },
+  {
+    "name": "Heart Number Calculator",
+    "slug": "heart-number",
+    "category": "love",
+    "categoryName": "Love & Compatibility",
+    "categoryIcon": "💕",
+    "tagline": "Your number for love and romance",
+    "keywords": "heart number numerology love number calculator numerology heart"
+  },
+  {
+    "name": "Lucky Day Finder",
+    "slug": "lucky-day-finder",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Find your luckiest day of the week",
+    "keywords": "lucky day luckiest day of the week lucky day calculator"
+  },
+  {
+    "name": "Lucky Number Generator",
+    "slug": "lucky-number-generator",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your personal lucky numbers",
+    "keywords": "lucky numbers lucky number calculator what are my lucky numbers"
+  },
+  {
+    "name": "Lucky Color Finder",
+    "slug": "lucky-color-finder",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your lucky colors for today",
+    "keywords": "lucky color lucky color today what is my lucky color"
+  },
+  {
+    "name": "Lucky Gemstone Finder",
+    "slug": "lucky-stone-finder",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your lucky crystal or gemstone",
+    "keywords": "lucky stone lucky gemstone crystal for luck"
+  },
+  {
+    "name": "Daily Fortune Reading",
+    "slug": "daily-fortune",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your fortune for today",
+    "keywords": "daily fortune fortune today daily luck reading"
+  },
+  {
+    "name": "Fortune Cookie Generator",
+    "slug": "fortune-cookie",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Get a random fortune cookie message",
+    "keywords": "fortune cookie random fortune fortune cookie generator"
+  },
+  {
+    "name": "Lucky Direction Finder",
+    "slug": "lucky-direction",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your lucky compass direction",
+    "keywords": "lucky direction feng shui direction kua number direction"
+  },
+  {
+    "name": "Lucky Hour Calculator",
+    "slug": "lucky-time",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your luckiest hours today",
+    "keywords": "lucky hour lucky time today auspicious hour"
+  },
+  {
+    "name": "Lucky Element Finder",
+    "slug": "lucky-element",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your fortune element",
+    "keywords": "lucky element chinese element luck wuxing element"
+  },
+  {
+    "name": "Lucky Lottery Numbers",
+    "slug": "lottery-numbers",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Generate lucky lottery numbers",
+    "keywords": "lucky lottery numbers lottery number generator lucky pick numbers"
+  },
+  {
+    "name": "Feng Shui Calculator",
+    "slug": "feng-shui-calculator",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Calculate your Kua number",
+    "keywords": "feng shui calculator kua number personal feng shui"
+  },
+  {
+    "name": "Kua Number Calculator",
+    "slug": "kua-number",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your feng shui Kua number",
+    "keywords": "kua number calculator feng shui kua personal kua"
+  },
+  {
+    "name": "Lucky Spirit Animal",
+    "slug": "lucky-animal",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your lucky spirit animal",
+    "keywords": "lucky spirit animal power animal totem animal finder"
+  },
+  {
+    "name": "Good Luck Charm Finder",
+    "slug": "good-luck-charm",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Best lucky charm for your sign",
+    "keywords": "lucky charm good luck charm lucky talisman by sign"
+  },
+  {
+    "name": "Lucky Month Finder",
+    "slug": "lucky-month",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your luckiest months of the year",
+    "keywords": "lucky month luckiest month best month for me"
+  },
+  {
+    "name": "Auspicious Date Finder",
+    "slug": "auspicious-date",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Find lucky dates for important events",
+    "keywords": "auspicious date lucky date finder good date for event"
+  },
+  {
+    "name": "Today's Lucky Numbers",
+    "slug": "daily-lucky-numbers",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Lucky numbers for today's date",
+    "keywords": "lucky numbers today todays lucky numbers daily lucky number"
+  },
+  {
+    "name": "Four Leaf Clover Reading",
+    "slug": "four-leaf-clover",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your daily luck symbol reading",
+    "keywords": "four leaf clover luck luck symbol fortune symbol reading"
+  },
+  {
+    "name": "Wish Maker",
+    "slug": "wish-maker",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Make a wish with numerology",
+    "keywords": "make a wish numerology wish number intention setting numerology"
+  },
+  {
+    "name": "Lucky Name First Letter",
+    "slug": "lucky-name-letter",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Luckiest first letters for names",
+    "keywords": "lucky name letter lucky first letter auspicious name initial"
+  },
+  {
+    "name": "Yearly Luck Forecast",
+    "slug": "year-luck",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "How lucky will this year be?",
+    "keywords": "year luck forecast lucky year annual luck reading"
+  },
+  {
+    "name": "Lucky Travel Day",
+    "slug": "travel-lucky-day",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Best days to travel by sign",
+    "keywords": "lucky travel day best day to travel auspicious travel date"
+  },
+  {
+    "name": "Lucky Business Day",
+    "slug": "business-lucky-day",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Most auspicious days to do business",
+    "keywords": "lucky business day auspicious business date best day for business"
+  },
+  {
+    "name": "Lucky House Number",
+    "slug": "lucky-house-number",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Is your house number lucky?",
+    "keywords": "lucky house number house number luck home number numerology"
+  },
+  {
+    "name": "Lucky Car Number",
+    "slug": "lucky-car-number",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Is your car's number lucky?",
+    "keywords": "lucky car number vehicle number numerology car plate luck"
+  },
+  {
+    "name": "Daily Affirmation Generator",
+    "slug": "daily-affirmation",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Personalized daily positive affirmation",
+    "keywords": "daily affirmation positive affirmation affirmation generator"
+  },
+  {
+    "name": "Lucky Planet Today",
+    "slug": "lucky-planet",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Which planet favors you today?",
+    "keywords": "lucky planet planet of the day favorable planet astrology"
+  },
+  {
+    "name": "Yes or No Oracle",
+    "slug": "yes-no-oracle",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Get a mystical yes or no answer",
+    "keywords": "yes or no oracle yes no question oracle yes no"
+  },
+  {
+    "name": "Magic 8 Ball",
+    "slug": "magic-8-ball",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Shake the magic 8 ball",
+    "keywords": "magic 8 ball 8 ball oracle magic 8 ball online"
+  },
+  {
+    "name": "Lucky Coin Flip",
+    "slug": "coin-flip",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Flip a coin for decisions",
+    "keywords": "coin flip flip a coin heads or tails"
+  },
+  {
+    "name": "Dice Roller",
+    "slug": "dice-roller",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Roll any number of dice",
+    "keywords": "dice roller roll dice online virtual dice"
+  },
+  {
+    "name": "Rune Cast",
+    "slug": "rune-cast",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Draw three runes for guidance",
+    "keywords": "rune cast rune reading online rune divination"
+  },
+  {
+    "name": "Pendulum Reading",
+    "slug": "pendulum",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Virtual pendulum for yes/no",
+    "keywords": "pendulum reading pendulum dowsing virtual pendulum"
+  },
+  {
+    "name": "Lucky Motivational Quote",
+    "slug": "lucky-quote",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Personalized lucky quote for today",
+    "keywords": "lucky quote motivational quote today lucky motivation"
+  },
+  {
+    "name": "Color of the Day",
+    "slug": "color-of-day",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your power color for today",
+    "keywords": "color of the day daily color todays color numerology"
+  },
+  {
+    "name": "Lucky Food by Sign",
+    "slug": "lucky-food",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Auspicious foods for your zodiac",
+    "keywords": "lucky food zodiac astrology food zodiac diet"
+  },
+  {
+    "name": "Bagua Map Calculator",
+    "slug": "bagua-calculator",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Feng shui bagua for your home",
+    "keywords": "bagua calculator feng shui bagua bagua map"
+  },
+  {
+    "name": "Vastu Direction Finder",
+    "slug": "vastu-direction",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Auspicious directions by Vastu Shastra",
+    "keywords": "vastu direction vastu calculator vastu shastra"
+  },
+  {
+    "name": "Lucky Plant by Sign",
+    "slug": "lucky-plant",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Best plants for luck by zodiac",
+    "keywords": "lucky plant zodiac feng shui plants lucky plant for sign"
+  },
+  {
+    "name": "Weekly Luck Forecast",
+    "slug": "weekly-luck",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your luck for the week ahead",
+    "keywords": "weekly luck luck this week weekly fortune"
+  },
+  {
+    "name": "Lucky Metal Finder",
+    "slug": "lucky-metal",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your auspicious metal or material",
+    "keywords": "lucky metal auspicious metal metal by zodiac"
+  },
+  {
+    "name": "Moon Phase Luck",
+    "slug": "moon-luck",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "How the moon affects your luck today",
+    "keywords": "moon luck moon phase luck lunar luck"
+  },
+  {
+    "name": "Lucky Season Finder",
+    "slug": "lucky-season",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Your luckiest season of the year",
+    "keywords": "lucky season best season for me lucky time of year"
+  },
+  {
+    "name": "Chinese Lucky Number",
+    "slug": "chinese-lucky-number",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Lucky numbers in Chinese culture",
+    "keywords": "chinese lucky number lucky number chinese chinese numerology numbers"
+  },
+  {
+    "name": "Numerology Lottery Prediction",
+    "slug": "numerology-lottery",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Lucky lottery picks by numerology",
+    "keywords": "numerology lottery lucky lottery numerology lottery prediction numerology"
+  },
+  {
+    "name": "Daily Tarot Card",
+    "slug": "tarot-daily-card",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Pull your card of the day",
+    "keywords": "daily tarot card card of the day tarot daily"
+  },
+  {
+    "name": "I Ching Reading",
+    "slug": "lucky-i-ching",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Ancient Chinese I Ching oracle",
+    "keywords": "i ching i ching reading book of changes oracle"
+  },
+  {
+    "name": "Best Day to Make a Wish",
+    "slug": "wish-day",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Most powerful wishing day",
+    "keywords": "best day to make a wish wishing day manifestation day"
+  },
+  {
+    "name": "Lucky Sport Day",
+    "slug": "lucky-sport",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Best day for sports and competition",
+    "keywords": "lucky sports day competition luck sports astrology"
+  },
+  {
+    "name": "Lucky Exam Day",
+    "slug": "lucky-exam-day",
+    "category": "lucky",
+    "categoryName": "Lucky Day & Fortune",
+    "categoryIcon": "🍀",
+    "tagline": "Best day to take exams",
+    "keywords": "lucky exam day best day for exam exam luck astrology"
+  },
+  {
+    "name": "Age Calculator",
+    "slug": "age-calculator",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Calculate exact age in years, months and days",
+    "keywords": "age calculator how old am i exact age calculator"
+  },
+  {
+    "name": "Birthday Countdown",
+    "slug": "birthday-countdown",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Days until your next birthday",
+    "keywords": "birthday countdown days until my birthday birthday timer"
+  },
+  {
+    "name": "Day of Week Finder",
+    "slug": "day-of-week-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "What day of the week were you born?",
+    "keywords": "what day was i born day of week calculator day of birth finder"
+  },
+  {
+    "name": "Birthday Personality",
+    "slug": "birthday-personality",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Personality by exact birth date",
+    "keywords": "birthday personality birth date personality date of birth meaning"
+  },
+  {
+    "name": "Birthday Number Meaning",
+    "slug": "birthday-number-meaning",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "The spiritual meaning of your birthday",
+    "keywords": "birthday number meaning birth date meaning birthday numerology"
+  },
+  {
+    "name": "Generation Calculator",
+    "slug": "generation-calculator",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Which generation are you?",
+    "keywords": "what generation am i generation calculator am i a millennial"
+  },
+  {
+    "name": "Biorhythm Calculator",
+    "slug": "biorhythm-calculator",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Your physical, emotional and intellectual cycles",
+    "keywords": "biorhythm calculator biorhythm chart biorhythm today"
+  },
+  {
+    "name": "Birthstone Finder",
+    "slug": "birth-stone-finder",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Your traditional and modern birthstone",
+    "keywords": "birthstone birthstone by month what is my birthstone"
+  },
+  {
+    "name": "Birth Flower Finder",
+    "slug": "birth-flower-finder",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "The flower of your birth month",
+    "keywords": "birth flower birth month flower birth flower meaning"
+  },
+  {
+    "name": "Days Since Calculator",
+    "slug": "days-since-calculator",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "How many days since any date?",
+    "keywords": "days since calculator days since date how many days ago"
+  },
+  {
+    "name": "Days Until Calculator",
+    "slug": "days-until-calculator",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Days until any future date",
+    "keywords": "days until days until date countdown to date"
+  },
+  {
+    "name": "Your Birth Year in History",
+    "slug": "birth-year-events",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "What happened in your birth year?",
+    "keywords": "birth year history what happened when i was born born in year events"
+  },
+  {
+    "name": "Famous People Birthday",
+    "slug": "famous-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Celebrities born on your birthday",
+    "keywords": "famous people birthday celebrities same birthday born on same day"
+  },
+  {
+    "name": "Birthday Gift Guide",
+    "slug": "birthday-gift-guide",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Perfect gift by zodiac sign",
+    "keywords": "birthday gift guide gift by zodiac sign birthday present ideas"
+  },
+  {
+    "name": "Half Birthday Calculator",
+    "slug": "half-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "When is your half birthday?",
+    "keywords": "half birthday half birthday calculator 6 months from birthday"
+  },
+  {
+    "name": "Chinese Birthday Calculator",
+    "slug": "chinese-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Your birthday in the Chinese calendar",
+    "keywords": "chinese birthday lunar birthday chinese age calculator"
+  },
+  {
+    "name": "Numerology Birthday Reading",
+    "slug": "numerology-birthday-reading",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Full numerology for your birthday",
+    "keywords": "numerology birthday birthday numerology reading birth date numerology"
+  },
+  {
+    "name": "Birthday Tarot Card",
+    "slug": "birthday-tarot",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Your personal tarot card by birthday",
+    "keywords": "birthday tarot tarot birth card tarot birthday card"
+  },
+  {
+    "name": "Golden Birthday Finder",
+    "slug": "golden-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "When is your golden birthday?",
+    "keywords": "golden birthday champagne birthday lucky birthday"
+  },
+  {
+    "name": "Birthday Lucky Numbers",
+    "slug": "birthday-lucky-numbers",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Lucky numbers from your birthday",
+    "keywords": "birthday lucky numbers lucky numbers from birthday birth date lucky number"
+  },
+  {
+    "name": "Century Birthday Calculator",
+    "slug": "century-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "When will you turn 100?",
+    "keywords": "100th birthday when will i be 100 centennial birthday"
+  },
+  {
+    "name": "Birthday Compatibility",
+    "slug": "birthday-compatibility",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Compatibility by birth date",
+    "keywords": "birthday compatibility date of birth match birthday match checker"
+  },
+  {
+    "name": "Birthday Week Finder",
+    "slug": "birthday-week",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "What week number is your birthday?",
+    "keywords": "birthday week number week of year birthday ISO week birthday"
+  },
+  {
+    "name": "Planet of the Day",
+    "slug": "planet-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Which planet ruled your birth day?",
+    "keywords": "planet of birth birth day planet planetary ruler birthday"
+  },
+  {
+    "name": "Birth Hour Meaning",
+    "slug": "birth-hour-meaning",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "The significance of your birth hour",
+    "keywords": "birth hour meaning born at midnight meaning time of birth astrology"
+  },
+  {
+    "name": "Birthday Motivational Quote",
+    "slug": "birthday-quote",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Inspiring quote for your birthday",
+    "keywords": "birthday quote birthday motivation special birthday message"
+  },
+  {
+    "name": "Dog Years Calculator",
+    "slug": "dog-years",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Convert your age to dog years",
+    "keywords": "dog years dog years calculator human years to dog years"
+  },
+  {
+    "name": "Cat Years Calculator",
+    "slug": "cat-years",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Convert your age to cat years",
+    "keywords": "cat years cat years calculator human to cat age"
+  },
+  {
+    "name": "Retirement Countdown",
+    "slug": "retirement-countdown",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "How many days until retirement?",
+    "keywords": "retirement countdown days until retirement retirement calculator"
+  },
+  {
+    "name": "Zodiac Age Calculator",
+    "slug": "zodiac-age",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Your age in zodiac cycles",
+    "keywords": "zodiac cycles age astrology age zodiac years lived"
+  },
+  {
+    "name": "Birthday Season Meaning",
+    "slug": "birthday-season",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Your birth season personality",
+    "keywords": "birthday season personality born in winter meaning birth season astrology"
+  },
+  {
+    "name": "Birthday Master Number",
+    "slug": "birthday-number-33",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Is your birthday a master number date?",
+    "keywords": "birthday master number birth date 11 22 33 master number birthday"
+  },
+  {
+    "name": "Lunar Age Calculator",
+    "slug": "lunar-age",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Your age by the lunar calendar",
+    "keywords": "lunar age chinese age korean age calculator"
+  },
+  {
+    "name": "Tibetan Birthday",
+    "slug": "tibetan-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Your birthday in the Tibetan calendar",
+    "keywords": "tibetan calendar birthday tibetan astrology tibetan calendar"
+  },
+  {
+    "name": "Birthday Ruling Planet",
+    "slug": "birthday-planet",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "The planet that rules your birthday",
+    "keywords": "ruling planet birthday birthday planet birth day ruling planet"
+  },
+  {
+    "name": "Age in Days Calculator",
+    "slug": "age-in-days",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "How many days old are you?",
+    "keywords": "age in days how many days old am i age days calculator"
+  },
+  {
+    "name": "Age in Seconds",
+    "slug": "age-in-seconds",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "How many seconds have you been alive?",
+    "keywords": "age in seconds how many seconds old seconds since birth"
+  },
+  {
+    "name": "Birth Month Meaning",
+    "slug": "birthday-month-meaning",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "What your birth month reveals",
+    "keywords": "birth month meaning born in january personality birth month personality"
+  },
+  {
+    "name": "Future Birthday Calculator",
+    "slug": "future-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "What day will your birthday fall on?",
+    "keywords": "future birthday birthday day of week future next birthday"
+  },
+  {
+    "name": "Birthday Wish Amplifier",
+    "slug": "birthday-wish",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Make your birthday wish count",
+    "keywords": "birthday wish make a birthday wish birthday manifestation"
+  },
+  {
+    "name": "Decade Birthday Calculator",
+    "slug": "decade-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Count your decades and milestones",
+    "keywords": "decade birthday milestone birthday 10th 20th 30th birthday"
+  },
+  {
+    "name": "Minutes Old Calculator",
+    "slug": "minutes-old",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "How many minutes old are you?",
+    "keywords": "minutes old how many minutes old age in minutes"
+  },
+  {
+    "name": "Pregnancy Due Date",
+    "slug": "pregnancy-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Calculate baby's due date",
+    "keywords": "due date calculator pregnancy calculator baby due date"
+  },
+  {
+    "name": "Chinese New Year Day Finder",
+    "slug": "chinese-new-year",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "When is Chinese New Year?",
+    "keywords": "chinese new year date lunar new year chinese new year calculator"
+  },
+  {
+    "name": "Auspicious Birthday Finder",
+    "slug": "auspicious-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Find the luckiest birthday for your baby",
+    "keywords": "auspicious birthday lucky baby birthday best birthday date"
+  },
+  {
+    "name": "Twin Flame Birthday",
+    "slug": "twin-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Do you share a birthday with someone special?",
+    "keywords": "shared birthday same birthday significance birthday twin"
+  },
+  {
+    "name": "Birthday Mantra",
+    "slug": "birthday-mantra",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Your personal birthday affirmation",
+    "keywords": "birthday mantra birthday affirmation birthday intention"
+  },
+  {
+    "name": "Birthday Angel Number",
+    "slug": "birthday-angel-number",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Angel numbers from your birthday",
+    "keywords": "birthday angel number angel number from birthday birth date angel"
+  },
+  {
+    "name": "Birth Star Finder",
+    "slug": "birth-star",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Your birth star or constellation",
+    "keywords": "birth star natal star birthday star"
+  },
+  {
+    "name": "Solstice & Equinox Birthday",
+    "slug": "solstice-birthday",
+    "category": "birthday",
+    "categoryName": "Birthday & Age",
+    "categoryIcon": "🎂",
+    "tagline": "Were you born near a solstice?",
+    "keywords": "solstice birthday equinox birthday born on solstice"
+  },
+  {
+    "name": "Tarot Card Reader",
+    "slug": "tarot-card-reader",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "3-card past, present, future spread",
+    "keywords": "tarot card reading free tarot reading tarot cards online"
+  },
+  {
+    "name": "Major Arcana Reading",
+    "slug": "major-arcana-reading",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Reading using only the 22 major cards",
+    "keywords": "major arcana reading major arcana tarot 22 tarot cards reading"
+  },
+  {
+    "name": "Celtic Cross Spread",
+    "slug": "celtic-cross-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "The classic 10-card tarot spread",
+    "keywords": "celtic cross tarot 10 card tarot spread celtic cross reading"
+  },
+  {
+    "name": "One Card Daily Reading",
+    "slug": "one-card-reading",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "A single card of guidance",
+    "keywords": "one card tarot single card reading daily one card"
+  },
+  {
+    "name": "Yes or No Tarot",
+    "slug": "yes-no-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Get a yes or no from the cards",
+    "keywords": "yes no tarot tarot yes or no one card yes no tarot"
+  },
+  {
+    "name": "Love Tarot Spread",
+    "slug": "love-spread-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "5-card love and relationship spread",
+    "keywords": "love tarot spread relationship tarot 5 card love reading"
+  },
+  {
+    "name": "Career Tarot Reading",
+    "slug": "career-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Guidance on work and career",
+    "keywords": "career tarot tarot for work job tarot reading"
+  },
+  {
+    "name": "Past Life Tarot",
+    "slug": "past-life-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Explore your past life through cards",
+    "keywords": "past life tarot karma tarot tarot past life reading"
+  },
+  {
+    "name": "Spirit Guide Tarot",
+    "slug": "spirit-guide-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Connect with your spirit guide",
+    "keywords": "spirit guide tarot tarot spirit message guide tarot reading"
+  },
+  {
+    "name": "Angel Card Reading",
+    "slug": "angel-card-reading",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Messages from the angels",
+    "keywords": "angel card reading angel oracle cards angel message"
+  },
+  {
+    "name": "Oracle Card Reading",
+    "slug": "oracle-card-reading",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "General oracle card guidance",
+    "keywords": "oracle card reading oracle cards online free oracle reading"
+  },
+  {
+    "name": "Tarot Birth Card",
+    "slug": "tarot-birth-card",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Your personal tarot card",
+    "keywords": "tarot birth card personal tarot card life path tarot"
+  },
+  {
+    "name": "3-Card Mind Body Spirit",
+    "slug": "three-card-spread",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Mind, Body, Spirit spread",
+    "keywords": "mind body spirit tarot 3 card spread tarot mind body soul"
+  },
+  {
+    "name": "Horseshoe Tarot Spread",
+    "slug": "horseshoe-spread",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "7-card horseshoe reading",
+    "keywords": "horseshoe tarot 7 card tarot spread horseshoe spread tarot"
+  },
+  {
+    "name": "New Moon Tarot Spread",
+    "slug": "new-moon-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Set intentions with the new moon",
+    "keywords": "new moon tarot moon ritual tarot new moon spread"
+  },
+  {
+    "name": "Full Moon Tarot Spread",
+    "slug": "full-moon-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Release and reveal with the full moon",
+    "keywords": "full moon tarot full moon reading full moon spread"
+  },
+  {
+    "name": "Weekly Tarot Forecast",
+    "slug": "weekly-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Your week ahead in tarot",
+    "keywords": "weekly tarot tarot week ahead 7 day tarot"
+  },
+  {
+    "name": "Chakra Tarot Reading",
+    "slug": "chakra-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "7 cards for 7 chakras",
+    "keywords": "chakra tarot tarot chakra reading 7 chakra tarot spread"
+  },
+  {
+    "name": "Shadow Work Tarot",
+    "slug": "shadow-work-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Explore your shadow self",
+    "keywords": "shadow work tarot shadow self tarot inner healing tarot"
+  },
+  {
+    "name": "Yearly Tarot Reading",
+    "slug": "yearly-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "A card for every month of the year",
+    "keywords": "yearly tarot year ahead tarot 12 month tarot"
+  },
+  {
+    "name": "Zodiac Wheel Tarot",
+    "slug": "zodiac-tarot-spread",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "12-card zodiac house reading",
+    "keywords": "zodiac tarot spread 12 house tarot astrology tarot wheel"
+  },
+  {
+    "name": "Rune Reading",
+    "slug": "rune-reading",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Draw runes for ancient wisdom",
+    "keywords": "rune reading elder futhark runes rune divination online"
+  },
+  {
+    "name": "Pendulum Reading",
+    "slug": "pendulum-reading",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Virtual pendulum divination",
+    "keywords": "pendulum reading online virtual pendulum pendulum oracle"
+  },
+  {
+    "name": "Cartomancy Reading",
+    "slug": "cartomancy",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Playing card fortune telling",
+    "keywords": "cartomancy playing card reading fortune telling cards"
+  },
+  {
+    "name": "Lenormand Card Reading",
+    "slug": "lenormand-reading",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Traditional German oracle cards",
+    "keywords": "lenormand reading lenormand cards lenormand oracle"
+  },
+  {
+    "name": "I Ching Reading",
+    "slug": "i-ching-reading",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Ancient Chinese hexagram divination",
+    "keywords": "i ching reading i ching online hexagram reading"
+  },
+  {
+    "name": "Tarot Numerology",
+    "slug": "tarot-numerology",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Tarot cards and their numbers",
+    "keywords": "tarot numerology number tarot tarot numbers meaning"
+  },
+  {
+    "name": "Reversed Card Meanings",
+    "slug": "reversed-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "What reversed tarot cards mean",
+    "keywords": "reversed tarot upside down tarot tarot card reversed meaning"
+  },
+  {
+    "name": "Tarot Suit Meaning",
+    "slug": "tarot-suits",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Cups, Wands, Swords, Pentacles",
+    "keywords": "tarot suits cups wands swords pentacles minor arcana suits"
+  },
+  {
+    "name": "Fire Signs Tarot Spread",
+    "slug": "fire-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Aries, Leo, Sagittarius spread",
+    "keywords": "fire sign tarot aries leo sagittarius tarot fire element tarot"
+  },
+  {
+    "name": "Water Signs Tarot Spread",
+    "slug": "water-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Cancer, Scorpio, Pisces spread",
+    "keywords": "water sign tarot cancer scorpio pisces tarot water element tarot"
+  },
+  {
+    "name": "Earth Signs Tarot Spread",
+    "slug": "earth-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Taurus, Virgo, Capricorn spread",
+    "keywords": "earth sign tarot taurus virgo capricorn tarot earth element tarot"
+  },
+  {
+    "name": "Air Signs Tarot Spread",
+    "slug": "air-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Gemini, Libra, Aquarius spread",
+    "keywords": "air sign tarot gemini libra aquarius tarot air element tarot"
+  },
+  {
+    "name": "Tarot Meditation Guide",
+    "slug": "tarot-meditation",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Use tarot for daily meditation",
+    "keywords": "tarot meditation tarot mindfulness daily tarot practice"
+  },
+  {
+    "name": "Dream Oracle Card",
+    "slug": "dream-card",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Cards for dream interpretation",
+    "keywords": "dream oracle card dream tarot tarot dream meaning"
+  },
+  {
+    "name": "Money & Abundance Tarot",
+    "slug": "money-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Financial guidance from the cards",
+    "keywords": "money tarot abundance tarot tarot finance reading"
+  },
+  {
+    "name": "Health Tarot Reading",
+    "slug": "health-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Wellness guidance from the cards",
+    "keywords": "health tarot healing tarot tarot wellness reading"
+  },
+  {
+    "name": "Decision Making Tarot",
+    "slug": "decision-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Help making a difficult decision",
+    "keywords": "decision tarot tarot help decide choice tarot reading"
+  },
+  {
+    "name": "Solar Plexus Tarot",
+    "slug": "solar-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Power and confidence reading",
+    "keywords": "solar plexus tarot confidence tarot power tarot spread"
+  },
+  {
+    "name": "Ancestors Tarot Spread",
+    "slug": "ancestors-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Messages from your lineage",
+    "keywords": "ancestors tarot family lineage tarot ancestral reading"
+  },
+  {
+    "name": "Manifestation Tarot",
+    "slug": "manifest-tarot",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Tarot for law of attraction",
+    "keywords": "manifestation tarot law of attraction tarot manifest tarot spread"
+  },
+  {
+    "name": "Birthday Tarot Spread",
+    "slug": "birthday-tarot-spread",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Year ahead reading for your birthday",
+    "keywords": "birthday tarot spread birthday reading tarot tarot birthday spread"
+  },
+  {
+    "name": "Fire Sign Oracle",
+    "slug": "fire-sign-oracle",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Oracle reading for Aries, Leo, Sagittarius",
+    "keywords": "fire sign oracle aries leo sagittarius oracle fire oracle reading"
+  },
+  {
+    "name": "Water Sign Oracle",
+    "slug": "water-sign-oracle",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Oracle reading for Cancer, Scorpio, Pisces",
+    "keywords": "water sign oracle cancer scorpio pisces oracle water oracle"
+  },
+  {
+    "name": "Moon Oracle",
+    "slug": "moon-oracle",
+    "category": "tarot",
+    "categoryName": "Tarot & Oracle",
+    "categoryIcon": "🃏",
+    "tagline": "Oracle reading aligned with moon cycles",
+    "keywords": "moon oracle lunar oracle moon card reading"
+  },
+  {
+    "name": "Dream Dictionary",
+    "slug": "dream-dictionary",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Look up the meaning of any dream symbol",
+    "keywords": "dream dictionary dream meaning what does dream mean"
+  },
+  {
+    "name": "Dream Interpreter",
+    "slug": "dream-interpreter",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Interpret your full dream",
+    "keywords": "dream interpreter interpret my dream dream analysis"
+  },
+  {
+    "name": "Aura Color Reader",
+    "slug": "aura-reader",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Discover your aura color",
+    "keywords": "aura color reader what is my aura aura color meaning"
+  },
+  {
+    "name": "Chakra Balance Checker",
+    "slug": "chakra-calculator",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Check your chakra balance",
+    "keywords": "chakra calculator chakra balance am i chakra balanced"
+  },
+  {
+    "name": "Moon Phase Tracker",
+    "slug": "moon-phase-tracker",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Current moon phase and calendar",
+    "keywords": "moon phase tracker current moon phase moon calendar"
+  },
+  {
+    "name": "Meditation Timer",
+    "slug": "meditation-timer",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Timed meditation with gentle chimes",
+    "keywords": "meditation timer online meditation timer mindfulness timer"
+  },
+  {
+    "name": "Breathing Exercise Timer",
+    "slug": "breathing-exercise",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Guided breathing exercises",
+    "keywords": "breathing exercise box breathing 4-7-8 breathing timer"
+  },
+  {
+    "name": "Spirit Animal Finder",
+    "slug": "spirit-animal-finder",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Discover your spirit animal",
+    "keywords": "spirit animal what is my spirit animal totem animal quiz"
+  },
+  {
+    "name": "Combined Aura & Chakra Reading",
+    "slug": "aura-chakra-reading",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Your aura color and chakra state",
+    "keywords": "aura chakra reading energy body reading chakra aura"
+  },
+  {
+    "name": "Past Life Reading",
+    "slug": "past-life-calculator",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Explore your past life connections",
+    "keywords": "past life reading past life calculator what was i in past life"
+  },
+  {
+    "name": "Lucid Dream Guide",
+    "slug": "lucid-dream-guide",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Learn to have lucid dreams",
+    "keywords": "lucid dreaming how to lucid dream lucid dream guide"
+  },
+  {
+    "name": "Sleep Calculator",
+    "slug": "sleep-calculator",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Find your optimal sleep time",
+    "keywords": "sleep calculator best time to wake up sleep cycle calculator"
+  },
+  {
+    "name": "Dream Number Meaning",
+    "slug": "numerology-dream",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Numerological meaning of numbers in dreams",
+    "keywords": "dream numbers meaning number in dream numerology dream number"
+  },
+  {
+    "name": "Akashic Records Guide",
+    "slug": "akashic-records",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Access your soul's cosmic records",
+    "keywords": "akashic records soul records akashic reading"
+  },
+  {
+    "name": "Third Eye Test",
+    "slug": "third-eye-test",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Is your third eye open?",
+    "keywords": "third eye test is my third eye open 6th chakra test"
+  },
+  {
+    "name": "Daily Angel Number",
+    "slug": "angel-number-daily",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Your angel number for today",
+    "keywords": "daily angel number angel number today todays angel number"
+  },
+  {
+    "name": "Synchronicity Journal",
+    "slug": "synchronicity-tracker",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Track meaningful coincidences",
+    "keywords": "synchronicity meaningful coincidences synchronicity tracker"
+  },
+  {
+    "name": "Crystal Healing Guide",
+    "slug": "crystal-guide",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Properties of healing crystals",
+    "keywords": "crystal healing guide crystal properties healing crystals meaning"
+  },
+  {
+    "name": "Tarot Affirmation",
+    "slug": "tarot-affirmation",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Daily tarot-based affirmation",
+    "keywords": "tarot affirmation tarot daily practice affirmation tarot"
+  },
+  {
+    "name": "Numerology Affirmation",
+    "slug": "numerology-affirmation",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Affirmation based on your life path",
+    "keywords": "numerology affirmation life path affirmation number affirmation"
+  },
+  {
+    "name": "Gratitude Practice",
+    "slug": "gratitude-practice",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Daily gratitude prompts",
+    "keywords": "gratitude practice gratitude prompts daily gratitude"
+  },
+  {
+    "name": "Manifestation Calculator",
+    "slug": "manifestation-calculator",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Best time to manifest your desires",
+    "keywords": "manifestation calculator manifest timing best time to manifest"
+  },
+  {
+    "name": "Dream Journal Prompt",
+    "slug": "dream-journal-prompt",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Prompts for recording your dreams",
+    "keywords": "dream journal prompts dream journaling how to journal dreams"
+  },
+  {
+    "name": "Shadow Work Prompt",
+    "slug": "shadow-work-prompt",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Daily shadow work question",
+    "keywords": "shadow work prompt shadow work questions daily shadow work"
+  },
+  {
+    "name": "Sacred Geometry Guide",
+    "slug": "sacred-geometry",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Symbols of universal truth",
+    "keywords": "sacred geometry sacred geometry meaning geometric symbols spiritual"
+  },
+  {
+    "name": "Sigil Creator",
+    "slug": "sigil-creator",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Create your intention sigil",
+    "keywords": "sigil creator make a sigil intention sigil"
+  },
+  {
+    "name": "Karma Calculator",
+    "slug": "karma-calculator",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Your karmic score by actions",
+    "keywords": "karma calculator karma score karmic balance"
+  },
+  {
+    "name": "Energy Level Checker",
+    "slug": "energy-check",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Your vibrational energy today",
+    "keywords": "energy check vibrational energy raise your vibration"
+  },
+  {
+    "name": "Healing Frequency Guide",
+    "slug": "frequency-calculator",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Solfeggio frequencies for healing",
+    "keywords": "solfeggio frequencies healing frequencies 396 hz 528 hz"
+  },
+  {
+    "name": "Angel Message Generator",
+    "slug": "angel-message",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Receive a message from the angels",
+    "keywords": "angel message message from angels angel guidance"
+  },
+  {
+    "name": "Intuition Strength Test",
+    "slug": "intuition-quiz",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "How strong is your intuition?",
+    "keywords": "intuition test how intuitive am i intuition quiz"
+  },
+  {
+    "name": "Empath Test",
+    "slug": "empath-test",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Are you an empath?",
+    "keywords": "empath test am i an empath empath quiz"
+  },
+  {
+    "name": "Psychic Ability Finder",
+    "slug": "psychic-abilities",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Discover your psychic gifts",
+    "keywords": "psychic abilities what psychic ability do i have psychic gifts test"
+  },
+  {
+    "name": "Moon Ritual Guide",
+    "slug": "moon-ritual",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "New and full moon rituals",
+    "keywords": "moon ritual full moon ritual new moon ritual"
+  },
+  {
+    "name": "Energy Number",
+    "slug": "energy-number",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Your vibrational number",
+    "keywords": "energy number vibrational number personal energy numerology"
+  },
+  {
+    "name": "Cosmic Personality Quiz",
+    "slug": "cosmic-quiz",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Are you more earth or cosmos?",
+    "keywords": "cosmic personality spiritual personality quiz earth or cosmos"
+  },
+  {
+    "name": "Lightworker Quiz",
+    "slug": "light-worker",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Are you a Lightworker?",
+    "keywords": "lightworker quiz am i a lightworker lightworker test"
+  },
+  {
+    "name": "Starseed Identifier",
+    "slug": "star-seed",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Are you a Starseed?",
+    "keywords": "starseed test am i a starseed starseed quiz"
+  },
+  {
+    "name": "Indigo Child Test",
+    "slug": "indigo-child",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Are you an Indigo, Crystal or Rainbow child?",
+    "keywords": "indigo child test crystal child rainbow child quiz"
+  },
+  {
+    "name": "Guided Visualization",
+    "slug": "guided-visualization",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Daily manifestation visualization",
+    "keywords": "guided visualization manifestation visualization creative visualization"
+  },
+  {
+    "name": "Totem Pole Reading",
+    "slug": "totem-pole",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Three spirit animals: above, within, below",
+    "keywords": "totem pole reading three totem animals spirit animal reading"
+  },
+  {
+    "name": "Numerology Healing Number",
+    "slug": "numerology-healing",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Your healing frequency number",
+    "keywords": "healing number numerology numerology health number healing vibration number"
+  },
+  {
+    "name": "Earth Angel Quiz",
+    "slug": "earth-angel",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Are you an Earth Angel?",
+    "keywords": "earth angel quiz am i an earth angel earth angel test"
+  },
+  {
+    "name": "Self-Love Oracle Reading",
+    "slug": "oracle-self-love",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "A reading for self-love and healing",
+    "keywords": "self love oracle self love reading healing oracle cards"
+  },
+  {
+    "name": "Dream Archetype Finder",
+    "slug": "dream-archetype",
+    "category": "dream",
+    "categoryName": "Dream & Spiritual",
+    "categoryIcon": "🌙",
+    "tagline": "Your Jungian dream archetype",
+    "keywords": "dream archetype jungian archetype archetypal dream"
+  },
+  {
+    "name": "Chinese Zodiac Animal",
+    "slug": "chinese-zodiac-finder",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Find your Chinese zodiac sign",
+    "keywords": "chinese zodiac chinese zodiac calculator what is my chinese zodiac sign"
+  },
+  {
+    "name": "Chinese Zodiac Compatibility",
+    "slug": "chinese-zodiac-compatibility",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Love and friendship by Chinese zodiac",
+    "keywords": "chinese zodiac compatibility chinese astrology match chinese horoscope compatibility"
+  },
+  {
+    "name": "Chinese Element Calculator",
+    "slug": "chinese-element",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Your Chinese element: Wood, Fire, Earth, Metal, Water",
+    "keywords": "chinese element five elements chinese wuxing element calculator"
+  },
+  {
+    "name": "Ba Zi (Four Pillars)",
+    "slug": "ba-zi-calculator",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Your Chinese astrological destiny pillars",
+    "keywords": "ba zi calculator four pillars of destiny bazi chart"
+  },
+  {
+    "name": "Chinese Horoscope 2025",
+    "slug": "chinese-horoscope-2025",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Year of the Snake forecast",
+    "keywords": "chinese horoscope 2025 year of the snake 2025 snake year forecast"
+  },
+  {
+    "name": "Chinese New Year 2025",
+    "slug": "chinese-new-year-2025",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "When is Chinese New Year 2025?",
+    "keywords": "chinese new year 2025 lunar new year 2025 year of the snake date"
+  },
+  {
+    "name": "Feng Shui Colors 2025",
+    "slug": "feng-shui-colors-2025",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Lucky colors for 2025",
+    "keywords": "feng shui colors 2025 lucky colors 2025 year of snake colors"
+  },
+  {
+    "name": "Chinese Lunar Calendar",
+    "slug": "chinese-calendar",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Convert dates to Chinese calendar",
+    "keywords": "chinese calendar converter lunar calendar chinese date converter"
+  },
+  {
+    "name": "Kua Number 2025",
+    "slug": "kua-number-2025",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Your personal feng shui number for 2025",
+    "keywords": "kua number 2025 feng shui kua 2025 personal feng shui 2025"
+  },
+  {
+    "name": "Chinese Daily Horoscope",
+    "slug": "chinese-daily-horoscope",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Daily reading by Chinese zodiac",
+    "keywords": "chinese daily horoscope chinese zodiac horoscope today daily chinese astrology"
+  },
+  {
+    "name": "Rat Chinese Zodiac",
+    "slug": "chinese-animal-rat",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Rat sign",
+    "keywords": "rat chinese zodiac year of the rat rat zodiac personality"
+  },
+  {
+    "name": "Ox Chinese Zodiac",
+    "slug": "chinese-animal-ox",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Ox sign",
+    "keywords": "ox chinese zodiac year of the ox ox zodiac traits"
+  },
+  {
+    "name": "Tiger Chinese Zodiac",
+    "slug": "chinese-animal-tiger",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Tiger sign",
+    "keywords": "tiger chinese zodiac year of the tiger tiger zodiac"
+  },
+  {
+    "name": "Rabbit Chinese Zodiac",
+    "slug": "chinese-animal-rabbit",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Rabbit sign",
+    "keywords": "rabbit chinese zodiac year of the rabbit rabbit zodiac"
+  },
+  {
+    "name": "Dragon Chinese Zodiac",
+    "slug": "chinese-animal-dragon",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Dragon sign",
+    "keywords": "dragon chinese zodiac year of the dragon dragon zodiac personality"
+  },
+  {
+    "name": "Snake Chinese Zodiac",
+    "slug": "chinese-animal-snake",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Snake sign",
+    "keywords": "snake chinese zodiac year of the snake snake zodiac"
+  },
+  {
+    "name": "Horse Chinese Zodiac",
+    "slug": "chinese-animal-horse",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Horse sign",
+    "keywords": "horse chinese zodiac year of the horse horse zodiac traits"
+  },
+  {
+    "name": "Goat Chinese Zodiac",
+    "slug": "chinese-animal-goat",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Goat/Sheep sign",
+    "keywords": "goat chinese zodiac sheep zodiac year of the goat"
+  },
+  {
+    "name": "Monkey Chinese Zodiac",
+    "slug": "chinese-animal-monkey",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Monkey sign",
+    "keywords": "monkey chinese zodiac year of the monkey monkey zodiac"
+  },
+  {
+    "name": "Rooster Chinese Zodiac",
+    "slug": "chinese-animal-rooster",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Rooster sign",
+    "keywords": "rooster chinese zodiac year of the rooster rooster zodiac"
+  },
+  {
+    "name": "Dog Chinese Zodiac",
+    "slug": "chinese-animal-dog",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Dog sign",
+    "keywords": "dog chinese zodiac year of the dog dog zodiac traits"
+  },
+  {
+    "name": "Pig Chinese Zodiac",
+    "slug": "chinese-animal-pig",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Complete guide to the Pig sign",
+    "keywords": "pig chinese zodiac year of the pig boar zodiac"
+  },
+  {
+    "name": "Chinese Lucky Numbers 2025",
+    "slug": "chinese-lucky-numbers-2025",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Lucky numbers for 2025",
+    "keywords": "lucky numbers 2025 chinese chinese lucky number 2025 snake year lucky numbers"
+  },
+  {
+    "name": "Detailed Chinese Compatibility",
+    "slug": "chinese-compatibility-detailed",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "In-depth Chinese zodiac match",
+    "keywords": "chinese zodiac match detailed chinese compatibility all chinese zodiac pairs"
+  },
+  {
+    "name": "Five Elements Personality",
+    "slug": "five-elements-quiz",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Which Chinese element are you?",
+    "keywords": "five elements personality chinese element quiz wood fire earth metal water personality"
+  },
+  {
+    "name": "Chinese Numerology",
+    "slug": "chinese-numerology",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Numbers in Chinese culture",
+    "keywords": "chinese numerology lucky unlucky numbers chinese chinese number meaning"
+  },
+  {
+    "name": "Feng Shui House Analysis",
+    "slug": "feng-shui-house",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Basic feng shui for your home",
+    "keywords": "feng shui house feng shui home home feng shui guide"
+  },
+  {
+    "name": "TCM Body Type",
+    "slug": "chinese-medicine-type",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Traditional Chinese Medicine body type",
+    "keywords": "tcm body type traditional chinese medicine type chinese medicine constitution"
+  },
+  {
+    "name": "Chinese Wedding Date",
+    "slug": "chinese-wedding",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Auspicious wedding dates Chinese calendar",
+    "keywords": "chinese wedding date auspicious wedding chinese lucky wedding date chinese"
+  },
+  {
+    "name": "Tai Sui Check",
+    "slug": "tai-sui",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Are you offending Tai Sui this year?",
+    "keywords": "tai sui 2025 offending tai sui grand duke jupiter"
+  },
+  {
+    "name": "Chinese Birth Chart",
+    "slug": "chinese-birth-chart",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Full Ba Zi four pillars chart",
+    "keywords": "chinese birth chart bazi four pillars chinese astrology chart"
+  },
+  {
+    "name": "Tong Shu Almanac",
+    "slug": "tong-shu",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Chinese almanac day selection",
+    "keywords": "tong shu chinese almanac auspicious day chinese"
+  },
+  {
+    "name": "Feng Shui Compass",
+    "slug": "luo-pan",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Basic feng shui compass (Lo Pan) reading",
+    "keywords": "luo pan lo pan compass feng shui compass direction"
+  },
+  {
+    "name": "Chinese Zodiac Career",
+    "slug": "chinese-career",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Best careers by Chinese sign",
+    "keywords": "chinese zodiac career chinese astrology career best job chinese zodiac"
+  },
+  {
+    "name": "Chinese Zodiac Health",
+    "slug": "chinese-health",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Health guide by Chinese sign",
+    "keywords": "chinese zodiac health chinese astrology health zodiac health tips"
+  },
+  {
+    "name": "Chinese Monthly Forecast",
+    "slug": "chinese-forecast-month",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Monthly Chinese zodiac forecast",
+    "keywords": "chinese monthly horoscope chinese zodiac forecast monthly chinese reading"
+  },
+  {
+    "name": "Trigram Gua Calculator",
+    "slug": "gua-calculation",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "I Ching trigram for your birth",
+    "keywords": "gua calculator i ching trigram personal gua"
+  },
+  {
+    "name": "Five Elements Compatibility",
+    "slug": "chinese-element-compatibility",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Compatibility by Chinese elements",
+    "keywords": "chinese elements compatibility five elements love wuxing compatibility love"
+  },
+  {
+    "name": "Chinese Zodiac 2026",
+    "slug": "chinese-zodiac-2026",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Chinese astrology preview for 2026",
+    "keywords": "chinese zodiac 2026 chinese horoscope 2026 year 2026 chinese astrology"
+  },
+  {
+    "name": "Qi Gong Personal Number",
+    "slug": "qi-gong-number",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "Your Qi Gong practice number",
+    "keywords": "qi gong number tai chi numerology qigong personal practice"
+  },
+  {
+    "name": "Chinese Poetry Fortune",
+    "slug": "chinese-poetry-fortune",
+    "category": "chinese",
+    "categoryName": "Chinese Astrology",
+    "categoryIcon": "🐉",
+    "tagline": "A fortune in classical Chinese poetry",
+    "keywords": "chinese poetry fortune classical chinese poem fortune fortune in poetry"
+  },
+  {
+    "name": "Stress Level Checker",
+    "slug": "stress-checker",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Measure your current stress level",
+    "keywords": "stress checker stress level test am i stressed"
+  },
+  {
+    "name": "Happiness Score",
+    "slug": "happiness-score",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Measure your happiness quotient",
+    "keywords": "happiness test happiness score how happy am i"
+  },
+  {
+    "name": "Burnout Test",
+    "slug": "burnout-test",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Are you experiencing burnout?",
+    "keywords": "burnout test am i burnt out burnout quiz"
+  },
+  {
+    "name": "Anxiety Level Checker",
+    "slug": "anxiety-checker",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Check your anxiety level",
+    "keywords": "anxiety checker anxiety level test am i anxious"
+  },
+  {
+    "name": "Introvert or Extrovert Test",
+    "slug": "introvert-extrovert",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Are you an introvert or extrovert?",
+    "keywords": "introvert extrovert test am i introverted personality introvert quiz"
+  },
+  {
+    "name": "Personality Type Quiz",
+    "slug": "personality-type",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Find your personality archetype",
+    "keywords": "personality type quiz personality archetype what personality type am i"
+  },
+  {
+    "name": "IQ Estimate Quiz",
+    "slug": "iq-estimate",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Estimate your IQ range",
+    "keywords": "iq estimate iq quiz estimate my iq"
+  },
+  {
+    "name": "Brain Age Test",
+    "slug": "brain-age",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Test your cognitive brain age",
+    "keywords": "brain age test mental age test cognitive test"
+  },
+  {
+    "name": "Memory Test",
+    "slug": "memory-test",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Test your short-term memory",
+    "keywords": "memory test short term memory memory quiz"
+  },
+  {
+    "name": "Emotional Intelligence Test",
+    "slug": "emotional-intelligence",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Measure your EQ",
+    "keywords": "emotional intelligence test eq test emotional intelligence quiz"
+  },
+  {
+    "name": "BMI Calculator",
+    "slug": "bmi-calculator",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Body Mass Index calculator",
+    "keywords": "bmi calculator body mass index bmi chart"
+  },
+  {
+    "name": "Calorie Calculator",
+    "slug": "calorie-calculator",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Daily calorie needs calculator",
+    "keywords": "calorie calculator daily calories tdee calculator"
+  },
+  {
+    "name": "Ideal Weight Calculator",
+    "slug": "ideal-weight",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Find your ideal healthy weight",
+    "keywords": "ideal weight calculator healthy weight target weight calculator"
+  },
+  {
+    "name": "Water Intake Calculator",
+    "slug": "water-intake",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "How much water should you drink?",
+    "keywords": "water intake calculator how much water to drink daily water intake"
+  },
+  {
+    "name": "Sleep Need Calculator",
+    "slug": "sleep-need",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "How much sleep do you need?",
+    "keywords": "sleep need how much sleep do i need sleep hours calculator"
+  },
+  {
+    "name": "Heart Rate Zone Calculator",
+    "slug": "heart-rate-zone",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Find your exercise heart rate zones",
+    "keywords": "heart rate zone target heart rate exercise heart rate"
+  },
+  {
+    "name": "Numerology Health Number",
+    "slug": "numerology-health-number",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Your health number in numerology",
+    "keywords": "numerology health health number numerology life path health"
+  },
+  {
+    "name": "Moon Diet Planner",
+    "slug": "moon-diet",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Fasting by moon phases",
+    "keywords": "moon diet lunar diet moon fasting"
+  },
+  {
+    "name": "Zodiac Diet Guide",
+    "slug": "zodiac-diet",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Best diet for your zodiac sign",
+    "keywords": "zodiac diet astrology diet best foods for zodiac"
+  },
+  {
+    "name": "Color Therapy Test",
+    "slug": "color-therapy",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Healing colors for your energy",
+    "keywords": "color therapy chromotherapy healing colors"
+  },
+  {
+    "name": "Sound Healing Frequency",
+    "slug": "sound-healing",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Healing sounds for your sign",
+    "keywords": "sound healing healing frequency music therapy zodiac"
+  },
+  {
+    "name": "Nature Therapy Guide",
+    "slug": "nature-therapy",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Healing in nature by zodiac",
+    "keywords": "nature therapy ecotherapy zodiac outdoor healing"
+  },
+  {
+    "name": "Mind-Body Type",
+    "slug": "mind-body-type",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Ayurvedic dosha finder",
+    "keywords": "dosha quiz ayurvedic body type am i vata pitta kapha"
+  },
+  {
+    "name": "Vata Dosha Quiz",
+    "slug": "vata-quiz",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Are you a Vata type?",
+    "keywords": "vata dosha vata quiz vata type ayurveda"
+  },
+  {
+    "name": "Pitta Dosha Quiz",
+    "slug": "pitta-quiz",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Are you a Pitta type?",
+    "keywords": "pitta dosha pitta quiz pitta type ayurveda"
+  },
+  {
+    "name": "Kapha Dosha Quiz",
+    "slug": "kapha-quiz",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Are you a Kapha type?",
+    "keywords": "kapha dosha kapha quiz kapha type ayurveda"
+  },
+  {
+    "name": "Affirmation Generator",
+    "slug": "affirmation-generator",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Custom daily affirmations",
+    "keywords": "affirmation generator custom affirmations positive affirmations generator"
+  },
+  {
+    "name": "Daily Journal Prompt",
+    "slug": "journal-prompt",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Thoughtful daily journaling prompts",
+    "keywords": "journal prompt journaling ideas daily journal questions"
+  },
+  {
+    "name": "Goal Numerology",
+    "slug": "goal-number",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Numerology for achieving your goals",
+    "keywords": "goal numerology numerology for success manifesting by numbers"
+  },
+  {
+    "name": "Toxic Habit Checker",
+    "slug": "toxic-habits",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Identify your self-sabotaging habits",
+    "keywords": "toxic habits self sabotage quiz bad habits check"
+  },
+  {
+    "name": "Resilience Score",
+    "slug": "resilience-test",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Measure your emotional resilience",
+    "keywords": "resilience test resilience score how resilient am i"
+  },
+  {
+    "name": "Moon Sign Wellness",
+    "slug": "moon-sign-wellness",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Health tips by moon sign",
+    "keywords": "moon sign wellness moon sign health lunar wellness"
+  },
+  {
+    "name": "Number Meditation",
+    "slug": "number-meditation",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Guided meditation by your life path",
+    "keywords": "number meditation life path meditation numerology meditation practice"
+  },
+  {
+    "name": "Digital Detox Score",
+    "slug": "digital-detox",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "How much do you need a detox?",
+    "keywords": "digital detox screen time test digital dependency quiz"
+  },
+  {
+    "name": "Confidence Level Test",
+    "slug": "confidence-test",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Measure your self-confidence",
+    "keywords": "confidence test self confidence quiz self esteem test"
+  },
+  {
+    "name": "Self-Care Assessment",
+    "slug": "self-care-quiz",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Are you taking care of yourself?",
+    "keywords": "self care quiz am i taking care of myself self care assessment"
+  },
+  {
+    "name": "Life Satisfaction Score",
+    "slug": "life-satisfaction",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "How satisfied are you with life?",
+    "keywords": "life satisfaction how satisfied am i with life life satisfaction test"
+  },
+  {
+    "name": "Self-Love Score",
+    "slug": "love-yourself",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "How much do you love yourself?",
+    "keywords": "self love quiz how much do i love myself self love test"
+  },
+  {
+    "name": "Mindfulness Level",
+    "slug": "mindfulness-quiz",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "How mindful are you?",
+    "keywords": "mindfulness quiz how mindful am i mindfulness test"
+  },
+  {
+    "name": "Numerology Year Wellness",
+    "slug": "numerology-year-wellness",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Health focus for your personal year",
+    "keywords": "numerology wellness year personal year health numerology health forecast"
+  },
+  {
+    "name": "Power Animal Quiz",
+    "slug": "power-animal-quiz",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Your power animal for strength",
+    "keywords": "power animal power animal quiz what is my power animal"
+  },
+  {
+    "name": "Vitality Score",
+    "slug": "vitality-score",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Your physical and mental vitality",
+    "keywords": "vitality score wellness assessment how vital am i"
+  },
+  {
+    "name": "Astrology Wellness Plan",
+    "slug": "astrology-wellness",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Personalized wellness by birth chart",
+    "keywords": "astrology wellness zodiac wellness plan astrology health plan"
+  },
+  {
+    "name": "Abundance Mindset Quiz",
+    "slug": "abundance-mindset",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Do you have an abundance mindset?",
+    "keywords": "abundance mindset scarcity mindset mindset quiz"
+  },
+  {
+    "name": "Life Purpose Finder",
+    "slug": "life-purpose-quiz",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "What is your soul's purpose?",
+    "keywords": "life purpose what is my purpose soul purpose quiz"
+  },
+  {
+    "name": "Chakra Color Guide",
+    "slug": "chakra-color",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Colors of the 7 chakras",
+    "keywords": "chakra colors 7 chakra colors chakra color meaning"
+  },
+  {
+    "name": "Zodiac Exercise Guide",
+    "slug": "zodiac-exercise",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Best workouts for your zodiac sign",
+    "keywords": "zodiac exercise workout by zodiac astrology fitness"
+  },
+  {
+    "name": "Lucky Workout Day",
+    "slug": "lucky-workout-day",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Best days to exercise by sign",
+    "keywords": "lucky workout day best day to exercise astrology workout day"
+  },
+  {
+    "name": "Self-Compassion Test",
+    "slug": "self-compassion",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "How compassionate are you to yourself?",
+    "keywords": "self compassion test am i self compassionate self compassion quiz"
+  },
+  {
+    "name": "Social Battery Check",
+    "slug": "social-battery",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "How full is your social battery?",
+    "keywords": "social battery introvert energy social energy checker"
+  },
+  {
+    "name": "Moon Wellness Ritual",
+    "slug": "moon-wellness-ritual",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Monthly self-care by moon phase",
+    "keywords": "moon wellness ritual lunar self care moon ritual wellness"
+  },
+  {
+    "name": "Color of Your Soul",
+    "slug": "colour-of-soul",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Your soul color by numerology",
+    "keywords": "soul color color of my soul soul colour numerology"
+  },
+  {
+    "name": "Positive Trait Finder",
+    "slug": "positive-trait-finder",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "Discover your unique positive traits",
+    "keywords": "positive traits what are my strengths character strengths quiz"
+  },
+  {
+    "name": "Universal Year Number",
+    "slug": "number-of-year",
+    "category": "wellness",
+    "categoryName": "Wellness & Mind",
+    "categoryIcon": "🧘",
+    "tagline": "The universal energy of this year",
+    "keywords": "universal year number numerology 2025 numerology current year"
+  },
+  {
+    "name": "Word Counter",
+    "slug": "word-counter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Count words, characters, sentences instantly",
+    "keywords": "word counter word count tool online word counter"
+  },
+  {
+    "name": "Character Counter",
+    "slug": "character-counter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Count characters for any platform",
+    "keywords": "character counter character count letter counter"
+  },
+  {
+    "name": "Reading Time Calculator",
+    "slug": "reading-time",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "How long to read your text?",
+    "keywords": "reading time calculator how long to read read time estimator"
+  },
+  {
+    "name": "Text Case Converter",
+    "slug": "text-case-converter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Convert text case instantly",
+    "keywords": "text case converter uppercase lowercase converter case converter"
+  },
+  {
+    "name": "Find and Replace",
+    "slug": "find-replace",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Find and replace text instantly",
+    "keywords": "find and replace text find replace search replace text"
+  },
+  {
+    "name": "Remove Duplicate Lines",
+    "slug": "remove-duplicate-lines",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Remove duplicate lines from text",
+    "keywords": "remove duplicate lines delete duplicates text deduplicate lines"
+  },
+  {
+    "name": "Text Line Sorter",
+    "slug": "text-sorter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Sort lines alphabetically or by length",
+    "keywords": "text sorter sort lines alphabetical sorter"
+  },
+  {
+    "name": "Text Reverser",
+    "slug": "reverse-text",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Reverse text, words or letters",
+    "keywords": "reverse text text reverser backwards text generator"
+  },
+  {
+    "name": "Palindrome Checker",
+    "slug": "palindrome-checker",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Is your text a palindrome?",
+    "keywords": "palindrome checker is it a palindrome palindrome test"
+  },
+  {
+    "name": "Vowel Counter",
+    "slug": "vowel-counter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Count vowels in any text",
+    "keywords": "vowel counter count vowels vowel consonant counter"
+  },
+  {
+    "name": "Sentence Counter",
+    "slug": "sentence-counter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Count sentences in text",
+    "keywords": "sentence counter count sentences sentence number"
+  },
+  {
+    "name": "Paragraph Counter",
+    "slug": "paragraph-counter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Count paragraphs in text",
+    "keywords": "paragraph counter count paragraphs paragraph number"
+  },
+  {
+    "name": "Readability Score",
+    "slug": "readability-score",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Check how easy your text is to read",
+    "keywords": "readability score reading level flesch kincaid calculator"
+  },
+  {
+    "name": "Lorem Ipsum Generator",
+    "slug": "lorem-ipsum",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Generate placeholder text",
+    "keywords": "lorem ipsum generator placeholder text dummy text generator"
+  },
+  {
+    "name": "Random Word Generator",
+    "slug": "random-word",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Generate random words",
+    "keywords": "random word generator random words word generator"
+  },
+  {
+    "name": "Random Sentence Generator",
+    "slug": "random-sentence",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Generate random sentences",
+    "keywords": "random sentence generator random sentences sentence generator"
+  },
+  {
+    "name": "Random Paragraph Generator",
+    "slug": "random-paragraph",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Generate random paragraphs",
+    "keywords": "random paragraph generator random text paragraph generator"
+  },
+  {
+    "name": "Text Repeater",
+    "slug": "text-repeater",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Repeat text multiple times",
+    "keywords": "text repeater repeat text duplicate text"
+  },
+  {
+    "name": "Upside Down Text",
+    "slug": "upside-down-text",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Flip your text upside down",
+    "keywords": "upside down text flip text flipped text generator"
+  },
+  {
+    "name": "Fancy Text Generator",
+    "slug": "fancy-text",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Stylish Unicode text fonts",
+    "keywords": "fancy text generator unicode text cool text generator"
+  },
+  {
+    "name": "Morse Code Translator",
+    "slug": "morse-code",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Translate text to Morse code",
+    "keywords": "morse code translator text to morse code morse code converter"
+  },
+  {
+    "name": "Binary Text Converter",
+    "slug": "binary-converter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Convert text to binary code",
+    "keywords": "binary converter text to binary binary code translator"
+  },
+  {
+    "name": "Hex Text Converter",
+    "slug": "hex-converter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Convert text to hexadecimal",
+    "keywords": "hex converter text to hex hexadecimal converter"
+  },
+  {
+    "name": "Base64 Encoder/Decoder",
+    "slug": "base64-encoder",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Encode and decode Base64",
+    "keywords": "base64 encoder base64 decoder base64 converter"
+  },
+  {
+    "name": "URL Encoder/Decoder",
+    "slug": "url-encoder",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Percent-encode URLs",
+    "keywords": "url encoder url decoder percent encoding"
+  },
+  {
+    "name": "HTML Encoder/Decoder",
+    "slug": "html-encoder",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Escape HTML special characters",
+    "keywords": "html encoder html escape html entities encoder"
+  },
+  {
+    "name": "JSON Formatter",
+    "slug": "json-formatter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Format and validate JSON",
+    "keywords": "json formatter json validator format json"
+  },
+  {
+    "name": "XML Formatter",
+    "slug": "xml-formatter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Format and validate XML",
+    "keywords": "xml formatter xml validator format xml"
+  },
+  {
+    "name": "CSV to JSON Converter",
+    "slug": "csv-to-json",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Convert CSV data to JSON",
+    "keywords": "csv to json convert csv to json csv json converter"
+  },
+  {
+    "name": "Word Frequency Counter",
+    "slug": "word-frequency",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Count word frequency in text",
+    "keywords": "word frequency word count frequency most common words"
+  },
+  {
+    "name": "Keyword Density Checker",
+    "slug": "keyword-density",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Check keyword density for SEO",
+    "keywords": "keyword density checker keyword density seo keyword density"
+  },
+  {
+    "name": "Text Difference Checker",
+    "slug": "text-compare",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Compare two texts side by side",
+    "keywords": "text compare text diff compare two texts"
+  },
+  {
+    "name": "Text to Speech",
+    "slug": "text-to-speech",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Convert text to phonetic pronunciation",
+    "keywords": "text to speech pronunciation guide phonetic text"
+  },
+  {
+    "name": "URL Slug Generator",
+    "slug": "slug-generator",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Convert text to URL slug",
+    "keywords": "slug generator url slug text to slug"
+  },
+  {
+    "name": "Hashtag Generator",
+    "slug": "hashtag-generator",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Generate hashtags from text",
+    "keywords": "hashtag generator create hashtags hashtag maker"
+  },
+  {
+    "name": "Meta Description Checker",
+    "slug": "meta-description",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Check your meta description length",
+    "keywords": "meta description checker meta description length seo meta description"
+  },
+  {
+    "name": "Title Case Checker",
+    "slug": "title-case-checker",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Check proper title case",
+    "keywords": "title case checker headline case title capitalization"
+  },
+  {
+    "name": "Text Encryption",
+    "slug": "text-encryption",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Simple text cipher encryption",
+    "keywords": "text encryption caesar cipher rot13 encoder"
+  },
+  {
+    "name": "Acronym Generator",
+    "slug": "acronym-generator",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Create acronyms from phrases",
+    "keywords": "acronym generator create acronym make acronym"
+  },
+  {
+    "name": "Pig Latin Translator",
+    "slug": "pig-latin",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Translate text to Pig Latin",
+    "keywords": "pig latin translator pig latin converter pig latin generator"
+  },
+  {
+    "name": "Word Scrambler",
+    "slug": "word-scrambler",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Scramble words for games",
+    "keywords": "word scrambler scramble words anagram maker"
+  },
+  {
+    "name": "Sentence Builder",
+    "slug": "sentence-builder",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Build sentences from word parts",
+    "keywords": "sentence builder sentence maker build a sentence"
+  },
+  {
+    "name": "Alliteration Checker",
+    "slug": "alliteration-checker",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Find alliteration in text",
+    "keywords": "alliteration checker find alliteration alliteration finder"
+  },
+  {
+    "name": "Rhyme Finder",
+    "slug": "rhyme-finder",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Find rhyming words",
+    "keywords": "rhyme finder words that rhyme rhyming words"
+  },
+  {
+    "name": "Unique Word Counter",
+    "slug": "unique-word-counter",
+    "category": "text",
+    "categoryName": "Text & Word",
+    "categoryIcon": "✍️",
+    "tagline": "Count unique/distinct words",
+    "keywords": "unique word counter distinct words unique words text"
+  }
+]
